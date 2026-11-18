@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_destroy_d": "Busca en el sistema Endor y destruye diez cazas rebeldes. Cualquier X‑Wing, Y‑Wing, A‑Wing o B‑Wing rebelde servirá.",
+"quest_destroy_t": "Destruir diez cazas rebeldes",
+"quest_location_d": "Encuentra los cazas rebeldes en el sistema Endor.",
+"quest_location_t": "Viaja al sistema Endor",
+"split_quest_alert": "¡Tenemos una situación aquí! Nuestro transbordador de mando imperial está bajo un fuerte asalto. Procede inmediatamente al siguiente lugar e intercepta a los cazas atacantes.",
+"title": "Sistema Endor: Busca y destruye diez cazas rebeldes",
+"title_d": "Tenemos una pista sobre el buque de mando rebelde, pero el momento de atacarlo aún no ha llegado. Todavía no sabemos exactamente qué están haciendo los Rebeldes en este sistema. Pero el mando quiere empezar a reducir el número de Rebeldes en el sector. Busca en el sistema Endor y destruye diez cazas rebeldes."
+}

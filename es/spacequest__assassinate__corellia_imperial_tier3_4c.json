@@ -1,0 +1,23 @@
+{
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_escort_d": "",
+"quest_escort_t": "",
+"quest_location_d": "",
+"quest_location_t": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"quest_update": "%TO",
+"split_quest_alert": "",
+"title_d": "",
+"arrival_phase_1": "Esperando que llegue el objetivo.",
+"arrival_phase_2": "El objetivo ha llegado, procede al punto de ruta.",
+"assassinate_success": "La misión es un éxito.",
+"assigned_delayed": "Ve a Tatooine Space y mata a un ace rebelde.",
+"destroy_escort": "El objetivo principal ha sido destruido, elimina al escolta.",
+"escort_remaining": "Un vehículo escolta ha sido destruido.",
+"escort_wiped_out": "Todos los vehículos escolta han sido destruidos. Procede con el objetivo principal.",
+"failed_escape": "Has fallado porque el objetivo se ha escapado.",
+"title": "Asesinar ace rebelde"
+}

@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Busca y destruye cualquier A‑wing, B‑wing, Y‑wing, X‑wing o Z95 que encuentres en el sistema Endor. Destrúyelos hasta que la orden te informe que el transbordador señuelo está listo.",
+"quest_destroy_t": "Destruir cazas rebeldes",
+"quest_location_d": "Destruye los cazas dentro del sistema Endor. Tendrás que buscarlos en la zona.",
+"quest_location_t": "Permanece en el sistema Endor",
+"split_quest_alert": "El transbordador señuelo está todo preparado con la información falsa. Encuéntrate con el transbordador y ayúdale a atravesar el sistema. Para que los Rebeldes crean que contiene información real y valiosa, tendrás que hacer que parezca lo más auténtico posible. Destruye cuatro oleadas de ataque enemigas mientras escortas el transbordador. Esto debería convencer a los Rebeldes de que los planes que encontrarán en el transbordador son reales.",
+"title": "Sistema Endor: Busca y destruye cazas rebeldes",
+"title_d": "Para ayudar con la farsa de los planes imperiales falsos, necesitas destruir algunos de sus buques como si el Imperio estuviera en ofensiva. Busca y destruye cazas rebeldes hasta que la orden te contacte y te informe que el transbordador señuelo está listo."
+}

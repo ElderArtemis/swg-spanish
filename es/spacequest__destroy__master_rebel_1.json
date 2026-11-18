@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Busca y destruye cualquier 30 barcos de guerra imperiales, cazas TIE Advanced, TIE Aggressor, TIE Interceptor o TIE Oppressor.",
+"quest_destroy_t": "Destruir treinta cazas imperiales",
+"quest_location_d": "El área objetivo es el sistema Kessel. Debes viajar a Kessel y atacar a cualquier fuerza imperial que se encuentre dentro del sistema. Esto debiera debilitar a los imperiales, impidiéndoles fortificar el sistema correctamente.",
+"quest_location_t": "Viaja al sistema Kessel",
+"title": "Sistema Kessel: Busca y destruye cazas imperiales",
+"title_d": "El almirante Willham ha formulado un plan para tomar el control del sistema Kessel para la Alianza. Se te ha ordenado debilitar a las fuerzas imperiales que ya han ocupado posiciones dentro del sistema. Los agujeros negros del sistema hacen imposible obtener un bloqueo sobre barcos individuales, por lo que será necesario buscar y destruir todos los objetivos involucrados. Se te exige cazar cazas y pequeños buques de mando, sin incluir buques de capital. Los buques que debes destruir son variantes TIE y los barcos de guerra imperiales."
+}

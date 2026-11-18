@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Mantén la mirada en A-Wings, B-Wings, X-Wings, Y-Wings y buques de combate rebeldes para destruirlos. Necesitas destruir 30 de esos buques.",
+"quest_destroy_t": "Destruir treinta cazas rebeldes",
+"quest_location_d": "El sistema objetivo es Kessel. Debes viajar a Kessel y atacar cualquier fuerza rebelde que se encuentre en el sistema. Esto debilitará a los rebeldes para que no puedan fortificar el sistema correctamente.",
+"quest_location_t": "Viaja al Sistema Kessel",
+"title": "Sistema Kessel: Busca y Destruye Cazas Rebeldes",
+"title_d": "El Gran Almirante Nial Declann ha formulado un plan para tomar el control del sistema Kessel para el Imperio. Se te ha ordenado debilitar las fuerzas rebeldes que ya han ocupado posiciones dentro del sistema. Los agujeros negros del sistema hacen imposible obtener un bloqueo sobre barcos individuales, por lo que será necesario buscar y destruir todos los objetivos involucrados. Se te exige cazar cazas y buques de mando más pequeños, sin capitales. Los buques que debes destruir son X-Wings, B-Wings, A-Wings, Y-Wings y los buques de combate rebeldes."
+}

@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Elimina cuatro cadetes X-Wing. Si haces más que eso, podríamos perder la simpatía que hemos ganado.",
+"quest_destroy_t": "Destruir cuatro cadetes X-Wing",
+"quest_location_d": "El campo de entrenamiento está dentro del espacio de Corellia. Cuando llegues a ese espacio, comienza a buscar a los cadetes X-Wing. El comando imperial te ha suministrado varios puntos de ruta que te llevarán a zonas de mayor actividad rebelde.",
+"quest_location_t": "Viaja al Sistema Corellia",
+"split_quest_alert": "Aún no has terminado tu trabajo. A pesar de este contratiempo, esperamos que elimines cuatro de esos cadetes X-Wing.",
+"title": "Sistema Corellia: Busca y destruye cuatro cadetes X-Wing",
+"title_d": "Viaja al sistema Corellia, localiza y destruye cuatro cadetes X-Wing. Como el Imperio no sabe dónde se encuentran los cadetes X-Wing en el sistema Corellia, recibirás algunos puntos de ruta a zonas sospechosas de actividad rebelde. Puedes explorar el área alrededor de los puntos de ruta para ver si puedes localizar a los cadetes rebelde o buscar el sistema por tu cuenta. Cuando hayas localizado a los cadetes X-Wing, destruye cuatro de ellos. Cuando completes esta misión, regresa a Hakasha Sireen en la Base Imperial de Talus para tu siguiente asignación."
+}

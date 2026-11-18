@@ -1,0 +1,23 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_escort_d": "",
+"quest_escort_t": "",
+"quest_location_d": "",
+"quest_location_t": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"quest_update": "%TO",
+"split_quest_alert": "",
+"title_d": "",
+"arrival_phase_1": "El objetivo llegará pronto, mantente atento al waypoint.",
+"arrival_phase_2": "El objetivo y la escolta han llegado, actualizando waypoint.",
+"assassinate_success": "El objetivo y la escolta han sido destruidos, misión exitosa.",
+"destroy_escort": "El objetivo principal ha sido destruido, continúa con la escolta.",
+"escort_remaining": "Un vehículo de escolta ha sido destruido, quedan %DI.",
+"escort_wiped_out": "La escolta ha sido destruida, procede al objetivo principal.",
+"failed_escape": "El objetivo se ha escapado, fallaste.",
+"title": "Asesinar contacto rebelde"
+}

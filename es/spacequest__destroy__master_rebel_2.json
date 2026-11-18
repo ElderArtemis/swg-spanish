@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_destroy_d": "Para asegurar que la Alianza pueda controlar el sistema Kessel, el buque de mando imperial, un crucero de clase Corcel de Corellia, debe ser destruido. Localiza el crucero y destrúyelo. Para destruir una nave capital, debes apuntar y destruir cada subcomponente de la nave.",
+"quest_destroy_t": "Destruir el Crucero Imperial Corellian",
+"quest_location_d": "El grupo de combate imperial se ha instalado en el sistema Kessel. Debido a los agujeros negros de la región, su buque de mando está fácilmente oculto a la detección a larga distancia, por lo que debes explorar el sistema hasta encontrar el corcel imperial.",
+"quest_location_t": "Viajar al Sistema Kessel",
+"title": "Sistema Kessel: Busca y Destruye el Crucero Imperial",
+"title_d": "Ahora que las fuerzas imperiales en la zona han sido reducidas, hay una mejor oportunidad de destruir el buque de mando imperial. El grupo de combate imperial contiene un crucero de clase Corcel de Corellia. El plan del Almirante Willham es destruir el corcel, debilitando la ofensiva imperial en el sistema Kessel. Sin el apoyo de su nave capital, los imperiales no tendrán más opción que retirar sus fuerzas de la zona."
+}

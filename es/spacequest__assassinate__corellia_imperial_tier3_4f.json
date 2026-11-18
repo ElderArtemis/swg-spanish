@@ -1,0 +1,23 @@
+{
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_escort_d": "",
+"quest_escort_t": "",
+"quest_location_d": "",
+"quest_location_t": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"quest_update": "%TO",
+"split_quest_alert": "",
+"title_d": "",
+"arrival_phase_1": "Esperando la llegada del objetivo",
+"arrival_phase_2": "El objetivo ha llegado a la zona, procede al punto de ruta",
+"assassinate_success": "Se ha alcanzado el objetivo principal",
+"assigned_delayed": "Destruye al contrabandista rebelde en el espacio de Dantooine",
+"destroy_escort": "Se ha destruido el objetivo principal, procede al objetivo secundario",
+"escort_remaining": "Se ha destruido un vehículo de escolta, quedan %DI",
+"escort_wiped_out": "Se ha destruido la escolta, procede al objetivo principal",
+"failed_escape": "Has fallado porque el objetivo se ha escapado",
+"title": "Destruir contrabandista rebelde"
+}

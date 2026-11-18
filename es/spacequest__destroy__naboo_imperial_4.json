@@ -1,0 +1,14 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Encuentra al líder rebelde en la ubicación Nav indicada. Si no está cuando llegues, destruye los xwing en el lugar y enviarán una señal de socorro a la que él seguramente responderá. Una vez lo hayas eliminado, vuelve a tu oficial de mando.",
+"quest_destroy_t": "Destruir al líder rebelde",
+"quest_location_d": "Los informes de inteligencia indican que el líder rebelde sigue ubicado dentro del sector Naboo. Han suministrado un punto de ruta Nav a su última ubicación conocida. Busca en esa zona al líder rebelde.",
+"quest_location_t": "Viajar al sector Naboo",
+"title": "Eliminar al líder del equipo rebelde",
+"title_d": "La Inteligencia Imperial tiene una pista sobre la ubicación del líder del equipo rebelde que intentaba capturar un envío de los E-62. La rebelión no puede permitirse estos ataques a intereses imperiales y el líder de esta incursión debe ser destruido. Tu misión es cazar y destruir al líder de la ofensiva rebelde."
+}

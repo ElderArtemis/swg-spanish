@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Se han reportado piratas del Sol Negro en o alrededor de estas zonas, destrúyelos si están presentes.",
+"quest_destroy_t": "Zonas de actividad del Sol Negro",
+"quest_location_d": "Busca en los puntos de ruta del sistema proporcionados concentraciones de actividad del Sol Negro.",
+"quest_location_t": "Sistema Naboo",
+"split_quest_alert": "\\#pcontrast3 Capt Dinge: < \\#pcontrast1 Pareces haber encontrado un pequeño problema allá, Capitán.  Repara tus heridas y elimina a esos piratas del Sol Negro. \\#pcontrast3 >",
+"split_quest_alert_fail": "\\#pcontrast3 Capt Dinge: < \\#pcontrast1 Pareces haber encontrado un pequeño problema allá, Capitán.  Repara tus heridas y elimina a esos piratas del Sol Negro. \\#pcontrast3 >",
+"title": "Sistema Naboo: Busca y destruye a los piratas del Sol Negro",
+"title_d": "Visita algunos de los puntos de ruta proporcionados y destruye cualquier presencia del Sol Negro que encuentres. Cuando completes esta misión, regresa al Capitán Dinge en el Palacio de Theed para tu siguiente asignación."
+}

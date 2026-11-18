@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"Quest Log Data": "Texto",
+"quest_destroy_d": "Se han reportado piratas del Sol Negro en o alrededor de estas áreas, destrúyelos si están presentes.",
+"quest_destroy_t": "Áreas de actividad del Sol Negro",
+"quest_location_d": "Busca en los puntos de ruta del sistema proporcionados concentraciones de actividad del Sol Negro.",
+"quest_location_t": "Sistema Corellia",
+"split_quest_alert": "\\#pcontrast3 Sgt Rhea: < \\#pcontrast1 Pareces haber tenido un pequeño problema allá fuera Capitán.  Repara tus heridas y caza a esos piratas del Sol Negro. \\#pcontrast3 >",
+"split_quest_alert_fail": "\\#pcontrast3 Sgt Rhea: < \\#pcontrast1 Pareces haber tenido un pequeño problema allá fuera Capitán.  Repara tus heridas y caza a esos piratas del Sol Negro. \\#pcontrast3 >",
+"title": "Sistema Corellia: Buscar y destruir piratas del Sol Negro",
+"title_d": "Visita algunos de los puntos de ruta proporcionados y destruye cualquier presencia del Sol Negro que encuentres. Cuando completes esta misión, regresa a la Sargento Rhea en Coronet para tu siguiente asignación."
+}

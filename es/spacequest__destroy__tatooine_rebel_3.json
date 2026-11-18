@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_d": "Los cazas TIE que te atacaron en tu primera exploración de sensores se están reuniendo en el sistema de Tatooine para un asalto mayor. Localízalos y elimina al menos cuatro (4).",
+"quest_destroy_d": "El caza TIE imperial está diseñado para ser barato y fiable. No tiene sistema de escudos ni armadura pesada, pero compensa eso con velocidad y agilidad. Los cazas TIE solitarios son difíciles de encontrar; suelen viajar en grandes grupos para ser una amenaza mayor.",
+"quest_destroy_t": "Caza TIE.",
+"quest_location_d": "El sistema de Tatooine no tiene una presencia imperial pesada, pero está lleno de bribones, piratas y cazarrecompensas, así que no te relajes demasiado.",
+"quest_location_t": "Sistema de Tatooine.",
+"quest_t": "Caza cazas TIE",
+"split_quest_alert": "¡Comando Rebelde: < No dejes que te derroten, piloto. Vuelve a la zona y demuéstrales que la Alianza no se rinde ante nadie! >",
+"title": "Sistema de Tatooine: Caza cazas TIE.",
+"title_d": "Los cazas TIE que te atacaron en tu primera exploración de sensores se están reuniendo para un asalto mayor. Caza cazas TIE en el sistema de Tatooine y destruye cuatro (4) de ellos para enviar un mensaje al Imperio y hacerles pensar dos veces antes de cualquier contraataque. Cuando completes esta misión, regresa al Comandante Da'la Socuna en la sala trasera de la cantina de Mos Espa para tu siguiente asignación."
+}

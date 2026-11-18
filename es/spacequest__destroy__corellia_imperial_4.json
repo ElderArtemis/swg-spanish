@@ -1,0 +1,14 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"Quest Log Data": "Texto",
+"quest_destroy_d": "Una vez que llegues al área de pruebas, demuéstrales a los rebeldes que el Imperio no teme a su nuevo bombardero. Destruye la nave. Cuando hayas terminado, vuelve a tu oficial de mando.",
+"quest_destroy_t": "Destruir el prototipo B‑Wing",
+"quest_location_d": "El B‑Wing se está probando en el sector Corelliano, más allá de los boyas de seguridad locales para evitar ser detectado. La Inteligencia Imperial ha estado al tanto de estos terrenos de prueba desde el inicio del proyecto y dispone de toda la información necesaria sobre el prototipo. Viaja a la ubicación Nav que te han suministrado para llegar a los terrenos de entrenamiento.",
+"quest_location_t": "Viaja al sector Corelliano",
+"title": "Destruir prototipo B‑Wing",
+"title_d": "Los rebeldes han estado probando una nueva nave espacial en el sector Corelliano. El Imperio está bien informado de la existencia de este caza estelar y quiere enviar un mensaje a los rebeldes. Debes viajar al área de pruebas del prototipo B‑Wing y destruir la nave de prueba."
+}

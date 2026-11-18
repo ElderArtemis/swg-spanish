@@ -1,0 +1,14 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_destroy_d": "El Orden Zynt'aia ha reclamado a la fuerza el campo minero cercano a la base de A'Lerris. Mi deber es eliminar a varios piratas para restaurar el equilibrio del campo minero. Los cargueros y mineros podrán continuar su trabajo.",
+"quest_destroy_t": "Destruir a los piratas Zynt'aia",
+"quest_location_d": "Me ha ordenado A'Lerris viajar al Sistema Tatoo, si aún no estoy allí.",
+"quest_location_t": "Viajar al Sistema Tatoo",
+"split_quest_alert": "\\#pcontrast1 A'Lerris Verata:\\#pcontrast3 < Queremos que continúes tu tarea, piloto, aunque en una zona distinta. Has hecho bien. Pronto transmitiré la información adicional que necesitarás para seguir con tu misión. >",
+"title": "Sistema Tatoo: Los Despiertos: Orden Zynt'aia",
+"title_d": "A'Lerris Verata, la fuerte líder de los esfuerzos mineros en el Sistema Tatoo, me ha informado de sus preocupaciones respecto al Orden Zynt'aia Despierto. Debido a mi presencia y a mi ayuda con los esfuerzos mineros, los piratas Zynt'aia han empezado a lanzar ataques inesperados y sigilosos contra los mineros pacíficos. Mi deber, según la directiva de A'Lerris, es eliminar la influencia Zynt'aia del campo minero. Desafortunadamente, parece que el Orden Zynt'aia se ha activado y se ha instalado para reclamar el campo, destruyendo cargueros y mineros por igual sin pensarlo. Es hora de extinguir la influencia y restablecer el equilibrio."
+}

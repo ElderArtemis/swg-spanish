@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_destroy_d": "Busca en el sistema Naboo a cuatro cadetes de X-wing rebeldes. Cuando hayas terminado, vuelve a tu oficial de mando.",
+"quest_destroy_t": "Destruir cuatro cadetes de X-wing",
+"quest_location_d": "Nuestros informes indican que una escuadra de cadetes de X-wing rebeldes se ha trasladado al sistema Naboo. El mando imperial te ha suministrado varias áreas que podrían ser un buen punto de partida para tu búsqueda.",
+"quest_location_t": "Viajar al sistema Naboo",
+"split_quest_alert": "Aún no has terminado tu trabajo. Aunque hayas fallado, todavía esperamos que mates a cuatro cadetes de X-wing. Vuelve a trabajar.",
+"title": "Sistema Naboo: Busca y destruye cadetes de X-wing",
+"title_d": "Viaja al sistema Naboo, localiza y destruye a cuatro cadetes de X-wing. Como el Imperio no sabe dónde se encuentran los cadetes en el sistema Naboo, recibirás varios puntos de ruta de navegación a áreas sospechosas de actividad rebelde. Puedes explorar las zonas alrededor de los puntos de ruta para ver si puedes localizar a los cadetes rebeldes o simplemente buscar en el sistema tú mismo. Cuando completes esta misión, vuelve a la teniente Barn Sinkko en Kadaara para tu siguiente asignación."
+}

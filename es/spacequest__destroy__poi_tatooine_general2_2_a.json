@@ -1,0 +1,14 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_destroy_d": "A'Lerris ha transmitido un nuevo sector en el que debo extinguir la influencia de la Orden Zynt'aia. Una vez que haya completado mi misión, el equilibrio se restablecerá y los mineros podrán continuar su trabajo sin miedo.",
+"quest_destroy_t": "Destruir a los piratas Zynt'aia",
+"quest_location_d": "Mi tarea me dirige al Sistema Tatoo. Debo viajar allí si aún no lo he hecho y completar mi misión según las indicaciones.",
+"quest_location_t": "Permanece en el Sistema Tatoo",
+"split_quest_alert": "\\#pcontrast1 A'Lerris Verata:\\#pcontrast3 < Piloto. Escucha con atención, esta es una misión altamente sensible y debe llevarse a cabo con la máxima precaución. Hemos sido contactados por la tripulación capturada de uno de nuestros cargueros desaparecidos. Parece que los piratas Zynt'aia han tomado un carguero y a su tripulación como rehenes. Es tu deber rescatarlo y llevarlo de vuelta. Por favor, ten cuidado. Contamos únicamente contigo. >",
+"title": "Sistema Tatoo: Extinguir la Influencia",
+"title_d": "A'Lerris me ha instruido a pasar a otro sector para continuar mi trabajo. Ha transmitido sin esfuerzo la información que necesito para encontrar mi objetivo y continuaré con mi tarea con poca interrupción."
+}

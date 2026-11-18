@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_destroy_d": "Para asegurar que el Imperio pueda controlar el sector Kessel, el buque de mando de los Rebeldes, un crucero de clase Corvette Corelliano, debe ser destruido. Localiza la Corvette y destrúyela. Para destruir una nave capital, debes atacar y destruir cada subcomponente de la nave.",
+"quest_destroy_t": "Destruir la Corvette Corelliana Rebelde",
+"quest_location_d": "El grupo de combate rebelde se ha instalado en el sistema Kessel. Debido a los agujeros negros de la región, su buque de mando está fácilmente oculto a la detección de largo alcance, por lo que debes explorar el sector hasta encontrar la corbeta rebelde.",
+"quest_location_t": "Viajar al Sistema Kessel",
+"title": "Sistema Kessel: Busca y Destruye la Corvette Rebelde",
+"title_d": "Ahora que las fuerzas rebeldes en la zona han sido reducidas, hay una mejor oportunidad de que el buque de mando rebelde pueda ser destruido. El grupo de combate rebelde contiene un crucero estelar de clase Corvette Corelliano. El plan del Gran Almirante Nial Declann es destruir la corbeta, debilitando la ofensiva rebelde en el sistema Kessel. Sin el apoyo de su nave capital, los Rebeldes no tendrán otra opción que retirar sus fuerzas de la zona."
+}

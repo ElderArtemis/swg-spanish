@@ -1,0 +1,23 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_escort_d": "",
+"quest_escort_t": "",
+"quest_location_d": "",
+"quest_location_t": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"quest_update": "%TO",
+"title_d": "",
+"arrival_phase_1": "Localizando objetivo",
+"arrival_phase_2": "Objetivo localizado, procede al punto de ruta.",
+"assassinate_success": "El objetivo ha sido destruido, éxito.",
+"destroy_escort": "Objetivo principal completado. Termina de eliminar el buque escolta.",
+"escort_remaining": "Quedan todavía %DI buques en la escolta.",
+"escort_wiped_out": "Todos los buques escolta han sido destruidos. Procede al objetivo principal.",
+"failed_escape": "Has fallado porque el objetivo se ha escapado.",
+"split_quest_alert": "Prepárate para la misión dividida",
+"title": "Asesinar piloto"
+}
