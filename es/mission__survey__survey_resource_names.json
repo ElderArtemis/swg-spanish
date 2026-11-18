@@ -1,0 +1,19 @@
+{
+"fuel_petrochem_liquid": "Combustible petroquímico líquido",
+"fuel_petrochem_solid": "Petroquímicos sólidos",
+"gas": "Gas",
+"gas_inert": "Gas inerte",
+"gas_reactive": "Gas reactivo",
+"gemstone_armophous": "Gema armofusa",
+"gemstone_crystalline": "Gema cristalina",
+"metal": "Metal",
+"metal_ferrous": "Metal ferroso",
+"metal_nonferrous": "Metal no ferroso",
+"ore": "Mineral",
+"ore_extrusive": "Mineral extrusivo",
+"ore_igneous": "Mineral ígneo",
+"ore_sedimentary": "Mineral sedimentario",
+"ore_siliclastic": "Mineral siliclástico",
+"petrochem_inert": "Petroquímicos inertes",
+"radioactive": "Radioactivos"
+}
