@@ -1,0 +1,5 @@
+{
+"failed_items_disallowed": "¡La transferencia del personaje falló porque uno o más objetos del inventario no están permitidos para transferir. Los contenedores de fábrica y los contenedores de recursos son ejemplos de objetos que no se transferirán. Consulta los términos de servicio para obtener una lista definitiva de los objetos que no se transferirán.",
+"failed_jedi": "¡La transferencia de tu personaje falló. Los personajes Jedi no están permitidos para transferirlos!",
+"failed_subject": "¡Transferencia del personaje falló!"
+}

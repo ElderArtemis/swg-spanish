@@ -1,0 +1,9 @@
+{
+"bile_already": "Ya tienes una buena muestra de bilis.  Probablemente no sea prudente arriesgarte a conseguir más.",
+"bile_fail": "No consigues suficiente bilis para recoger.  Debes esperar a que se acumule más.",
+"bile_success": "A pesar de estar casi abrumado por el hedor de la descomposición y los tentáculos que se extienden, consigues una muestra suficiente de bilis.",
+"extract_bile": "Extraer bilis",
+"sarlacc_dot": "De repente te sientes débil y enfermo.",
+"sarlacc_erupt": "El Sarlacc estalla de golpe, lanzando una sustancia enferma y corrosiva al aire!",
+"sarlacc_poison": "El aire está cargado con el olor a putrefacción y enfermedad."
+}

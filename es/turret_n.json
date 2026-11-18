@@ -1,0 +1,12 @@
+{
+"base": "una torreta",
+"block_large": "una torreta de bloque grande",
+"block_medium": "una torreta de bloque media",
+"block_small": "una torreta de bloque pequeña",
+"dish_large": "una torreta de plato grande",
+"dish_medium": "una torreta de plato media",
+"dish_small": "una torreta de plato pequeña",
+"tower_large": "una torreta de torre grande",
+"tower_medium": "una torreta de torre media",
+"tower_small": "una torreta de torre pequeña"
+}

@@ -1,0 +1,17 @@
+{
+"acquired_gas": "Has adquirido los gases filtrados. Regresa con ellos a Kole.",
+"acquired_hard_drive": "Has adquirido la Información de Investigación, necesitas encontrar los IMGGCU's.",
+"acquired_imggcu": "Has adquirido los IMGGCU's, necesitas encontrar la Información de Investigación.",
+"acquired_memory": "Has adquirido el Módulo de Memoria del Droide. Devuélvelo a Jinkins.",
+"all_nym_needed": "Tienes todo lo necesario para volver a Nym.",
+"cant_get_filter": "Está bien bloqueado ahí dentro...",
+"cant_get_module": "No puedes sacar el módulo del droide...",
+"card_loser": "Has perdido. Tus créditos se entregan al ganador del juego.",
+"card_tie": "Tu apuesta ha sido devuelta porque el juego terminó en empate.",
+"card_winner": "Los créditos han sido depositados en tu cuenta bancaria por la victoria.",
+"hack_computer": "No puedes entrar a esta zona hasta que el ordenador haya sido hackeado.",
+"inventory_fiull_imggcu": "No tienes espacio en tu inventario para los IMGGCU.",
+"inventory_full_gas": "No tienes espacio en tu inventario para el contenedor de gas.",
+"inventory_full_hd": "No tienes espacio en tu inventario para el disco duro.",
+"need_passkey": "No puedes entrar al Laboratorio de Investigación sin la Llave de Acceso."
+}

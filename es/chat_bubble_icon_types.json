@@ -1,0 +1,22 @@
+{
+"evil": "",
+"evil2": "",
+"sad": "",
+"chatter": "babble\nchatter\ndrone\nprattle\nramble\ndrivel\ngab\ngossip\nblab\njaw\nchat\nyack\n",
+"double_ring": "demand\ndecree\nproclaim\nstate\npreach\ncommand\nprophesize\nlecture",
+"droid": "jabber\ntattle",
+"exclaim": "exclaim\ninterject\nblurt\ninterrupt\nyelp\nshrill",
+"icy": "retort\nhuff",
+"moan": "mumble\ncomplain\nmoan",
+"poetry": "recite",
+"sarcastic": "jest\nparrot\nriddle\nboast",
+"scream": "howl\nscream\nwail\n",
+"shout": "shout\nyell\nbellow\nvent\nannounce",
+"sing2": "sing",
+"sing3": "rap",
+"social": "social",
+"stutter": "stutter\ndrawl\nlisp\nslur\nbleat",
+"thought": "emote\nmuse\ntheorize\nconclude\nsurmise\nhypothesize\nsuppose\nthink",
+"threaten": "threaten",
+"whisper": "whisper\nmouth\nconfide\nconfess"
+}
