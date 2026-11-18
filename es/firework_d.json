@@ -1,0 +1,17 @@
+{
+"base": "Fuegos artificiales",
+"firework_five": "Un dispositivo de fuegos artificiales de tipo 5 que explota en el aire.",
+"firework_four": "Un dispositivo de fuegos artificiales de tipo 4 que explota en el aire.",
+"firework_one": "Un dispositivo de fuegos artificiales de tipo 1 que explota en el aire.",
+"firework_s01": "Un dispositivo de fuegos artificiales de tipo 1 que explota en el aire.",
+"firework_s02": "Un dispositivo de fuegos artificiales de tipo 2 que explota en el aire.",
+"firework_s03": "Un dispositivo de fuegos artificiales de tipo 3 que explota en el aire.",
+"firework_s04": "Un dispositivo de fuegos artificiales de tipo 4 que explota en el aire.",
+"firework_s05": "Un dispositivo de fuegos artificiales de tipo 5 que explota en el aire.",
+"firework_s10": "Un dispositivo de fuegos artificiales de tipo 10 que explota en el aire.",
+"firework_s11": "Un dispositivo de fuegos artificiales de tipo 11 que explota en el aire.",
+"firework_s18": "Un dispositivo de fuegos artificiales de tipo 18 que explota en el aire.",
+"firework_three": "Un dispositivo de fuegos artificiales de tipo 3 que explota en el aire.",
+"firework_two": "Un dispositivo de fuegos artificiales de tipo 2 que explota en el aire.",
+"show": "Un paquete para crear espectáculos de fuegos artificiales. Una vez creado, un espectáculo coreografiado puede usarse para ofrecer un entretenimiento visual deslumbrante."
+}

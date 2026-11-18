@@ -1,0 +1,23 @@
+{
+"accept_subject": "Nuevo miembro de la hermandad aceptado",
+"accept_target_subject": "Aceptado en la hermandad",
+"accept_target_text": "%TU te ha aceptado en %TT como miembro.",
+"accept_text": "%TU ha aceptado a %TT en la hermandad como miembro.",
+"decline_subject": "Miembro patrocinado rechazado",
+"decline_target_subject": "Patrocinio de la hermandad rechazado",
+"decline_target_text": "%TU ha rechazado tu patrocinio para %TT.",
+"decline_text": "%TU ha rechazado a %TT para la membresía en la hermandad.",
+"disband_not_enough_members_text": "La hermandad se ha disuelto por falta de miembros.",
+"disband_subject": "Hermandad disuelta",
+"disband_text": "La hermandad ha sido disuelta por %TU.",
+"kick_subject": "Miembro de la hermandad eliminado",
+"kick_text": "%TU ha eliminado a %TT de la hermandad.",
+"leaderchange_subject": "Líder de la hermandad cambiado",
+"leaderchange_text": "%TU es el nuevo líder de la hermandad.",
+"leave_subject": "Miembro abandonó la hermandad",
+"leave_text": "%TU se ha retirado de la hermandad.",
+"namechange_subject": "Nombre de la hermandad cambiado",
+"namechange_text": "%TO ha renombrado la hermandad a %TU <%TT>.\n",
+"sponsor_subject": "Patrocinio de la hermandad",
+"sponsor_text": "%TU ha patrocinado a %TT para la membresía en la hermandad."
+}

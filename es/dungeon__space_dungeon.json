@@ -1,0 +1,23 @@
+{
+"corellian_corvette_travel_fail": "La corbeta corelliana está fuera del rango de transporte, lo que hace imposible la traslación.",
+"corvette_imperial": "una corbeta corelliana controlada por los rebeldes",
+"corvette_imperial_pilot": "Habla con un piloto imperial en el Retiro del Emperador.",
+"corvette_neutral": "una corbeta corelliana controlada por la CSF",
+"corvette_neutral_pilot": "Habla con Klaatu en el Palacio de Jabba.",
+"corvette_rebel": "una corbeta corelliana controlada por los imperiales",
+"corvette_rebel_pilot": "Habla con el teniente Lance en la Base de la Alianza.",
+"dungeon_ticket": "Formulario de Autorización de Viaje",
+"dungeon_ticket_d": "Parece contener la autorización necesaria para viajar a un lugar restringido.",
+"illegal_ticket": "Esa no es la autorización de viaje adecuada.",
+"no_collector": "No hay nadie que acepte tu autorización de viaje.",
+"no_room_remaining": "Hay demasiadas personas en esta zona. Se ha iniciado la devolución de transporte.",
+"no_ticket": "No tienes la autorización adecuada para acceder a la %TO.",
+"not_authorized": "No tienes la autorización adecuada para estar en esta zona.",
+"request_travel": "Presenta la Autorización de Viaje",
+"request_travel_outstanding": "Ya tienes una solicitud de viaje pendiente.",
+"test_dungeon": "Mazmorra de Prueba",
+"test_failure": "El viaje a la mazmorra espacial ha fallado.",
+"test_success": "El viaje a la mazmorra espacial ha sido exitoso.",
+"unable_to_find_dungeon": "Esa zona no está disponible actualmente. Por favor, inténtalo de nuevo más tarde.",
+"validating_ticket": "Validando autorización de viaje. Por favor, espera..."
+}

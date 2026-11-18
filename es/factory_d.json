@@ -1,0 +1,11 @@
+{
+"armor_crate": "Esta es una caja de fábrica con artículos relacionados con la armadura.",
+"chemicals_crate": "Esta es una caja de fábrica con artículos relacionados con productos químicos.",
+"clothing_factory_crate": "Esta es una caja de fábrica con artículos relacionados con la ropa.",
+"electronics_crate": "Esta es una caja de fábrica con artículos electrónicos.",
+"food_crate": "Esta es una caja de fábrica con alimentos.",
+"furniture_crate": "Esta es una caja de fábrica con artículos de mobiliario.",
+"generic_items_crate": "Esta es una caja de fábrica con artículos diversos.",
+"installation_crate": "Esta es una caja de fábrica con artículos relacionados con estructuras e instalaciones.",
+"weapon_factory_crate": "Esta es una caja de fábrica con artículos relacionados con armas."
+}

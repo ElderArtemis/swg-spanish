@@ -1,0 +1,16 @@
+{
+"accept_self": "Aceptas el desafío de %TT.",
+"accept_target": "%TT acepta tu desafío.",
+"already_challenged": "Ya has desafiado a %TT a un duelo.",
+"already_dueling": "Ya estás dueling a %TT.",
+"cancel_self": "Cancelas tu desafío a %TT.",
+"challenge_self": "Desafías a %TT a un duelo.",
+"challenge_target": "%TT te desafía a un duelo.",
+"end_self": "Terminas tu duelo con %TT.",
+"end_target": "%TT termina tu duelo.",
+"not_dueling": "No estás dueling a %TT.",
+"not_here": "No puedes dueling aquí.",
+"reject_self": "Rechazas el desafío de %TT.",
+"reject_target": "%TT rechaza tu desafío.",
+"cancel_target": "%TT cancela el reto de %PT."
+}

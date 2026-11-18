@@ -1,0 +1,18 @@
+{
+"clothing_dispenser": "Dispensador de ropa",
+"food_dispenser": "Dispensador de comida",
+"instrument_dispenser": "Dispensador de instrumentos",
+"insufficient_funds": "No tienes suficientes créditos para realizar la compra.",
+"invalid_selection": "Esa selección no es válida.",
+"inventory_full": "Tu inventario está lleno. Debes hacer espacio antes de poder comprar.",
+"medicine_dispenser": "Dispensador de medicina",
+"nothing_to_buy": "No hay nada que comprar en este dispensador.",
+"purchase_clothing": "Comprar ropa",
+"purchase_complete": "Compra completada.",
+"purchase_food": "Comprar comida",
+"purchase_instrument": "Comprar instrumento",
+"purchase_medicine": "Comprar medicina",
+"purchase_tool": "Comprar herramienta",
+"select_purchase": "Elige tu compra. Todos los artículos cuestan 5 créditos.",
+"tool_dispenser": "Dispensador de herramientas"
+}

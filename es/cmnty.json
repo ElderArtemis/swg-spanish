@@ -1,0 +1,12 @@
+{
+"friend_added": "%TT ahora es tu amigo.",
+"friend_duplicate": "%TT ya está en tu lista de amigos.",
+"friend_fail_already_in_list_old": "%TT ya está en tu lista de amigos.",
+"friend_fail_is_ignored": "%TT está siendo ignorado, no se puede añadir a tu lista de amigos.",
+"friend_not_found": "%TT no es un nombre válido de amigo.",
+"friend_removed": "%TT ya no es tu amigo.",
+"ignore_added": "%TT ahora está ignorado.",
+"ignore_duplicate": "%TT ya está en tu lista de ignorados.",
+"ignore_not_found": "%TT no es un nombre válido de ignorado.",
+"ignore_removed": "%TT ya no está ignorado."
+}

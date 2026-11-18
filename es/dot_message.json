@@ -1,0 +1,19 @@
+{
+"decrease_bleeding": "Tu sangrado ha disminuido.",
+"decrease_diseased": "La gravedad de tu enfermedad ha disminuido.",
+"decrease_fire": "Las llamas a tu alrededor se debilitan.",
+"decrease_poisoned": "La gravedad de tu veneno ha disminuido.",
+"dot_resisted": "%TT resiste los efectos!",
+"increase_bleeding": "¡Has sufrido más sangrado!",
+"increase_diseased": "¡Has sufrido más enfermedad!",
+"increase_fire": "¡El fuego sobre ti se intensifica!",
+"increase_poisoned": "¡Has sufrido más veneno!",
+"start_bleeding": "¡Empiezas a sangrar!",
+"start_diseased": "¡Te has infectado!",
+"start_fire": "¡Te has incendiado!",
+"start_poisoned": "¡Te has envenenado!",
+"stop_bleeding": "Tu sangrado se ha detenido.",
+"stop_diseased": "Tu enfermedad ha disminuido.",
+"stop_fire": "Las llamas a tu alrededor se apagan.",
+"stop_poisoned": "Tu veneno ha disminuido."
+}

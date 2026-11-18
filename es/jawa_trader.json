@@ -1,0 +1,15 @@
+{
+"bye": "...",
+"greeting": "...",
+"trade": "...",
+"cant_understand": "No entiendes lo que dice este Jawa.",
+"goodbye": "El Jawa me desea un buen viaje y me dice que vuelva si encuentro algo que le interese.",
+"greeting_thought_01": "Parece que este Jawa está interesado en comprar diversos productos y está dispuesto a pagar precios bastante buenos por ellos. Quizá tenga algo que él quiera comprar. Me pregunto si debería aprovechar su oferta.",
+"greeting_thought_02": "Parece que este Jawa realmente busca comprar armas que no se puedan rastrear. Eso es algo raro. Nunca había oído que los Jawas intentaran entrar en el negocio de armas. Mejor no dejen que Jabba se entere de su pequeña operación. Me pregunto si debería venderles o no.",
+"greeting_thought_03": "Este Jawa está interesado en comprar ropa y joyería. Probablemente sea un buen mercado para ropa usada, pero no estoy seguro de la joyería. Ah, los Jawas generalmente no compran algo que no puedan revender por el doble de lo que pagaron. Quizá debería ver si tengo algo que les guste.",
+"greeting_thought_bounty": "Los Jawas han tenido muchos problemas con los Sand People últimamente. Los Tuskens han atacado varios de sus centros comerciales e incluso han intentado atacar algunos de sus crawlers. Este quiere que ayude con el problema de los Tuskens y a cambio los Jawas comprarán cualquier equipo Tusken como prueba de que he estado ayudando. Me pregunto si tengo algún equipo Tusken en mi poder que les interese.",
+"no": "No.",
+"start_trading": "Él va a mirar lo que tengo para vender y ver si hay algo que le interese. Me hará una oferta por cualquier cosa que le interese. Mejor mantengo un ojo atento, las cosas parecen desaparecer cuando los Jawas están cerca.",
+"understand": "Tu habilidad para entender idiomas te permite descifrar lo que dice este Jawa.",
+"yes": "Sí."
+}

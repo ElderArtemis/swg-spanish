@@ -1,0 +1,6 @@
+{
+"aborted": "Tu intento de cerrar sesión de forma segura ha sido abortado.",
+"must_be_sitting": "Debes estar sentado para cerrar sesión de forma segura.",
+"safe_to_log_out": "Ahora puedes cerrar sesión de forma segura.",
+"time_left": "Te quedan %DI segundos hasta que puedas cerrar sesión de forma segura."
+}

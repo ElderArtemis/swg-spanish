@@ -1,0 +1,16 @@
+{
+"equil": "equilibrio",
+"equil_active": "Con pura fuerza de voluntad, te obligas a entrar en un estado de equilibrio.",
+"equil_wait": "Aún te estás recuperando de tu última equilibración. Comando disponible en %DI segundos.",
+"innate_na": "El parámetro de comando innato '%TO' no está disponible para tu especie.",
+"innate_wait": "Habilidad innata: %TT no disponible. Comando disponible en %TO.",
+"regen": "regeneración",
+"regen_active": "Sientes cómo la sangre recorre tus venas mientras tu cuerpo comienza a regenerarse.",
+"regen_wait": "Aún te estás recuperando de tu última regeneración. Comando disponible en %DI segundos.",
+"roar": "rugido",
+"roar_active": "Lanzas un rugido poderoso.",
+"roar_wait": "Aún te estás recuperando de tu último rugido. Comando disponible en %DI segundos.",
+"vit": "vitalizar",
+"vit_active": "Sientes cómo la adrenalina entra en tu torrente sanguíneo mientras te vuelves más vitalizado.",
+"vit_wait": "Aún te estás recuperando de tu última vitalización. Comando disponible en %DI segundos."
+}

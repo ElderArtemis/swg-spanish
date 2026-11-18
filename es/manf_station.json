@@ -1,0 +1,18 @@
+{
+"activate": "Iniciar fabricación de objetos.",
+"activated": "Estación activada",
+"deactivate": "Detener fabricación de objetos.",
+"deactivated": "Estación desactivada",
+"examine_prompt": "Ingredientes necesarios para fabricar un objeto en esta estación.",
+"ingredients": "Lista de ingredientes requeridos para la estación",
+"input_hopper": "Acceder a la tolva de ingredientes de la estación",
+"no_schematic_examine_prompt": "No hay esquema en uso en esta estación.",
+"no_valid_schematic": "¡Advertencia: no tienes un esquema de diseño que pueda usarse en esta estación!",
+"options": "Opciones",
+"output_hopper": "Acceder a la tolva de salida de la estación",
+"schematic": "Acceder al ranura de esquema.",
+"schematic_added": "El esquema %TT ha sido insertado en la estación. La estación está lista para fabricar objetos.",
+"schematic_not_added": "El esquema %TT no se añadió a la estación.",
+"schematic_not_removed": "El esquema %TT no se retiró de la estación.",
+"schematic_removed": "El esquema %TT ha sido retirado de la estación y colocado en tu datapad. ¡Que tengas un buen día!"
+}

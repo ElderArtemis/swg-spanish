@@ -1,0 +1,23 @@
+{
+"animal_breeding": "Criaturas",
+"armor": "Armadura",
+"chemical": "Químico",
+"clothing": "Ropa",
+"droid": "Droide",
+"food": "Alimentos",
+"furniture": "Mobiliario",
+"generic_item": "Objeto genérico",
+"genetics": "Genética",
+"installation": "Instalación",
+"lightsaber": "Sable de luz",
+"mandalorian_armorsmith": "Armero, Mandaloriano",
+"mandalorian_droid_engineer": "Ingeniero de droides, Mandaloriano",
+"mandalorian_tailor": "Sastre, Mandaloriano",
+"misc": "Varios",
+"mission": "Misión",
+"plant_breeding": "Tejidos",
+"reverse_engineering": "Herramientas de nave",
+"space": "Componentes de nave estelar",
+"vehicle": "Vehículo",
+"weapon": "Arma"
+}

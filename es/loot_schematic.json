@@ -1,0 +1,23 @@
+{
+"ability": "Habilidad",
+"already_have_ability": "Ya tienes esta habilidad.",
+"already_have_schematic": "Ya tienes este esquema.",
+"already_have_skill": "Ya tienes esta habilidad.",
+"must_be_holding": "Debes sostenerlo para usarlo.",
+"not_enough_skill": "Debes tener %TO de habilidad para entender esto.",
+"nothing_to_learn": "No hay nada que aprender de esto.",
+"schematic": "Esquema",
+"schematic_learned": "¡Has adquirido un nuevo esquema de fabricación!",
+"skill": "Habilidad",
+"skill_granted": "Has aprendido %TO.",
+"unable_to_add_waypoint": "No se puede añadir punto de ruta a tu datapad. Asegúrate de tener suficiente espacio libre.",
+"unable_to_learn_skill": "No puedes aprender esta habilidad por falta de puntos de habilidad o requisitos previos.",
+"use_ability": "Aprender habilidad",
+"use_pet": "Adquirir mascota",
+"use_schematic": "Aprender esquema",
+"use_skill": "Aprender habilidad",
+"use_vehicle": "Adquirir vehículo",
+"use_waypoint": "Descargar punto de ruta",
+"waypoint": "Punto de ruta",
+"waypoint_granted": "Se ha añadido un punto de ruta a %TO a tu datapad."
+}

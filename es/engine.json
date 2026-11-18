@@ -1,0 +1,12 @@
+{
+"desktop_not_32bit": "La aplicación no puede ejecutarse en modo ventana porque el escritorio no está configurado a 32 bits de profundidad de color.",
+"desktop_same": "La aplicación no puede ejecutarse en modo ventana porque la resolución del escritorio es demasiado baja para que la ventana del juego con su borde quepa. Puedes considerar usar la opción \"Borderless Window\" disponible en la configuración de opciones externas del Launch Pad.",
+"desktop_same_not_32": "La aplicación no puede ejecutarse en modo ventana porque la resolución del escritorio es demasiado baja para que la ventana del juego con su borde quepa, y tu escritorio no está configurado a 32 bits de profundidad de color. Puedes considerar usar la opción \"Borderless Window\" disponible en la configuración de opciones externas del Launch Pad.",
+"desktop_too_small": "La aplicación no puede ejecutarse en modo ventana porque la resolución del escritorio es menor que la resolución del juego.",
+"desktop_too_small_not_32": "La aplicación no puede ejecutarse en modo ventana porque la resolución del escritorio es menor que la resolución del juego, y tu escritorio no está configurado a 32 bits de profundidad de color.",
+"screenshot_failed_off_desktop": "La aplicación no pudo crear una captura de pantalla correctamente porque la ventana del juego no está completamente contenida dentro del escritorio.",
+"screenshot_failed_unknown": "La aplicación no pudo crear una captura de pantalla correctamente debido a un fallo de DirectX.",
+"screenshot_failed_unknown_format": "La aplicación no pudo escribir la captura de pantalla en el disco. El formato de la captura no es compatible.",
+"screenshot_failed_write_problem": "La aplicación no pudo escribir la captura de pantalla en el disco. El disco puede estar lleno.",
+"screenshot_failed_wrong_format": "La aplicación no pudo crear una captura de pantalla correctamente porque el objetivo de renderizado no está configurado a 32 bits de profundidad de color."
+}

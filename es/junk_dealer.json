@@ -1,0 +1,14 @@
+{
+"convo_start": "Si tienes objetos que quieras vender, entrégalos y te daré créditos... si estoy interesado.",
+"mnu_sell_all_junk": "Vender todo el chatarra",
+"mnu_sell_junk": "Vender chatarra",
+"prose_junk_sold": "%TT ya está en proceso de venta...",
+"prose_no_all_sale": "%TT no puede comprar todo tu chatarra y rechaza la transacción.",
+"prose_no_buy": "%TU no muestra interés en comprar %TT.",
+"prose_no_buy_all": "%TT no parece interesado en comprar tu chatarra.",
+"prose_no_sale": "%TU no puede comprar %TT de ti, en este momento.",
+"prose_sold_all_junk": "Vendiste todo tu chatarra a %TT por %DI créditos.",
+"prose_sold_junk": "Vendiste %TT por %DI créditos.",
+"sell_prompt": "Selecciona el objeto que quieres vender a este comerciante de chatarra.",
+"sell_title": "Vender chatarra"
+}

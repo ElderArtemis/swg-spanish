@@ -1,0 +1,10 @@
+{
+"barrel_blaster": "Un cañón para un bláster.",
+"base_component": "Un componente",
+"base_dna": "Una muestra de ADN",
+"base_electronic_component": "Este es un componente electrónico usado como ingrediente para la fabricación de objetos más grandes y complejos.",
+"base_food": "Un componente alimenticio",
+"blaster_pistol_barrel": "Este es el cañón y la boquilla del arma de fuego tipo bláster-pistola.",
+"blaster_power_handler": "Este es el convertidor de combustible y generador de pulsos de energía para armas de fuego tipo bláster.",
+"scope_weapon": "Esta es una ayuda electro‑óptica de puntería para un arma de fuego."
+}

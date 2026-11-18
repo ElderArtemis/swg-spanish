@@ -1,0 +1,9 @@
+{
+"busy": "Ya estás buscando mariscos en la zona.",
+"found_crustaceans": "Has logrado localizar algunos crustáceos.",
+"found_mollusks": "Has logrado localizar algunos moluscos.",
+"found_nothing": "No has podido localizar ningún recurso.",
+"in_water": "Debes estar en el agua para usar este dispositivo.",
+"inside": "No puedes usar este dispositivo estando dentro.",
+"swimming": "No puedes usar este dispositivo mientras nadas."
+}

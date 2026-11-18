@@ -1,0 +1,21 @@
+{
+"cannot_reorder": "La operación de reordenar eventos que has seleccionado no es posible.",
+"data_prompt": "El estado actual de tu espectáculo de fuegos artificiales se muestra a continuación.",
+"data_title": "Estado del espectáculo de fuegos artificiales",
+"mnu_add_event": "Añadir evento",
+"mnu_launch": "Lanzar",
+"mnu_modify_event": "Modificar evento",
+"mnu_remove_event": "Eliminar evento",
+"mnu_reorder_show": "Reordenar eventos",
+"mnu_show_data": "Mostrar datos",
+"modify_delay_prompt": "Selecciona la cantidad de tiempo (en décimas de segundo) que quieres que haya como retraso entre este evento y el anterior.",
+"modify_delay_title": "Selección de retraso",
+"modify_index_prompt": "Selecciona el índice del evento que quieres modificar el tiempo de retraso.",
+"modify_index_title": "Modificación de evento",
+"prose_delay_update": "Evento #%DI: retraso establecido a %DF segundos.",
+"prose_delay_update1": "Evento #%DI: retraso establecido a 1 segundo.",
+"remove_prompt": "Selecciona el evento del espectáculo que quieres eliminar y luego haz clic en \"OK\".",
+"remove_title": "Eliminar evento del espectáculo",
+"reorder_prompt": "Selecciona la entrada cuya posición quieres modificar y haz clic en el botón \"Mover arriba\" o \"Mover abajo\" para actualizar su posición. Haz clic en \"Done\" cuando estés satisfecho con el orden de los eventos.",
+"reorder_title": "Reordenar eventos del espectáculo"
+}

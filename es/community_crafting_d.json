@@ -1,0 +1,19 @@
+{
+"connections": "Conexiones entre unidades de escudo.",
+"endrost": "Aleación de Endrine y Ostrine.",
+"lightweight_turret": "Pequeña torreta usada para defender el pueblo.",
+"lightweight_turret_electronics": "Componente electrónico para una torreta ligera.",
+"lightweight_turret_hardware": "Componente de hardware para una torreta ligera.",
+"power_supply": "Fuente de energía del escudo.",
+"primary_computer": "Computador principal del escudo.",
+"raw_materials": "Materias primas",
+"refined_ardanium_ii": "Energía de Ardantium II con algunas impurezas eliminadas.",
+"refined_endrine": "Mineral de Endrine con algunas impurezas eliminadas.",
+"refined_rudic": "Mineral de Rudic con algunas impurezas eliminadas.",
+"regulator": "Regulador de fuerza del escudo.",
+"reinforced_wall_module": "Módulo de pared reforzada usado para reforzar las murallas del pueblo.",
+"shield_housing": "Unidades de alojamiento para los escudos del pueblo.",
+"unit_computer": "Computador de la unidad de escudo.",
+"village_defenses": "Defensas del pueblo",
+"village_shields": "Escudos para protegerse de ataques orbitales."
+}

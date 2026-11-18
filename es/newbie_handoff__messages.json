@@ -1,0 +1,20 @@
+{
+"destroy_mission_complete": "Has completado tu misión de destrucción de muestra",
+"destroy_mission_start": "Sigue el punto de ruta hasta el objetivo y destrúyelo.",
+"gig_mission_arrival": "Has llegado a la cantina, entra y comienza tu actuación.",
+"gig_mission_complete": "Has completado tu misión de espectáculo de muestra.",
+"gig_mission_dance_start": "Sigue el punto de ruta hasta tu cantina local, entra y baila durante 2 minutos.",
+"gig_mission_music_start": "Sigue el punto de ruta hasta tu cantina local, entra y toca una canción durante 2 minutos.",
+"harvest_mission_complete": "Has recolectado con éxito los recursos de tu objetivo.",
+"harvest_mission_start": "Sigue el punto de ruta hasta tu objetivo y elimínalo.",
+"harvest_mission_target_dead": "Ahora que tu objetivo está muerto, usa tus habilidades para extraer los recursos naturales de él.",
+"heal_mission_arrival": "Has encontrado a tu paciente, comienza a curar a %OT lo antes posible.",
+"heal_mission_complete": "Has curado con éxito a tu paciente.",
+"heal_mission_menu": "Curar paciente",
+"heal_mission_need_target": "Necesitas tener un objetivo para usar esta medicina.",
+"heal_mission_start": "Sigue el punto de ruta hasta %TT y usa la medicina indicada para curar a %OT.",
+"heal_mission_use": "Usar medicina",
+"heal_mission_wrong_target": "Este no es el paciente correcto.",
+"survey_mission_complete": "Has completado tu misión de prospección de muestra.",
+"survey_mission_start": "Usa tu herramienta de prospección para localizar un parche de densidad XX% de blah, un tipo de suchandsuch."
+}

@@ -1,0 +1,6 @@
+{
+"already_contains": "Ese objeto ya está contenido por este kit.",
+"incorrect_item": "El kit examina el objeto y lo rechaza. Este kit solo aceptará objetos compatibles con su diseño. Para ver la lista de objetos que acepta, examínalo usando su menú radial.",
+"item_used": "El kit acepta el objeto y lo desmantela rápidamente, dejando nada reconocible.",
+"new_item_created": "Se creó un nuevo objeto, pero parece que el kit se destruyó en el proceso."
+}

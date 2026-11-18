@@ -1,0 +1,22 @@
+{
+"additive": "Este es un aditivo para sabor y textura.",
+"barrel": "Contenedor de bebida\n\nUn contenedor de bebida masivo y regulado por temperatura diseñado para contener una bebida elaborada. Este contenedor mejorado ofrece un gran beneficio al volumen de bebida creada cuando se usa en fabricación.",
+"bottle": "Esta es una botella.",
+"boullion": "Un cubo de boullion.",
+"carbosyrup": "Una sustancia pegajosa y sirupea fortificada con carbohidratos. Se usa como base azucarada para muchos alimentos.",
+"cask": "Contenedor de bebida\n\nUn contenedor de bebida muy grande diseñado para contener una bebida elaborada. Este contenedor mejorado ofrece un beneficio moderado al volumen de bebida creada cuando se usa en fabricación.",
+"crystal": "Cristal",
+"dough": "Este es un trozo de masa.",
+"drink": "Un tipo de bebida.",
+"glass": "Un vaso vacío.",
+"ground_meat": "Una mano de carne picada.",
+"icing": "Un poco de glaseado dulce.",
+"large_glass": "Contenedor de bebida\n\nUn contenedor de bebida grande diseñado para contener una bebida elaborada. Este contenedor mejorado ofrece un beneficio leve al volumen de bebida creada cuando se usa en fabricación.",
+"place_setting": "Este es un juego de mesa.",
+"plate": "Un plato limpio.",
+"prepared_meat": "Un poco de carne preparada.",
+"small_glass": "Contenedor de bebida\n\nUn contenedor de bebida pequeño necesario para contener una bebida elaborada. Este contenedor básico no ofrece ningún beneficio especial a la calidad de la bebida elaborada.",
+"spice": "Un vial de especia.",
+"stuffing": "Un poco de relleno sustancioso.",
+"sugar": "Una pequeña cantidad de azúcar para endulzar la comida."
+}
