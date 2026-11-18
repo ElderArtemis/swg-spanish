@@ -1,0 +1,10 @@
+{
+"its_ok": "Quiero la tarea de todos modos.",
+"npc_continue": "Bien.  No te molestes conmigo hasta que estés listo para trabajar para mí.",
+"npc_quit": "Bien.  Ya no tienes obligación previa y puedes trabajar libremente para mí.",
+"player_continue": "No, creo que seguiré con mi trabajo actual, gracias.",
+"player_quit": "Creo que me gustaría trabajar para ti.",
+"quit_quest": "Puedo ver que estás ocupado trabajando para alguien más en este momento.  ¿Quieres seguir haciéndolo o prefieres trabajar para mí en su lugar?",
+"too_strong": "Esta tarea está por debajo de tus capacidades.  ¿Seguro que quieres hacerlo?",
+"too_weak": "La tarea que tengo parece estar más allá de tus capacidades.  Vuelve cuando seas un poco más fuerte."
+}
