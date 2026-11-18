@@ -1,0 +1,16 @@
+{
+"afraid": "\\\\|/",
+"alert": "?",
+"confused": "?!!?!?!",
+"threaten": "!",
+"fail": "No has logrado domesticar la criatura.",
+"low_power": "*Baja potencia*",
+"nobattery": "No tienes un dispositivo de almacenamiento de energía.",
+"nofood": "¡No tienes comida para dar!",
+"nothungry": "Tu mascota no tiene hambre.",
+"recharged": "*Recargado*",
+"repaired": "*Reparado*",
+"success": "Domesticaste la criatura.",
+"toofar": "Estás demasiado lejos para domesticar la criatura.",
+"yum": "¡Delicioso!"
+}

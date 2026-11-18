@@ -1,0 +1,18 @@
+{
+"abort": "Abort code recognized. Stand by for course change... ... Confirmed. You are authorized to leave the system.",
+"arrival_phase_1": "Tu escolta objetivo llegará en cualquier momento.",
+"arrival_phase_2": "La Star Kimogila ha llegado. Desactiva la nave y elimina a sus escoltas!",
+"capture_complete": " \\#pcontrast3 Tactical Computer: < \\#00ff00 Operación de captura del objetivo principal completada! \\#pcontrast3 >",
+"capture_phase_1": "El grupo de abordaje enfrenta poca resistencia.",
+"capture_phase_2": "Resistencia eliminada. Hemos tomado el puente. Estaremos en marcha pronto.",
+"capture_started": " \\#pcontrast3 Tactical Computer: < \\#00ff00 Operación de captura del objetivo principal en curso. \\#pcontrast3 >",
+"complete": "Hemos llegado a salvo. Saltando a la velocidad de luz...ahora.",
+"escort_remaining": " \\#pcontrast3 Tactical Computer: < \\#00ff00 %DI barcos quedan en la escolta de la nave. \\#pcontrast3 >",
+"escort_wiped_out": " \\#pcontrast3 Tactical Computer: < \\#00ff00 La escolta de la nave objetivo ha sido eliminada. \\#pcontrast3 >",
+"failed_destroy": "¡La Star Kimogila fue destruida! ¡Esto es inaceptable! Regresa a la base de inmediato. ¡Eres tú el responsable de este fracaso!",
+"failed_escape": "¡La Star Kimogila ha escapado del área! ¡Esto es una desgracia! Regresa a la base de inmediato!",
+"quest_update": " \\#pcontrast3 Hutt Command: < \\#pcontrast1 %TO \\#pcontrast3 >",
+"recovery_success": "La Star Kimogila ha sido asegurada. Buen trabajo, piloto.",
+"target_disabled": " \\#pcontrast3 Tactical Computer: < \\#00ff00 La Star Kimogila ha sido desactivada. La operación de captura comenzará pronto. \\#pcontrast3 >",
+"title": "Captura la Star Kimogila"
+}

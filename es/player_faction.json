@@ -1,0 +1,5 @@
+{
+"declare_overt_bad_loc": "Debes estar dentro de 50 m, o dentro, de una base de facción colocada por un jugador, para usar este comando.",
+"declare_overt_not_aligned": "Debes ser combatiente de facción para usar este comando.",
+"declare_overt_success": "Te has unido con éxito a las fuerzas especiales. Ahora puedes ser atacado por miembros de la facción opuesta."
+}

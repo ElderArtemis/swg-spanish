@@ -1,0 +1,8 @@
+{
+"destroy_and_loot_counter": "Encontrado",
+"destroy_counter": "Eliminado",
+"retrieve_item_counter": "Recuperado",
+"retrieve_item_fail": "Artículo no encontrado.",
+"retrieve_item_success": "Artículo encontrado. %DI restante.",
+"timer_timertext": "Tiempo restante"
+}

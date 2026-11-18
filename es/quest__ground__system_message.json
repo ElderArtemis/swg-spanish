@@ -1,0 +1,5 @@
+{
+"quest_received": "\\#pcontrast3 Se ha recibido la misión: < \\#pcontrast1 %TT : %TO \\#pcontrast3 >",
+"quest_task_completed": "\\#pcontrast3 Has completado: < \\#pcontrast1 %TT : %TO \\#pcontrast3 >",
+"quest_task_failed": "\\#pcontrast3 Has fallado: < \\#pcontrast1 %TT : %TO \\#pcontrast3 >"
+}

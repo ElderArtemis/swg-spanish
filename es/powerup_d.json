@@ -1,0 +1,11 @@
+{
+"armor": "Potenciador de armadura",
+"base": "Potenciador de base",
+"weapon": "Potenciador de arma",
+"weapon_heavy": "Potenciador de arma pesada",
+"weapon_melee": "Potenciador de arma cuerpo a cuerpo",
+"weapon_melee_speed_quest": "Torno resistente",
+"weapon_mine": "Potenciador de mina",
+"weapon_ranged": "Potenciador de arma a distancia",
+"weapon_thrown": "Potenciador de arma arrojadiza"
+}

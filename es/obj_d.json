@@ -1,0 +1,22 @@
+{
+"chemical_reactor": "Un reactor químico, introducir químicos en él cambiará la composición del experimento.",
+"coal_bin": "Un contenedor grande usado para almacenar recursos sólidos como carbón o mineral.",
+"computer_desktop": "Un monitor y teclado de sobremesa, conectado a alguna red informática.",
+"computer_mainframe": "Una computadora grande, usada para diversos propósitos.",
+"corvette_bootdisk_4": "Un disco de arranque para los sistemas internos de una nave de clase Corbeta Corelliana. Este está marcado como #4.",
+"corvette_droid_maint_module": "Este módulo se usa para regular las funciones de mantenimiento de los droides astromecánicos. Parece estar en funcionamiento.",
+"droid_battery": "Una batería de droides, usada para recargar droides de compañía.",
+"obj_bandfill": "Un Bandfill.",
+"obj_chidinkalu_horn": "Un Chidinkalu Horn",
+"obj_fanfar": "Un Fanfar.",
+"obj_fizz": "Un Fizzz.",
+"obj_kloo_horn": "Un Kloo Horn.",
+"obj_mandoviol": "Un Mandoviol.",
+"obj_nalargon": "Un Nalargon.",
+"obj_ommni_box": "Una Ommni Box.",
+"obj_slitherhorn": "Un Slitherhorn.",
+"obj_traz": "Un Traz.",
+"poison_gas_cloud": "Una nube de gas venenoso o tóxico.",
+"poison_stabilizer": "Un agente estabilizador de veneno. Se mezcla con humos tóxicos para convertirlos en aire respirable.",
+"trash_container": "Una pila de basura. Puede haber algo oculto debajo o dentro de ella..."
+}

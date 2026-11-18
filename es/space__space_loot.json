@@ -1,0 +1,22 @@
+{
+"item_list": "[%DI] ----------- %TO",
+"group_credit_payout": "Tu compañero de grupo ha dividido un chip de créditos.",
+"imperial_only": "No puedes equipar este objeto porque no eres piloto Imperial.",
+"loot_box_full": "Tu caja de botín está llena, así que tu nave no puede llevar más botín.",
+"looted_credits": "%TT ha saqueado un chip de créditos por valor de %DI créditos.",
+"looted_credits_you": "Has saqueado un chip de créditos por valor de %DI créditos.",
+"looted_item": "%TT ha saqueado un objeto: %TO.",
+"looted_item_you": "Has saqueado un objeto: %TO.",
+"no_group_leader": "El líder de tu grupo no está disponible para auto saquear. Se ha elegido aleatoriamente a un miembro para recibir los objetos.",
+"no_more_loot": "Tu inventario está lleno, así que no puedes recibir más botín.",
+"no_permission": "No tienes permiso para acceder a ese objeto.",
+"nothing_to_sell": "No tienes nada que yo quiera comprar.",
+"privateer_only": "No puedes equipar este objeto porque no eres piloto Neutral.",
+"rebel_only": "No puedes equipar este objeto porque no eres piloto Rebelde.",
+"sell_loot_button": "Vender",
+"sell_loot_prompt": "Selecciona el objeto que deseas vender.",
+"sell_loot_title": "Vender Botín",
+"sold_item": "Vendiste un objeto: %TO por %DI créditos. Se han depositado en tu cuenta bancaria.",
+"split_with_group": "Dividir créditos con el grupo",
+"use_credit_chip": "Transferir créditos a la cuenta bancaria"
+}

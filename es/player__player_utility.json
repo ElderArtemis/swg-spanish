@@ -1,0 +1,10 @@
+{
+"access_expired": "Tu acceso a esta estructura ha caducado.",
+"access_granted": "Se te ha permitido el acceso a la estructura.",
+"cannot_manipulate": "Este objeto no puede ser manipulado por ti.",
+"cannot_manipulate_slot": "Esta ranura no puede ser manipulada por ti.",
+"invalid_target": "El objetivo de este comando no es válido.",
+"not_enough_money": "No tienes suficiente dinero para pagar la tarifa de acceso.",
+"not_space_terminal": "[%TO] no es un terminal espacial.",
+"target_not_server_object": "Este no es un objetivo válido para un comando."
+}

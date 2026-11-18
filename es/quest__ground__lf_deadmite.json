@@ -1,0 +1,19 @@
+{
+"category": "Ground Quest",
+"journal_entry_description": "Risha Sinan necesita muestras de los gusanos de corteza. Viaja a la cueva de los gusanos de corteza gigantes y recógelas para ella. Vuelve cuando hayas terminado.",
+"journal_entry_title": "Muestras de gusanos de corteza",
+"task00_journal_entry_description": "Ve a la Cueva de los gusanos de corteza gigantes",
+"task00_journal_entry_title": "Ir a la cueva",
+"task01_journal_entry_description": "Recoge 1 muestra de la Reina gusano de corteza mutante",
+"task01_journal_entry_title": "Recoger muestra de la reina",
+"task02_journal_entry_description": "Recoge 1 muestra de Soldado gusano de corteza mutante",
+"task02_journal_entry_title": "Recoger muestra de soldado",
+"task03_journal_entry_description": "Recoge muestras de gusanos de corteza gigantes",
+"task03_journal_entry_title": "Recoger muestras mutantes",
+"task04_journal_entry_description": "Recoge 3 muestras de Trabajador gusano de corteza mutante",
+"task04_journal_entry_title": "Recoger muestra de trabajador",
+"task05_journal_entry_description": "Recoge 5 muestras de crías de gusanos de corteza",
+"task05_journal_entry_title": "Recoger muestras de crías",
+"task06_journal_entry_description": "Cuando tengas todas las muestras, vuelve a Risha Sinan en Restuss",
+"task06_journal_entry_title": "Volver a Risha Sinan"
+}

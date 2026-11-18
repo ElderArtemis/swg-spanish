@@ -1,0 +1,8 @@
+{
+"listen": "Escucha",
+"listen_stop": "Deja de escuchar",
+"play_instrument": "Toca instrumento",
+"stop_playing": "Deja de tocar",
+"watch": "Mira",
+"watch_stop": "Deja de mirar"
+}

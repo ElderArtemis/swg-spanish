@@ -1,0 +1,12 @@
+{
+"d_00": "¡El array de sensores del pueblo de Aurilia ha sufrido daños! ¡Debe repararse!",
+"d_01": "Debes localizar el array de sensores del pueblo y determinar la magnitud de los daños. Si hay componentes no funcionales, quítalos para poder sustituirlos por otros nuevos.",
+"d_02": "Retira cualquier componente dañado del array de sensores.\n\nDebes encontrar las herramientas del ingeniero jefe y usarlas para fabricar y calibrar nuevos componentes. Recuerda que los componentes nuevos deben calibrarse correctamente antes de instalarlos en el array.",
+"d_03": "Utiliza el Analizador Recursivo para descomponer los componentes dañados en un esquema de diseño, y fabrica nuevos componentes. Esquemas de diseño de uso limitado, pero si necesitas otro después de usar uno, puedes cargarlo desde la memoria del Analizador.\n\nUna vez tengas un componente nuevo, deberás calibrarlo con el calibrador multifáse. Ten cuidado, el proceso de calibración afecta negativamente la integridad del componente.\n\nCuando hayas calibrado correctamente todos los componentes nuevos, sustitúyelos en el array de sensores para volver a ponerlo en línea.",
+"d_04": "¡Misión completada! Has logrado poner el array de sensores del pueblo en línea. Como acordado, Quharek ha abierto tu mente a la posibilidad de usar la Fuerza para mejorar tus habilidades de ensamblaje.",
+"s_00": "Repara el array de sensores.",
+"s_01": "Localiza y examina el array de sensores.",
+"s_02": "Encuentra el puesto de trabajo del ingeniero jefe.",
+"s_03": "Calibra y sustituye los componentes.",
+"s_04": "¡Misión completada!"
+}

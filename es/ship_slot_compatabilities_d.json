@@ -1,0 +1,23 @@
+{
+"arm_0": "El armadura absorbe el fuego de armas y protege los componentes frágiles de la nave.",
+"arm_basic": "El armadura absorbe el fuego de armas y protege los componentes frágiles de la nave.",
+"bdg_0": "Puente",
+"bst_0": "Los impulsores son sobrecargadores de motores iónicos recargables que aumentan la velocidad cuando se activan.",
+"bst_basic": "Los impulsores son sobrecargadores de motores iónicos recargables que aumentan la velocidad cuando se activan.",
+"cap_0": "El condensador extrae energía del reactor principal y la almacena para el funcionamiento de las armas de la nave.",
+"cap_basic": "El condensador extrae energía del reactor principal y la almacena para el funcionamiento de las armas de la nave.",
+"cms_0": "Los lanzadores de contramedidas disparan municiones anti-seguimiento especiales para confundir los misiles guiados entrantes.",
+"ddi_0": "Esta interfaz proporciona un enlace de hardware entre tu droide y los sistemas internos de la nave.",
+"ddi_basic": "Esta interfaz proporciona un enlace de hardware entre tu droide y los sistemas internos de la nave.",
+"eng_0": "El sistema de motores proporciona a la nave la propulsión necesaria para maniobrar en el espacio.",
+"eng_basic": "El sistema de motores proporciona a la nave la propulsión necesaria para maniobrar en el espacio.",
+"hgr_0": "Hangar",
+"rct_0": "El reactor principal de la nave suministra energía a todos los componentes internos.",
+"rct_basic": "El reactor principal de la nave suministra energía a todos los componentes internos.",
+"shd_0": "Los generadores de escudos crean un campo de energía protectora alrededor de tu nave que se disipa al ser golpeado por armas enemigas.",
+"shd_basic": "Los generadores de escudos crean un campo de energía protectora alrededor de tu nave que se disipa al ser golpeado por armas enemigas.",
+"tst_0": "Estación de puntería",
+"wpn_0": "Las armas de la nave incluyen blásters de energía, cañones iónicos y armas de proyectiles como lanzadores de balas.",
+"wpn_1": "Los lanzadores de municiones pueden disparar tipos de armas de misiles a objetivos bloqueados.",
+"wpn_basic": "Las armas de la nave incluyen blásters de energía, cañones iónicos y armas de proyectiles como lanzadores de balas."
+}

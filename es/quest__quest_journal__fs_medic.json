@@ -1,0 +1,14 @@
+{
+"combat_healing_d_1": "¡Necesitamos tu ayuda para apoyar la defensa del pueblo! Busca cualquier grupo de defensores y únete a ellos, asegurándote de respaldarlos durante la batalla. Completa al menos 50 encuentros.",
+"combat_healing_d_2": "¡Tu ayuda sigue siendo necesaria para apoyar la defensa del pueblo! Busca cualquier grupo de defensores y únete a ellos, asegurándote de respaldarlos durante la batalla. Completa un total de al menos 100 encuentros.",
+"combat_healing_d_finish": "Has completado la misión de ayudar a las tropas durante la defensa del pueblo. Ahora puedes hablar con Noldan sobre entrenamiento en las habilidades sensibles a la Fuerza de curación.",
+"combat_healing_n_1": "Apoyo de curación",
+"combat_healing_n_2": "Apoyo de curación (extendido)",
+"combat_healing_n_finish": "Misión completada",
+"healing_puzzle_d": "Necesitas ayudar a curar a los aldeanos enfermos. Controla la medicina mediante experimentación y el uso de diversas cualidades de recursos. A través de múltiples aplicaciones de los medicamentos, deberías poder curar los síntomas de los enfermos. Los droides médicos te ayudarán a administrar las curas a los pacientes.",
+"healing_puzzle_d_finish": "Has completado la misión de ayudar a los aldeanos enfermos y heridos. Ahora puedes hablar con Noldan sobre entrenamiento en las habilidades sensibles a la persuasión de la Fuerza.",
+"healing_puzzle_n_1": "Curar a los enfermos",
+"healing_puzzle_n_2": "Curar a los enfermos (extendido)",
+"healing_puzzle_n_3": "Curar a los enfermos (Curas extra)",
+"healing_puzzle_n_finish": "Misión completada"
+}

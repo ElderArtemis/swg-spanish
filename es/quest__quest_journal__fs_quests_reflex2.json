@@ -1,0 +1,12 @@
+{
+"d_00": "¡Los transportes de suministros han sido atacados! Los suministros deben llegar al pueblo de Aurilia.",
+"d_01": "El baliza de emergencia indica el área donde se atacó el transporte. Busca ese lugar y el transporte debería estar cerca.",
+"d_02": "Parece que hay una caja de suministros que aún no ha sido robada y que todavía se puede recuperar del escombros. ¡Debes conseguir esa caja! Pero ten cuidado, si el enemigo te ve, probablemente te atacará.",
+"d_03": "La caja de suministros debe volver al pueblo de Aurilia de forma segura. Debes devolverla antes de que sea robada o dañada.",
+"d_04": "¡Misión completada! Has recuperado con éxito los suministros tan necesarios para el pueblo de Aurilia. Como acordado, Whip ha abierto tu mente a las posibilidades de usar la Fuerza para mejorar tus habilidades de control de vehículos.",
+"s_00": "Recuperar cajas de suministros.",
+"s_01": "Buscar el sitio de choque del transporte.",
+"s_02": "Recoger la caja de suministros.",
+"s_03": "Llevar los suministros de vuelta al pueblo.",
+"s_04": "¡Misión completada!"
+}

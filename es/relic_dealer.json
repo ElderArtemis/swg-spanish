@@ -1,0 +1,14 @@
+{
+"btn_sell": "Vender",
+"btn_sell_all": "Vender todo",
+"no_items": "No tienes objetos que el comerciante de reliquias quiera comprar.",
+"prose_junk_sold": "%TT ya está en proceso de venta…",
+"prose_no_all_sale": "%TT no puede comprar todos tus relics y rechaza la transacción.",
+"prose_no_buy": "%TU no muestra interés en comprar %TT.",
+"prose_no_buy_all": "%TT no parece interesado en comprar ninguno de tus relics.",
+"prose_no_sale": "%TU no puede comprar %TT de ti en este momento.",
+"prose_sold_all_junk": "Vendiste todos tus relics a %TT por %DI créditos.",
+"prose_sold_junk": "Vendiste %TT por %DI créditos.",
+"sell_prompt": "Selecciona un objeto y pulsa el botón 'Vender' para vender la reliquia al comerciante.\n\nPulsa el botón 'Vender todo' para vender todas las reliquias disponibles al comerciante.",
+"sell_title": "Comerciante de reliquias"
+}

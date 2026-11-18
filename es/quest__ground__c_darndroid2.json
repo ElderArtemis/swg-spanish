@@ -1,0 +1,21 @@
+{
+"category": "Ground Quest",
+"journal_entry_description": "Ayuda a Valance a impedir que el Sol Negro envíe especias medicinales contaminadas a la galaxia.",
+"journal_entry_title": "El Sol Negro trama",
+"task00_journal_entry_description": "Ve al campamento de preparación del Sol Negro y haz una prospección del campamento.",
+"task00_journal_entry_title": "Encuentra el área de preparación del Sol Negro.",
+"task01_journal_entry_description": "Elimina 1 Esclavo del Sol Negro.",
+"task01_journal_entry_title": "Elimina un Esclavo del Sol Negro",
+"task02_journal_entry_description": "Elimina 5 Contrabandistas del Sol Negro.",
+"task02_journal_entry_title": "Elimina Contrabandistas del Sol Negro",
+"task03_journal_entry_description": "Elimina 8 Iniciados del Sol Negro.",
+"task03_journal_entry_title": "Elimina Iniciados del Sol Negro",
+"task04_journal_entry_description": "Una vez que hayas eliminado 8 Iniciados del Sol Negro, 5 Contrabandistas del Sol Negro y 1 Esclavo del Sol Negro, regresa a Valance Serth.",
+"task04_journal_entry_title": "Regresa a Valance Serth",
+"task05_journal_entry_description": "Elimina el transporte espacial del Sol Negro y regresa a Valance Serth.",
+"task05_journal_entry_title": "Habla con Valance una vez que el transporte espacial esté muerto.",
+"task06_journal_entry_description": "C-3TC ha causado demasiados problemas a su maestro. Necesita un borrado de memoria.",
+"task06_journal_entry_title": "Borra la memoria de C-3TC",
+"task08_journal_entry_description": "Has completado la misión.",
+"task08_journal_entry_title": "Misión completada"
+}

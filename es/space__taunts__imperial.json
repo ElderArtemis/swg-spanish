@@ -1,0 +1,22 @@
+{
+"death1": "¡El Imperio te castigará por esto, %TU!",
+"death2": "¡Aaarrrgh!",
+"death3": "¡Nooooo!!!",
+"death4": "¡Muero por la gloria del Imperio!",
+"death5": "¡Nunca vencerás al Imperio, %TU!",
+"entercombat1": "¡ATENCIÓN!  %TU, baja tus escudos y prepárate para ser destruido.",
+"entercombat2": "%TU, te destruiré.",
+"entercombat3": "¡No intentes escapar, %TU!",
+"entercombat4": "¡Te tengo ahora, %NU!",
+"entercombat5": "%TU!  Tu muerte me hará ganar una promoción!",
+"gothit1": "¡No me vencerás!",
+"gothit2": "%TU!  ¡Detén tu fuego!",
+"gothit3": "¡¡Disparar a una nave Imperial!?  %TU serás destruido por esto!",
+"gothit4": "Tus débiles habilidades no rivalizan con el Imperio, %NU!",
+"gothit5": "¡Argh!  ¡Te destruiré por eso, %TU!",
+"hityou1": "¡Te tengo ahora!",
+"hityou2": "¡Ahora siente la ira del Imperio, %NU!",
+"hityou3": "No aceptaré tu rendición, %TU, serás destruido!",
+"hityou4": "¡Esto es lo que le pasa a los que se oponen al Imperio!",
+"hityou5": "Ahora morirás, %NU."
+}

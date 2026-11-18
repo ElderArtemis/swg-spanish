@@ -1,0 +1,13 @@
+{
+"already_complete": "El pedido ya está completo. No se pueden colocar más artículos en la caja.",
+"cannot_remove": "Los artículos de este pedido de fabricación no se pueden quitar una vez que se han colocado en la caja.",
+"complete": "Completar",
+"items_remaining": "Necesitas %DI artículo(s) más para completar este pedido.",
+"job_complete": "TRABAJO COMPLETO: Todos los artículos necesarios para este pedido han sido añadidos a la caja.",
+"not_crafted": "Solo los artículos fabricados pueden colocarse en la caja.",
+"not_crafter": "No eres el creador de este artículo. No se puede colocar en la caja.",
+"of": "de",
+"pay_msg": "Has recibido %DI créditos como pago por tus servicios.",
+"required": "requerido",
+"wrong_item": "Este artículo no puede colocarse en esa caja."
+}

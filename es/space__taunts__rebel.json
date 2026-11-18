@@ -1,0 +1,22 @@
+{
+"death1": "¡Argh!",
+"death2": "¡No pude sacarte, %TU!",
+"death3": "¡No! La Alianza Rebelde te castigará por esto, %NU!",
+"death4": "Puede que hayas ganado la batalla, pero nunca ganarás el - ¡Aarrrgghh!",
+"death5": "Tu habilidad es increíble, %NU! Deberías luchar POR la Alianza Rebelde, no - ¡Aaaaarrghh...",
+"entercombat1": "¡Te mataré, %TU!",
+"entercombat2": "¿Unirte a la Alianza Rebelde? ¿No? Entonces te destruiré, %TU!",
+"entercombat3": "%NU, no eres rival para mí!",
+"entercombat4": "¡%TU! ¡Te conozco! Intentaré que esto sea rápido.",
+"entercombat5": "¡Prepárate a morir!",
+"gothit1": "¿Eso es todo lo que tienes, %NU?!",
+"gothit2": "¡Mi nave! %NU, ¡lo lamentarás!",
+"gothit3": "¡Gah!",
+"gothit4": "¿Qué?! Eres un buen piloto, %NU, pero yo soy mejor!",
+"gothit5": "Ese fue un disparo afortunado, %NU!",
+"hityou1": "¿Ves, %NU? ¡No eres rival para mí!",
+"hityou2": "¡No puedes vencerme, %NU!",
+"hityou3": "La Alianza Rebelde VILLERÁ derrotar al Imperio, %NU! Empezando por ti!",
+"hityou4": "¡No puedes ganar, %NU!",
+"hityou5": "¡TE HE COGIDO! %NU! ¡JA! ¡JA!"
+}

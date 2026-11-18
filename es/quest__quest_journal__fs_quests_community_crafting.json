@@ -1,0 +1,14 @@
+{
+"defenses": "Fabricar los ingredientes",
+"defenses_detail": "Contribuye con 10 o más recursos o componentes al proyecto de fabricación de defensas del pueblo. El esquema \"Defensas del Pueblo\" detalla los artículos necesarios.",
+"defenses_main": "Ayuda a construir las defensas del pueblo",
+"defenses_main_detail": "Contribuye con artículos fabricados para ayudar a construir las defensas del pueblo.",
+"get_defense_schematics": "Obtén los esquemas",
+"get_defense_schematics_detail": "Habla con el droide QT-QC y consigue los esquemas necesarios para las defensas del pueblo.",
+"get_shield_schematics": "Obtén los esquemas",
+"get_shield_schematics_detail": "Habla con el droide QT-QC y consigue los esquemas necesarios para los escudos del pueblo.",
+"shields": "Fabricar los ingredientes",
+"shields_detail": "Contribuye con 20 o más recursos o componentes al proyecto de fabricación de escudos del pueblo.",
+"shields_main": "Ayuda a construir los escudos del pueblo",
+"shields_main_detail": "Contribuye con artículos fabricados para ayudar a construir los escudos del pueblo."
+}

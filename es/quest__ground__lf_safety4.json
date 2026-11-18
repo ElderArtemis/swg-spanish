@@ -1,0 +1,9 @@
+{
+"category": "Ground Quest",
+"journal_entry_description": "Mata a los brigantes hasta encontrar un datapad. Devuélvelo a Gerak en Bestine.",
+"journal_entry_title": "Medidas de Seguridad Parte 4",
+"task00_journal_entry_description": "Uno de estos brigantes debe tener información sobre su campamento principal. Mata a los brigantes hasta encontrar un datapad con el waypoint.",
+"task00_journal_entry_title": "Encuentra el Campamento Principal de los Brigantes",
+"task01_journal_entry_description": "Ahora que tienes el datapad, vuelve a Gerak Vertimis para que descifre su contenido.",
+"task01_journal_entry_title": "Regresa a Gerak Vertimis"
+}

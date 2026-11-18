@@ -1,0 +1,6 @@
+{
+"already_at_point": "Ya estás en ese punto.",
+"not_cleared_for_point": "No tienes autorización para ese punto.",
+"zone_too_full": "La actividad de hiperspace en ese sector es demasiado alta para calcular coordenadas seguras hacia tu destino elegido; quizá tengas que planear una ruta alternativa a través del hiperspace.",
+"zone_too_full_use_travel": "La actividad de hiperspace en ese sector es demasiado alta para calcular coordenadas seguras hacia tu destino elegido. Puedes usar el botón Viajar para ir a un sistema planetario menos poblado."
+}

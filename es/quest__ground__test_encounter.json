@@ -1,0 +1,9 @@
+{
+"category": "Testing",
+"journal_entry_description": "Prueba de encuentro",
+"journal_entry_title": "Prueba de encuentro",
+"task00_journal_entry_description": "Ve a (190, 190, 190) y mata a todos los womprats que haya allí.",
+"task00_journal_entry_title": "Encuentra la guarida de los womprats",
+"task01_journal_entry_description": "Mata a los womprats que hayas encontrado.",
+"task01_journal_entry_title": "¡Mátalos!"
+}

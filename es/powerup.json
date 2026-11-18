@@ -1,0 +1,8 @@
+{
+"mnu_remove_powerup": "Eliminar potenciador",
+"prose_already_powered": "¡Tu %TT ya tiene un potenciador!",
+"prose_apply_restricted": "No puedes aplicar %TU a %TT.",
+"prose_pup_apply": "Potenciaste tu %TT con %TU.",
+"prose_pup_expire": "El potenciador de tu %TT ha expirado.",
+"prose_remove_powerup": "Desconectaste el potenciador de tu %TT."
+}

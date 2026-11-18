@@ -1,0 +1,23 @@
+{
+"category": "Secrets of the Syren",
+"journal_entry_description": "Un piloto se perdió. Averigua lo que ocurrió y lo que estaba transportando.",
+"journal_entry_title": "¡Piloto caído!",
+"task00_journal_entry_description": "Ve a (0, 2012) en Rori y averigua qué le sucedió al piloto desaparecido.",
+"task00_journal_entry_title": "Ve a las coordenadas en Rori",
+"task01_journal_entry_description": "Busca alrededor del lugar del accidente alguna información.",
+"task01_journal_entry_title": "Busca en el sitio del accidente",
+"task02_journal_entry_description": "Has encontrado un datapad bloqueado.",
+"task02_journal_entry_title": "Datapad bloqueado",
+"task03_journal_entry_description": "Entrega el datapad bloqueado y la muestra de especia a Veega Madish.",
+"task03_journal_entry_title": "Regresa a Veega Madish",
+"task04_journal_entry_description": "El Doctor Edvar Vang podrá analizar la muestra de especia y darte información.",
+"task04_journal_entry_title": "Habla con el Doctor Vang",
+"task05_journal_entry_description": "Habla con Moxxar Krieg sobre la muestra de especia.",
+"task05_journal_entry_title": "Habla con Moxxar Krieg",
+"task06_journal_entry_description": "Alguien mató a Moxxar Krieg antes de que pudieras hablar con él. Un datapad estaba sobre el cadáver con un mensaje dirigido a ti.",
+"task06_journal_entry_title": "Demasiado tarde",
+"task07_journal_entry_description": "Has encontrado un cadáver y un datapad con un mensaje, aparentemente para ti. Necesitas más información y, con suerte, tu contacto tiene algo para ti.",
+"task07_journal_entry_title": "Se necesita más información.",
+"task08_journal_entry_description": "Has encontrado una muestra de algún tipo.",
+"task08_journal_entry_title": "Muestra encontrada"
+}

@@ -1,0 +1,20 @@
+{
+"m_chatter_1": "Mi trabajo aquí es muy serio. Necesitamos saber más sobre la vida en este planeta.",
+"m_chatter_2": "Si tan solo el académico jefe aprobara mi solicitud de una subvención mayor.",
+"m_chatter_3": "Me pregunto cuáles son las implicaciones ecosociales del comportamiento de rebaños biodiversos.",
+"m_chatter_4": "¿No debías estar en la cámara de pruebas hace media hora? Oh... lo siento, pensé que eras otra persona.",
+"m_greet": "¡Gran Scott! ¡Llegaste justo a tiempo! *Gasp* ¡Qué alivio!",
+"m_help_1": "¡Ayuda! ¡Sálvame de esto!",
+"m_help_2": "¡Soy demasiado inteligente para morir! ¡Ayúdame!",
+"m_hereitcomes_help": "Justo a tiempo también. ¡Las criaturas están regresando! ¡AYUDA!",
+"m_hereitcomes_nohelp": "¿No vas a ayudar? Muy perturbador. ¡Gah! ¡La bestia regresa! ¡AYUDA!",
+"m_ididallthework": "¡Sobreviví! Muy excelente. Me parece, sin embargo, que hice todo el trabajo para despachar las cosas. Lo siento, pero no puedo recompensarte porque pareces algo...ineficaz.",
+"m_studying": "¡Oh, lo siento! Olvidé decirte quién soy. Soy un científico investigador imperial que estudia la fauna de esta zona. Criaturas muy interesantes, de hecho.",
+"m_thanks": "Gracias por tu ayuda. Estoy realmente en deuda contigo. No tengo fondos suficientes para recompensarte, pero por favor, lleva mi marca como símbolo de tu hazaña.",
+"m_thebeast": "¡AH! ¡Casi lo olvidé! ¡Enfadé a una de las especies más desagradables que estudio y me atacó! Se acercó a matarme antes de que lograra ahuyentarlo. Es solo cuestión de tiempo antes de que vuelva a terminar el trabajo. Quién sabe, ¡puede que traiga a su manada!",
+"m_wesurvived": "¡Excelsior! ¡Estoy salvo!",
+"r_m_greet": "¿Por qué? ¿Qué pasa?",
+"r_m_studying": "Sí, pero ¿por qué estabas pánico hace un momento?",
+"r_m_thebeast_help": "Puedo ayudarte a defenderte del criatura.",
+"r_m_thebeast_nohelp": "No tengo ningún interés en la investigación biológica, imperial o de otro modo. Me temo que estás por tu cuenta."
+}
