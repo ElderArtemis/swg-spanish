@@ -1,0 +1,21 @@
+{
+"cpt_split": "Dividir recursos",
+"help_harvester_access": "Abre la tolva para sacar o tirar recursos.",
+"help_harvester_capacity": "Cuánto espacio del recolector está ocupado.",
+"help_harvester_health": "Cuánto daño ha recibido el recolector.",
+"help_harvester_name": "El nombre del recolector.",
+"help_harvester_on": "Encender el recolector.",
+"help_harvester_rate_actual": "El ritmo real de extracción. Depende del tipo y la calidad del recolector, y de la eficiencia del recurso elegido en el lugar del recolector.",
+"help_harvester_rate_spec": "El ritmo máximo teórico del recolector. El estado del recolector y la calidad del recurso hacen que el ritmo real sea menor.",
+"help_harvester_resource": "El recurso seleccionado.",
+"help_hopper_contents": "Los recursos recolectados disponibles para usar.",
+"help_hopper_dump": "Vaciar la tolva. Esto DESTRUIRÁ todos los recursos que haya en ella.",
+"help_hopper_retrieve": "Pasar recursos a tu inventario.",
+"help_hopper_table": "El contenido de la tolva.",
+"help_set_table": "La lista de recursos disponibles y su eficiencia en este lugar. Cuanta más eficiencia, más rápida es la recolección.",
+"help_split_amount": "Escribe la cantidad exacta a dividir.\n",
+"help_split_slider": "Ajusta la cantidad a dividir.\n",
+"help_split_viewer": "Muestra el objeto que se está dividiendo.\n",
+"help_viewer": "Usa el control deslizante para dividir los recursos en montones distintos. También puedes escribir la cantidad en la barra «Cantidad a dividir».",
+"split_amount": "Cantidad a dividir"
+}

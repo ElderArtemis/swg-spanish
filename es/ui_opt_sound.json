@@ -1,0 +1,20 @@
+{
+"caption": "Sonido",
+"enable": "Activar sonido",
+"max_sounds": "Máximo de sonidos",
+"tooltip_enable": "Marca esta casilla para activar o desactivar todo el sonido.",
+"tooltip_max_sounds": "Usa el menú desplegable de debajo para elegir cuántos sonidos pueden sonar a la vez como máximo.",
+"tooltip_ui_palette": "Puedes elegir entre varias combinaciones de colores predefinidas para la interfaz.",
+"tooltip_volume_background_music": "Mueve este control para cambiar el volumen de la música de fondo.",
+"tooltip_volume_combat_music": "Mueve este control para cambiar el volumen de la música de combate.",
+"tooltip_volume_effects": "Mueve este control para cambiar el volumen de los efectos de sonido.",
+"tooltip_volume_master": "Mueve este control para cambiar el volumen general del juego.",
+"tooltip_volume_player_music": "Mueve este control para cambiar el volumen de la música que tocan los jugadores. También cambia lo que oyes de tu propia banda, si eres músico.",
+"tooltip_volume_user_interface": "Mueve este control para cambiar el volumen de los sonidos al usar las ventanas y controles de la interfaz.",
+"volume_background_music": "Volumen de la música de fondo",
+"volume_combat_music": "Volumen de la música de combate",
+"volume_effects": "Volumen de efectos",
+"volume_master": "Volumen general",
+"volume_player_music": "Volumen de la música de jugadores",
+"volume_user_interface": "Volumen de la interfaz"
+}

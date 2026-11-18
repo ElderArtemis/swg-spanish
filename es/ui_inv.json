@@ -1,0 +1,10 @@
+{
+"help_buttoneq": "Este botón muestra u oculta la vista grande de tu personaje.",
+"help_capacity": "Este indicador muestra la capacidad actual y máxima de este contenedor.",
+"help_change_view": "Usa este botón para cambiar la vista del contenedor entre iconos y detalles.",
+"help_details": "Vista de detalles\n\nLa vista de detalles te permite ver más información a la vez.",
+"help_icons": "Vista de iconos\n\nEsta es la vista de iconos del contenido de un contenedor.\n\nSi estás viendo tu inventario, aquí aparecen los objetos que llevas encima y los que tienes puestos. Los que tienes puestos aparecen resaltados.\n\nHaz clic derecho o mantén pulsado el clic izquierdo para abrir el menú radial de cualquiera de estos objetos.",
+"help_info": "Este icono muestra el contenedor que estás viendo. Si estás viendo tu inventario, aquí aparece una imagen de tu personaje.\n\nSi estás viendo un contenedor dentro de otro, pulsa aquí para volver al contenedor superior.",
+"help_viewer": "Cuando este visor está a la vista, puedes arrastrar objetos sobre él para equipártelos.",
+"inventory_full": "Inventario sobrecargado: no puedes moverte"
+}

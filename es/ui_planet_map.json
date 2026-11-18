@@ -1,0 +1,21 @@
+{
+"exit": "Salir",
+"help_here": "Estás aquí.",
+"help_map": "Este es el mapa planetario.\n\nPuedes usarlo para encontrar lugares y gestionar tus puntos de ruta.\n\nHaz clic derecho en el mapa para abrir un menú con el que crear, destruir, renombrar y activar puntos de ruta.",
+"help_tree": "Aquí aparecen todos los lugares registrados del mapa.\n\nTambién se incluyen tus puntos de ruta.\n\nElige una categoría o subcategoría para mostrar un grupo de lugares en el mapa de la izquierda. Elige un solo lugar para verlo por separado.\n\nPuedes hacer clic derecho en los lugares de esta lista para abrir un menú con el que gestionar tus puntos de ruta.",
+"help_zoom": "Este es el control de zoom del mapa.\n\nÚsalo para acercar o alejar la vista del mapa.",
+"location_types": "Tipos de lugar",
+"locations": "Buscar un lugar:",
+"popup_waypoint_activate": "Activar punto de ruta",
+"popup_waypoint_create": "Crear punto de ruta",
+"popup_waypoint_deactivate": "Desactivar punto de ruta",
+"popup_waypoint_destroy": "Destruir punto de ruta",
+"popup_waypoint_set_name": "Poner nombre al punto de ruta",
+"refresh": "Actualizar",
+"show_all_cities": "Mostrar todas las ciudades",
+"show_all_waypoints": "Mostrar todos los puntos de ruta",
+"show_names": "Mostrar nombres",
+"tooltip_map": "Haz clic y arrastra para desplazar el mapa.\nDoble clic para acercar hacia ese punto.\nClic derecho en un lugar o en el mapa para editar puntos de ruta.",
+"tree_all": "Todos",
+"waiting_locations": "Descargando los datos de lugares del planeta..."
+}

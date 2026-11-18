@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Eso debe haber sido el contacto de los cargueros, buen trabajo manteniéndolos a raya. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 La actividad es un poco sospechosa en esta zona, haz una patrulla rápida mientras la orden evalúa. \\#pcontrast3 >",
+"title": "Sistema Endor: Sobrevive al ataque del Sol Negro",
+"title_d": "Evita la destrucción a manos del Sol Negro"
+}

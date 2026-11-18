@@ -1,0 +1,10 @@
+orig/
+*.tre
+*.log
+*.out
+*.tmp
+__pycache__/
+publicar.sh
+revisar.py
+prueba_modelos.py
+prueba_modelos.json

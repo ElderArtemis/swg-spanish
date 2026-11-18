@@ -1,0 +1,12 @@
+{
+"assigned_delayed": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "\\#pcontrast1 Storm Squadron Command:\\#pcontrast3 <Los Rebeldes lograron recuperar la información falsa mientras luchabas contra los A-wings. El escaneo indica mayor actividad alrededor del punto de emboscada.>",
+"split_quest_alert": "Los Rebeldes han capturado el transbordador señuelo. La información falsa que lleva debería llevarlos directamente a nuestra emboscada. Viaja al punto de emboscada y espera a que lleguen los Rebeldes. Mantén el control de esa posición hasta que podamos obtener un escaneo completo del área circundante.",
+"title": "Sistema Endor: Destruye la Fuerza de Ataque Rebelde",
+"title_d": "Destruye los A-wings rebeldes que han sido enviados para eliminarte. Asegurarte de que todos sean eliminados ayudará a vender la desinformación."
+}

@@ -1,0 +1,17 @@
+{
+"back": "Atrás",
+"bug": "Informar de un error",
+"cpt_help": "Holocrón",
+"debugreload": "Recargar datos",
+"exit": "Salir",
+"help_buttons": "Usa estos botones para avanzar y retroceder por las páginas de ayuda.",
+"help_info": "Esta página muestra la información de la página seleccionada a la izquierda.",
+"help_services": "Pulsa este botón para acceder al soporte técnico o pedir ayuda.",
+"help_topics": "Esta es la lista de todos los temas de la ayuda.",
+"info": "Entrada",
+"intro_text": "Esta es tu pantalla de ayuda. Puedes abrirla con Ctrl-H.",
+"next": "Adelante",
+"report_harassment": "Denunciar acoso",
+"services": "Atención al cliente",
+"topics": "Temas"
+}

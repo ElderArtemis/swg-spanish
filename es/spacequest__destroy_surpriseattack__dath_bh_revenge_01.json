@@ -1,0 +1,15 @@
+{
+"duty_update": "",
+"found_loc": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"title_d": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"assigned_delayed": "\\#pcontrast3 Bountyhunters Guild: < \\#pcontrast1 ¡No entres a Dathomir! \\#pcontrast3 >",
+"complete": "¡Has podido ganar esta vez... pero no te cruces con la Guilda de Cazarrecompensas!",
+"quest_update": "\\#pcontrast3 Bountyhunters Guild: < \\#pcontrast1 %TU \\#pcontrast3 >",
+"title": "La Venganza del Cazarrecompensas"
+}

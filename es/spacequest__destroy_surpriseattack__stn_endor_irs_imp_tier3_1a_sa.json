@@ -1,0 +1,13 @@
+{
+"leave_early": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"assigned_delayed": "\\#pcontrast3 Imperial Station: < \\#pcontrast1 Capitán, hemos detectado 3 naves acercándose a gran velocidad.  Las firmas de armas indican cazas de ataque x-wing, ten cuidado. \\#pcontrast3 >",
+"complete": "\\#pcontrast3 Imperial Station: < \\#pcontrast1 Pareces estar libre por ahora, sigue adelante. \\#pcontrast3 >",
+"title": "Sistema Naboo:  Un tropiezo en el camino",
+"title_d": "Una patrulla de cazas x-wing rebeldes ha interrumpido tu operación de rescate. Despádelos y continúa con la misión."
+}

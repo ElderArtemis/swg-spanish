@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"split_quest_alert": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"Quest Log Data": "Texto",
+"complete": "¡Misión completada! Regresa a la base viajando a la Estación Espacial de Naboo, apunta con la tecla 'C' y usa /comm.",
+"split_quest_alert_fail": "Esta no es la primera vez que los nuevos pilotos fallan en su primera salida. Esperamos que lo intentes de nuevo hasta que lo consigas. Te envío una nueva ubicación de navegación a otra ruta de patrulla.",
+"title": "Sistema Naboo: Destruye el Emboscada X-wing Rebelde",
+"title_d": "Destruye la emboscada rebelde. Tu ruta de patrulla ha sido exitosa y, como se planificó, los Rebeldes te atacaron. Debes destruir a los Rebeldes que te atacaron. Una vez que hayas completado esta tarea regresa a la estación espacial de Tatooine, apunta con la tecla 'C' y usa el comando /comm y regresa a tu oficial de mando."
+}

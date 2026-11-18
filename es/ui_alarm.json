@@ -1,0 +1,19 @@
+{
+"alarm_am": "AM",
+"alarm_at_invalid": "La hora de la alarma no es válida. Las horas válidas son de 0 a 23 y los minutos de 0 a 59.",
+"alarm_expired": "Alarma (%DI) vencida: ",
+"alarm_id_expires": "La alarma vence",
+"alarm_id_invalid": "La alarma (%DI) no es válida.",
+"alarm_in_invalid": "El tiempo de la alarma no es válido. Los valores válidos son de 0 a 8760 horas y de 0 a 60 minutos.",
+"alarm_maximum_reached": "Has llegado al máximo de %DI alarmas. Borra una alarma para poder añadir otra.",
+"alarm_midnight": "Medianoche",
+"alarm_none": "No hay ninguna alarma puesta.",
+"alarm_noon": "Mediodía",
+"alarm_number": "Alarma %DI",
+"alarm_pm": "PM",
+"alarm_recurring": "(repetitiva)",
+"alarm_remaining": "(quedan %TT)",
+"alarm_remove": "Borrada:",
+"alarm_title": "Lista de alarmas\n----------------------------------",
+"alarm_usage": "Para poner una alarma escribe /alarmAddIn, /alarmAddInRepeat, /alarmAddtAt o /alarmAddAtRepeat para ver los parámetros. Consulta también la ventana de alarmas."
+}

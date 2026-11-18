@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "Estación espacial Imperial: < ¡Buen trabajo! Esto lo confirma, pero tenemos que cambiar nuestras rutas de inmediato. ¡Encuentra más de ellos, malandrines rebeldes! >",
+"split_quest_alert": "Estación espacial Imperial: < ¡El explorador debe haber alertado a sus amigos, se están dirigiendo a ti! >",
+"title": "Sistema Yavin: ¡Exploradores detectados!",
+"title_d": "Tu radar muestra un cazador de exploración rebelde. Esto confirma que la ruta ha sido comprometida, pero el comandante quiere que elimines al rebelde."
+}

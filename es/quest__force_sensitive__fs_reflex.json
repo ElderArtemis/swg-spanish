@@ -1,0 +1,19 @@
+{
+"msg_phase_01_find_theater_waypoint": "Las pistas que sigues terminan aquí. Los Sombras Sith probablemente se hayan detenido recientemente en algún lugar cercano. Podrías buscar un campamento en la zona…",
+"msg_phase_01_quest_continue": "¡Has rescatado a un prisionero! Pero todavía faltan al menos %DI más. Deberías hablar con Whip de nuevo para más información…",
+"msg_phase_01_quest_error_aborted": "Ha ocurrido un error al transmitir a tu datapad.",
+"msg_phase_01_quest_error_theater_fail": "Parece que los Sombras Sith hicieron un campamento aquí, pero se han ido. Encuentras un nuevo conjunto de huellas que se alejan al horizonte…",
+"msg_phase_01_quest_fail_incap": "Fracaso de la misión: has quedado incapacitado, tu intento de rescatar al aldeano capturado ha fallado. Deberías volver a Aurilia y hablar con Whip para continuar.",
+"msg_phase_01_quest_fail_logout": "Fracaso de la misión: has cerrado sesión y abortado tu intento de rescatar al aldeano capturado. Deberías volver a Aurilia y hablar con Whip para continuar.",
+"msg_phase_01_quest_fail_phase_done": "No lograste rescatar a los aldeanos capturados de Aurilia a tiempo. Se presume que los aldeanos faltantes están muertos y la operación de rescate ha sido abortada.",
+"msg_phase_01_quest_failed": "Fallaste en rescatar al aldeano. Deberías volver y hablar con Whip de nuevo antes de continuar…",
+"msg_phase_01_quest_finished": "¡Has rescatado a todos los aldeanos faltantes! Sientes que tu mente se abre a los posibles secretos de la Supervivencia.",
+"msg_phase_02_find_theater_waypoint": "La última transmisión del baliza de emergencia del transporte fue desde aquí. El barco probablemente esté en algún lugar cercano…",
+"msg_phase_02_got_crate": "Al llegar a los restos de un transporte estrellado, recoges una caja de suministros del escombros. Parece ser el único cargamento aún en condiciones utilizables.",
+"msg_phase_02_quest_continue": "¡Has recuperado algunos suministros! Pero todavía faltan al menos %DI más.",
+"msg_phase_02_quest_error_aborted": "Ha ocurrido un error al transferir la ubicación de la baliza de emergencia a tu datapad.",
+"msg_phase_02_quest_fail_incap": "Fracaso de la misión: has quedado incapacitado. La caja de suministros que llevabas ha sido destruida. Deberías volver a Aurilia y hablar con Whip para continuar.",
+"msg_phase_02_quest_fail_phase_done": "No lograste recuperar los suministros para el pueblo de Aurilia a tiempo. Se presume que los suministros están perdidos y la operación de recuperación ha sido abortada.",
+"msg_phase_02_quest_failed": "¡Oh no! Los suministros que llevabas se han perdido! Deberías volver y hablar con Whip de nuevo antes de continuar…",
+"msg_phase_02_quest_finished": "¡Has recuperado todos los suministros faltantes! Sientes que tu mente se abre a los posibles secretos del Control de Vehículos."
+}

@@ -1,0 +1,7 @@
+{
+"help_available": "Esta es la página de gestión de pestañas.\n\nDesde aquí eliges qué canales se muestran en la pestaña.\n\nEsta primera lista muestra los canales integrados disponibles que ahora no se muestran en esta pestaña.",
+"help_default": "Pulsa este botón para elegir a qué canal va el texto que escribas en esta pestaña de chat.",
+"help_join": "Pulsa este botón para abrir una ventana donde suscribirte a canales de chat nuevos.",
+"help_name": "El nombre que se muestra en esta pestaña de chat.",
+"help_tab": "Esta lista contiene los canales de chat que se mostrarán en esta pestaña. Para quitar un canal de la pestaña, haz doble clic en él o selecciónalo y pulsa las flechas."
+}

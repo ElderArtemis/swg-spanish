@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Están al tanto de tu presencia, mantente alerta. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Estamos rastreando el objetivo final ahora. \\#pcontrast3 >",
+"title": "Sistema Dathomir: Sobrevive al emboscada del Daga Oculta",
+"title_d": "Sobrevive al emboscada del Daga Oculta"
+}

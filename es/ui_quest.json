@@ -1,0 +1,7 @@
+{
+"cpt_journal": "Diario de misiones",
+"forcesensitive": "Misiones",
+"help": "Este es tu diario de misiones. Aquí aparecen las misiones activas y completadas. Pulsa una categoría para ver sus misiones. Las misiones en un color destacado (normalmente blanco) están «activas», es decir, sin completar. Las que aparecen en texto atenuado (normalmente gris) están completadas. Las completadas solo se muestran si está marcada la casilla «Incluir misiones completadas»; las activas se muestran siempre. Resalta una misión para ver más información en la mitad inferior de la ventana.",
+"quests": "Categorías",
+"show_mission": "Incluir misiones completadas"
+}

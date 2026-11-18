@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "¡La emboscada enemiga ha sido derrotada!",
+"split_quest_alert": "¡La ubicación del combate dañado ha sido confirmada! Intercepta e inspecciona ese combate para encontrar pistas sobre su identidad. Vuelve a la estación cuando hayas terminado tu búsqueda.",
+"title": "Sistema Yavin: Atacado por Combates Misteriosos",
+"title_d": "Uno de los combates que estabas siguiendo debe haberte detectado y haber preparado una emboscada. El combate dañado sigue en el radar, pero tendrás que destruir a estos combates para alcanzarlo."
+}

@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "Los Asesinos de Blacklight han sido derrotados.",
+"leave_early": "\\#pcontrast3 Blacklight: < \\#pcontrast1 Este no vale nuestros esfuerzos, salgamos de aquí. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 Estación Endor: \\#pcontrast1 La siguiente parada es el Miasma Lineal, actualizando punto de ruta ahora. \\#pcontrast3 >",
+"title": "Sistema Endor: Una Sombra de Onyx",
+"title_d": "Los Asesinos de Blacklight se oponen a tu intrusión en el área del Faro Onyx y han venido a expulsarte."
+}

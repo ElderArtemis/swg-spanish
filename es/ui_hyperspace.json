@@ -1,0 +1,10 @@
+{
+"cpt_hyperspace": "Mapa del sistema",
+"help_button_hyperspace": "Viajar por el hiperespacio\n\nTras elegir un sistema planetario y un punto de hiperespacio como destino, usa este botón para viajar hasta allí por el hiperespacio.\n\nTu nave necesita un motor de hiperespacio para viajar por el hiperespacio.",
+"help_description": "Información del punto de hiperespacio\n\nMuestra información sobre el punto de hiperespacio que has seleccionado en el mapa de la galaxia.",
+"help_planets": "Mapa de la galaxia\n\nEstos son los sistemas planetarios a los que puedes viajar por el hiperespacio.\n\nElige el sistema al que quieres ir y después el punto de hiperespacio de ese sistema donde llegarás.",
+"hyperspace": "Hiperespacio",
+"loading": "Cargando",
+"selected_point": "Punto seleccionado:",
+"travel_to": "Información del viaje"
+}

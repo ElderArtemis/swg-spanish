@@ -1,0 +1,12 @@
+{
+"away_from_keyboard_automatic_disabled": "El estado automático de ausente está desactivado.",
+"away_from_keyboard_automatic_off": "Tu estado ya no se marcará automáticamente como ausente.",
+"away_from_keyboard_automatic_on": "Tu estado se marcará automáticamente como ausente.",
+"away_from_keyboard_automatic_response_prefix": "Respuesta automática (ausente): ",
+"away_from_keyboard_automatic_time_invalid": "El tiempo válido antes de activar automáticamente el estado de ausente es de 0 a 30 minutos. Un tiempo de 0 desactiva el estado automático.",
+"away_from_keyboard_automatic_time_many": "Pasarás automáticamente a ausente tras %DI minutos de inactividad.",
+"away_from_keyboard_automatic_time_one": "Pasarás automáticamente a ausente tras %DI minuto de inactividad.",
+"away_from_keyboard_default_message": "Ahora mismo estoy ausente.",
+"away_from_keyboard_off": "Ya no estás ausente.",
+"away_from_keyboard_on": "Ahora estás ausente."
+}

@@ -1,0 +1,11 @@
+{
+"ability_prose": "No tienes suficientes habilidades para %TO.",
+"locomotion_prose": "No puedes %TO mientras %TU.",
+"state_prose": "No puedes %TO mientras %TU.",
+"success_prose": "El comando %TO se ejecutó correctamente.",
+"target_range_prose": "Tu objetivo está demasiado lejos para %TO.",
+"target_type_prose": "El objetivo para %TO era inválido.",
+"unstick_in_progress": "Desenredado en curso",
+"unstick_request_cancelled": "Solicitud de desenredado cancelada",
+"unstick_request_complete": "Desenredado completado"
+}

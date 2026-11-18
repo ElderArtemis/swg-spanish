@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"Quest Log Data": "Text",
+"complete": "¡No está mal para un recién llegado! Vuelve a la base para tu nueva asignación viajando a la Estación Espacial de Naboo y usando /comm.",
+"found_loc": "Dirígete a las nuevas coordenadas subidas a tu ordenador de navegación.",
+"quest_update": "RSF Command:",
+"split_quest_alert": "\\#pcontrast3 Capt Dinge: < \\#pcontrast1 Pareces haber tenido un pequeño problema allá fuera Capitán.  Repara tus heridas y repite la patrulla. \\#pcontrast3 >",
+"split_quest_alert_fail": "\\#pcontrast3 Capt Dinge: < \\#pcontrast1 Pareces haber tenido un pequeño problema allá fuera Capitán.  Repara tus heridas y repite la patrulla. \\#pcontrast3 >",
+"title": "Sistema Naboo: Elimina la amenaza pirata",
+"title_d": "Destruye la emboscada del Sol Negro"
+}

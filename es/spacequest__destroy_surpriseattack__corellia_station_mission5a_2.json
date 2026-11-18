@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "\\#pcontrast1 CorSec Command: <\\#pcontrast3  Buen trabajo, el verdadero líder de la Sombra ha sido destruido. Regresa a la estación para el informe.\\#pcontrast1  >",
+"title": "Sistema Corellia: Destruye al verdadero líder de la Sombra",
+"title_d": "El barco que capturaste era solo un señuelo. Como tu programa de anulación del piloto automático ya está inutilizado, no tienes otra opción que destruir al verdadero líder de la Sombra."
+}

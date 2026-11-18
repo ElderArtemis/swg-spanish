@@ -1,0 +1,15 @@
+{
+"default": "",
+"fs_response01": "¿Puedes conseguirme ese llavero hidráulico ahí?",
+"fs_response02": "Este conducto de relé de fase está disparado. Necesitaremos otro.",
+"fs_response03": "El regulador de potencia fluctúa en una resonancia de 3,6 gigabuels. ¿Puedes ver si puedes fijarlo?",
+"fs_response04": "¡Oye! ¿Ves eso? ¡El generador de mesones está a solo .02 nanopulsos de lo nominal a más de 4 gigabuels! Tenemos un ganador aquí.",
+"fs_response05": "El shunt de potencia de buffer está atascado. ¿Me pasas el martillo de potencia?",
+"fs_response06": "¡Genial! Todos los indicadores del tablero de control maestro se han encendido. Hay una sobrecarga en algún lugar.",
+"fs_response07": "¡Ay! ¡Maldita sea! Si golpeo mi pulgar una vez más, Sivarra pensará que soy adicto a los analgésicos.",
+"fs_response08": "Necesitaremos más aislamiento en el núcleo de potencia. Estoy leyendo una fuga de clase 3.",
+"fs_response09": "Observa cómo agrupas esos filamentos de relé de fase. No nos quedan muchos después de que tiraste esa caja junto al lugar de Rohak.",
+"fs_response10": "Tenemos un cambio de marcha a 2,2 gigabuels y manteniendo. Obtén las lecturas de fase y luego apagaremos.",
+"fs_response11": "Reduce la potencia del emisor o vas a quemarte.",
+"fs_response12": "El amortiguador de mesones está en. Podemos iniciar las pruebas de encendido cuando quieras."
+}

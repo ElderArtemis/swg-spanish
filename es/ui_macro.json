@@ -1,0 +1,5 @@
+{
+"help_icon": "Elige un icono para esta macro.",
+"help_name": "Esta es la página de macros.\n\nAquí puedes crear y editar macros.\n\nEsta primera casilla es el nombre de la macro. Debe ser una sola palabra.",
+"help_text": "Esta es la definición de la macro.\n\nEjemplo de macro:\nHola;\n/stand;\n/pause 3;\n/bow %TT;\n\nLa primera línea es un texto que se dice en el chat cercano. La segunda llama al comando Levantarse. La tercera hace que la macro espere 3 segundos. La última hace que tu personaje haga una reverencia a tu objetivo actual. Consulta la documentación para saber más sobre las macros."
+}

@@ -1,0 +1,12 @@
+{
+"download": "Descargar",
+"download_complete": "Descarga completa",
+"fail": "El escritorio está cubierto de papeles relacionados con negocios y objetos varios. No encuentras nada interesante.",
+"history_disk_found": "Al acercarte al terminal, notas algo sobresaliendo de un ranura de datos y lo tomas. El objeto parece ser un datadisk envejecido, pero parece que todavía se puede leer.",
+"history_disk_found_already": "Buscas en el área, pero no encuentras nada más interesante.",
+"inv_full": "Descarga terminada: Inventario lleno",
+"receive": "Encuentras una pantalla portátil entre los papeles. Parece contener información valiosa.",
+"receive1": "El escritorio está ordenado. Es fácil encontrar el libro de registro del contable. Tomas el objeto.",
+"receivemsg": "Encuentras una pantalla portátil entre los papeles. Parece contener información valiosa.",
+"searched": "Acceso denegado: Ya has descargado datos de este terminal."
+}

@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Parece que no todas las firmas eran falsas.  Me alegra que hayas salido de eso, Capitán. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Regresa al Sistema Naboo lo antes posible.  Tenemos una verificación secundaria de uno de esos señales de hiperespacio. \\#pcontrast3 >",
+"title": "Sistema Dantooine: Defiende del asalto del Sol Negro",
+"title_d": "Defiende del asalto del Sol Negro"
+}

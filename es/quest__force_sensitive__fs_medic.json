@@ -1,0 +1,21 @@
+{
+"admin_meds": "Administrando medicamentos al paciente... Si necesitas una lista actualizada de síntomas, avísame.",
+"bacta_tank_d": "Este tanque contiene una gran cantidad de fluido Bacta, fluido Bacta con bacterias especiales capaces de curar incluso heridas que parecen mortales.",
+"bacta_tank_n": "Un tanque Bacta",
+"combat_healing_count_part1": "Has ayudado a",
+"combat_healing_count_part2": "veces, sigue con el buen trabajo.",
+"combat_healing_just_started": "Acabas de empezar, ¡sal ahí!",
+"npc_cured": "Este paciente parece responder a los tratamientos, deberíamos poder darlo de alta después de un poco más de descanso. Avísame cuando estés listo para el siguiente paciente. Reiniciando protocolo para el próximo paciente.",
+"symptom0": "fiebre",
+"symptom1": "vómitos",
+"symptom10": "hinchazón",
+"symptom11": "hemorragia interna",
+"symptom2": "heridas abiertas",
+"symptom3": "lesiones llenas de pus",
+"symptom4": "frecuencia cardíaca errática",
+"symptom5": "fallo respiratorio",
+"symptom6": "pérdida de visión",
+"symptom7": "parálisis parcial",
+"symptom8": "espasmos violentos",
+"symptom9": "tos con sangre"
+}

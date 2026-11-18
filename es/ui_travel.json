@@ -1,0 +1,14 @@
+{
+"cost": "Precio",
+"exit": "Salir",
+"help_cost": "Cuánto cuesta este billete.",
+"help_location": "El lugar de destino.",
+"help_map": "Este mapa muestra los lugares para los que puedes comprar billetes.",
+"help_planet": "El planeta de destino.",
+"help_roundtrip": "¿Billete de solo ida o de ida y vuelta?",
+"label_city": "Estás en la ciudad de:",
+"label_planet": "en el planeta:",
+"purchase": "Comprar",
+"roundtrip": "Ida y vuelta",
+"ticket_purchase": "Terminal de venta de billetes"
+}

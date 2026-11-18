@@ -1,0 +1,13 @@
+{
+"menu_learn": "Aprender",
+"msg_already_have_command": "Ya tienes esa habilidad. No puedes aprenderla con este objeto.",
+"msg_already_have_schematic": "Ya tienes ese esquema de diseño. No puedes aprenderlo con este objeto.",
+"msg_learned_command": "¡Has aprendido una nueva habilidad!",
+"msg_learned_schematic": "¡Has aprendido un nuevo esquema de diseño!",
+"msg_no_min_skill": "No cumples los requisitos mínimos de habilidad para aprender con este objeto. Debes tener la habilidad %TO.",
+"msg_no_xp": "No puedes aprender con este objeto. No tienes experiencia %TO.",
+"msg_not_enough_xp": "No tienes suficiente experiencia para aprender con este objeto. Necesitas al menos %DI %TO experiencia.",
+"sui_prompt1": "Debes gastar puntos de experiencia para aprender con este objeto.\n\n¿Realmente quieres gastar ",
+"sui_prompt2": " experiencia para aprender con este objeto?",
+"sui_title": "Aprender con objeto"
+}

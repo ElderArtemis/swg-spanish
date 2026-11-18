@@ -1,0 +1,11 @@
+{
+"cpt_shipdetails": "detalles del componente",
+"default": "",
+"help_component_detail": "Detalles del componente\n\nMuestra los detalles del componente seleccionado en la lista de huecos.",
+"help_disabled": "Inutilizado\n\nEste icono indica que el componente cargado en ese hueco está inutilizado.",
+"help_hitpoints": "Poca resistencia\n\nEste icono indica que el componente cargado en ese hueco tiene menos del 25 % de su resistencia máxima.",
+"help_shipinfo": "Información general de la nave\n\nEsta es la información general de tu nave.",
+"help_slots": "Huecos de componentes\n\nLa lista de huecos disponibles para componentes en una nave.",
+"help_unpowered": "Sin energía\n\nEste icono indica que el componente cargado en ese hueco no recibe energía suficiente para funcionar. Normalmente significa que el reactor principal de la nave no funciona a un nivel suficiente.",
+"help_value_bar": "Barra de resistencia del componente\n\nMuestra la resistencia actual del componente."
+}

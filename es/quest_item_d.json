@@ -1,0 +1,23 @@
+{
+"contract_crate": "Esta pequeña caja se usa para guardar y transportar artículos para una orden de fabricación. Cuando la caja esté llena con el número especificado de artículos, vuelve a la persona que te dio la orden para recibir tu pago.",
+"crowd_pleaser_dance_reward": "Este documento contiene la información necesaria para aprender el estilo de baile teatral.\n\nDebido a la dificultad de esta actuación, solo los bailarines experimentados podrán aprender este estilo de baile.",
+"crowd_pleaser_music_reward": "Este documento contiene la información necesaria para aprender el estilo de música occidental.\n\nDebido a la dificultad de esta actuación, solo los músicos experimentados podrán aprender este estilo de música.",
+"fs_craft_puzzle_analyzer": "Este dispositivo es capaz de analizar las técnicas de construcción y los materiales principales de un objeto. El resultado es una descripción detallada de los recursos necesarios y los pasos requeridos para fabricar ese objeto. El objeto analizado se destruye en este proceso.\n\nTen en cuenta que este dispositivo solo se puede usar con los artículos para los que fue diseñado.",
+"fs_craft_puzzle_calibrator": "Este dispositivo se usa para calibrar los distintos ajustes de los componentes que se van a usar en equipos de precisión.",
+"fs_craft_puzzle_config_processor": "Este componente toma datos de configuración en tiempo real de un terminal de entrada de usuario y los aplica inmediatamente al equipo en el que está instalado. Esto elimina la necesidad de una configuración manual más lenta.\n\nEs un componente de una matriz de sensores.",
+"fs_craft_puzzle_decryption_chip": "Este componente es necesario para descifrar datos potencialmente sensibles. El chip toma datos cifrados y los convierte a un formato utilizable.\n\nEs un componente de una matriz de sensores.\n\n",
+"fs_craft_puzzle_gyro_receiver": "Este componente incluye una unidad receptora de amplio espectro que puede orientarse en cualquier dirección para lograr la recepción de datos más precisa y eficiente posible. \n\nEs un componente de una matriz de sensores.",
+"fs_craft_puzzle_signal_amp": "Este componente potencia la señal de las transmisiones entrantes y salientes. Los datos salientes se potencian para ayudar en la transmisión a larga distancia, y los datos entrantes se analizan para recuperar información perdida y se amplifican para su utilidad.\n\nEs un componente de una matriz de sensores.",
+"fs_craft_puzzle_solid_state_array": "Este es el componente principal de cualquier equipo de transmisión orientado a una matriz. Los transmisores de estado sólido se disponen y alinean para un amplio rango de capacidades de comunicación.\n\nEs un componente de una matriz de sensores.",
+"fs_craft_puzzle_terminal": "Este terminal muestra el estado general de la matriz de sensores, además de proporcionar información sobre y acceso a los distintos componentes instalados en la matriz.",
+"fs_crafting4_computer_core": "Un núcleo de ordenador recuperado de un satélite dañado.",
+"fs_crafting4_downed_satellite": "Este satélite cayó del cielo y hace mucho tiempo que lo abandonó quien lo poseía originalmente. El satélite está bastante dañado y no se puede reparar, pero es posible que algunas piezas todavía valgan la pena recuperar.",
+"fs_reflex_supply_crate": "Esta es una caja de suministros que se salvó de un transporte averiado.",
+"hero_of_tatooine_explosives": "Este dispositivo contiene una gran carga explosiva que está conectada a una unidad de temporizador más pequeña.",
+"hero_of_tatooine_explosives_crate": "Una gran caja de viaje. Parece que ha estado aquí durante mucho tiempo y parece que podría desmoronarse en cualquier momento.",
+"hero_of_tatooine_mark_altruism": "El portador de esta marca ha demostrado un altruismo sobresaliente ante circunstancias abrumadoras.",
+"hero_of_tatooine_mark_courage": "El portador de esta marca ha demostrado un coraje sobresaliente ante un peligro inminente.",
+"hero_of_tatooine_mark_honor": "El portador de esta marca ha demostrado un honor sobresaliente cuando se enfrenta a decisiones difíciles.",
+"hero_of_tatooine_mark_intellect": "El portador de esta marca ha demostrado un intelecto sobresaliente ante un problema complejo.",
+"hero_of_tatooine_rock_crevice": "Hay una pequeña grieta detrás de esta roca. Parece que podría haber suficiente espacio para meter un objeto pequeño allí."
+}

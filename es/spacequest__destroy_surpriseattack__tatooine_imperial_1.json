@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"Quest Log Data": "Text",
+"complete": "¡Misión completada! Regresa a tu superior para la siguiente asignación viajando a la Estación Espacial de Tatooine, apunta con la tecla 'C' y usa /comm.",
+"split_quest_alert": "¡Los Saqueadores Comerciales están en ruta de interceptación! Destrúyelos!",
+"split_quest_alert_fail": "Esta no es la primera vez que los nuevos pilotos fallan en su primera salida. Esperamos que lo intentes de nuevo hasta lograrlo. Te envío una nueva ubicación de navegación para otra ruta de patrulla.",
+"title": "Sistema Tatooine: Destruir a los Saqueadores Comerciales",
+"title_d": "Destruye la emboscada pirata. Tu ruta de patrulla ha sido exitosa y, como se planificó, los Saqueadores Comerciales te atacaron. Debes destruir a los piratas que te atacaron. Una vez completada esta tarea, regresa a la estación espacial de Tatooine, apunta con la tecla 'C' y usa el comando /comm y regresa a tu oficial de mando."
+}

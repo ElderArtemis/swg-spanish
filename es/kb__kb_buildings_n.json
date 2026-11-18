@@ -1,0 +1,18 @@
+{
+"bank": "Banco",
+"barracks": "Cuartel",
+"cantina": "Cantina",
+"cloningfacility": "Centro de clonación",
+"combatguild": "Gremio de combate",
+"commerceguild": "Gremio de comercio",
+"garage": "Garaje",
+"hospital": "Hospital",
+"hotel": "Hotel",
+"importantbuildings": "Edificios importantes",
+"medicalcenter": "Centro médico",
+"shuttleport": "Puerto de transbordadores",
+"starport": "Puerto estelar",
+"tavern": "Taberna",
+"theater": "Teatro",
+"university": "Universidad"
+}

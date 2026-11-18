@@ -1,0 +1,13 @@
+{
+"assigned_delayed": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"Quest Log Data": "Text",
+"complete": "¡Misión completada! Vuelve a Dravis para tu siguiente asignación viajando a la Estación Espacial de Tatooine y usando /comm.",
+"split_quest_alert": "\\#pcontrast3 Dravis: < \\#pcontrast1 Pareces haber encontrado un pequeño problema allá afuera. Repara tus heridas y repite la patrulla. \\#pcontrast3 >",
+"split_quest_alert_fail": "\\#pcontrast3 Dravis: < \\#pcontrast1 Pareces haber encontrado un pequeño problema allá afuera. Repara tus heridas y repite la patrulla. \\#pcontrast3 >",
+"title": "Sistema Tatooine: Elimina la patrulla enemiga",
+"title_d": "Defiéndete del ataque de los piratas del Sol Negro"
+}

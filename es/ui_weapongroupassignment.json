@@ -1,0 +1,16 @@
+{
+"all_weapons": "Armas sin asignar",
+"caption": "Asignación de grupos de armas",
+"help_all_weapons": "Estas son tus armas sin asignar. Puedes añadirlas a uno de tus grupos de armas.",
+"help_buttons_addremove": "Usa estos botones para asignar armas al grupo seleccionado o quitarlas de él.",
+"help_selected": "Estas son las armas del grupo de armas seleccionado.",
+"help_weapon_group": "Estos son tus grupos de armas. Puedes asignar armas de un tipo parecido a cada grupo para usarlas en combate.",
+"not_a_pilot": "Solo el piloto puede gestionar la asignación de grupos de armas.",
+"reset_defaults": "Restablecer valores",
+"selected_group": "Armas asignadas",
+"suffix_countermeasure": " \\#pcontrast1 (contramedida)\\#.",
+"suffix_empty": " (vacío)",
+"suffix_missile": " \\#pcontrast1 (misil)\\#.",
+"suffix_projectile": " \\#pcontrast1 (proyectil)\\#.",
+"weapon_groups_available": "Grupos de armas"
+}

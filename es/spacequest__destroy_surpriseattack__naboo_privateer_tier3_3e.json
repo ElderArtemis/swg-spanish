@@ -1,0 +1,13 @@
+{
+"leave_early": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"assigned_delayed": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Destruye a esos agresores y vuelve aquí.  Hemos descifrado la transmisión. \\#pcontrast3 >",
+"complete": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Vuelve pronto, tenemos más trabajo que hacer. \\#pcontrast3 >",
+"title": "Sistema Naboo: Defiende del asalto del Sol Negro",
+"title_d": "El Sol Negro te ha cazado, defiéndete."
+}

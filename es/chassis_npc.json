@@ -1,0 +1,19 @@
+{
+"already_have": "¡Ya tienes demasiados barcos!",
+"bought_chassis": "¡Enhorabuena por tu compra! ¡Que disfrutes volando!",
+"btn_buy": "Comprar chasis",
+"buy_ship_prompt": "Selecciona el chasis de barco que quieras comprar.",
+"buy_ship_title": "Venta de chasis de barcos",
+"can_use": "Parece que estás certificado para usar el barco que vas a comprar. ¿Seguro que quieres completar esta transacción?",
+"cannot_use": "Parece que NO estás certificado para usar el barco que vas a comprar. ¿Seguro que quieres completar esta transacción?",
+"confirm_transaction": "Confirmar transacción",
+"failed": "No se pudo crear el barco.",
+"inv_full": "No tendrías espacio para estos planos si te los diera.",
+"no_deeds": "Lo siento, pero no pareces llevar ningún plano de barco válido.",
+"no_money": "No tienes suficiente dinero para esa compra. Deja de perder mi tiempo.",
+"not_certified": "No podrías volar ese barco si lo desempacarás.",
+"not_in_inv": "Los planos que intentas convertir no están en tu inventario. No puedo trabajar con ellos.",
+"npc_name": "Vendedor de chasis",
+"succeed": "Has añadido con éxito un dispositivo de control de barco a tu datapad.",
+"too_many_pobs": "Ya tienes un barco multi-persona en tu datapad. No tienes espacio para otro."
+}

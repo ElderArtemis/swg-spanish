@@ -1,0 +1,15 @@
+{
+"assigned_delayed": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"complete": "¡Buen trabajo piloto! Regresa a la base para tu siguiente misión viajando a la Estación Espacial Talus, apunta pulsando \"C\" y usando /comm.",
+"duty_update": "Comando Imperial:",
+"found_loc": "Dirígete a las nuevas coordenadas subidas a tu ordenador de navegación.",
+"quest_update": "Comando Imperial:",
+"split_quest_alert": "Esta no es la primera vez que los nuevos pilotos fallan en su primera salida. Esperamos que lo intentes de nuevo hasta que lo consigas. Te enviamos una nueva ubicación de navegación para otra ruta de patrulla.",
+"title": "Sistema Corellia: Destruye los Cazas X-wing Rebeldes",
+"title_d": "Destruye la emboscada rebelde. Tu ruta de patrulla ha sido exitosa y, como se planificó, los Rebeldes te han atacado. Debes destruir los cazas X-wing que te atacaron. Una vez completada esta tarea regresa a la Estación Espacial Talus, apunta pulsando la tecla 'C' y usa el comando /comm y vuelve a tu oficial de mando."
+}

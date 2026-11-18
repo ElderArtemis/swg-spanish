@@ -1,0 +1,16 @@
+{
+"failed_death": "Debido a tu prematura muerte, has fallado esta patrulla.",
+"failed_killed_dont_kill_npc": "Has fallado la patrulla por violar una orden directa y atacar a una patrulla de asalto.",
+"failed_previous_point": "Desafortunadamente no completaste el objetivo del punto de patrulla anterior, y has fallado la patrulla.",
+"fs_village_bannerpole_s01_d": "El símbolo del pueblo de Aurilia está grabado en esta bandera. Extrañamente, la bandera se mueve incluso sin viento detectable.",
+"fs_village_bannerpole_s01_n": "una Bandera Auriliana",
+"large_group5": "Te encuentras con lo que parece ser una patrulla de asalto que se está formando.",
+"large_group6": "Te encuentras con lo que parece ser una patrulla de asalto que se está formando.",
+"large_group7": "Te encuentras con lo que parece ser una patrulla de asalto que se está formando.",
+"large_group8": "Te encuentras con lo que parece ser una patrulla de asalto que se está formando.",
+"no_objective": "todo parece tranquilo aquí...",
+"patrol_point": "Punto de patrulla",
+"small_group1": "Notas una figura solitaria que quedó atrás de la batalla.",
+"small_group2": "El sonido de dos pasos que no son los tuyos llama tu atención.",
+"small_group3": "Tres voces se llevan el viento, sabes que no estás solo."
+}

@@ -1,0 +1,20 @@
+{
+"core_control_rod_s01": "Varilla de control central",
+"core_control_rod_s02": "Varilla de control central",
+"core_rod_storage": "Almacén de varillas centrales",
+"farewell_letter": "Disco de carta de despedida",
+"inquisitor_letter": "Disco de comunicación imperial",
+"passkey_s01": "Llave de acceso",
+"passkey_s02": "Llave de acceso a la sala de control",
+"passkey_s03": "Llave",
+"passkey_s04": "Llave",
+"reactor_core": "Acceso al núcleo del reactor",
+"terminal": "Terminal de datos activo",
+"turret_sequence": "Disco de secuencia de torreta",
+"warning_sign": "Señal de advertencia",
+"warren_encryption_key": "Clave de cifrado",
+"warren_evidence_01": "Disco de evidencia",
+"warren_evidence_02": "Disco de evidencia",
+"warren_evidence_03": "Disco de evidencia",
+"warren_evidence_04": "Disco de evidencia"
+}

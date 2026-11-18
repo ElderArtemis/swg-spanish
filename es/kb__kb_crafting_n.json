@@ -1,0 +1,17 @@
+{
+"assembly": "Fase de ensamblaje de fabricación",
+"crafting": "Fabricación de objetos",
+"customization": "Fase de personalización de fabricación",
+"draftschematics": "Comprender los esquemas de diseño",
+"experimentation": "Fase de experimentación de fabricación",
+"factories": "Fábricas automatizadas",
+"findingresources": "Encontrar los recursos necesarios",
+"foraging": "Recolección de recursos orgánicos",
+"harvesters": "Uso de recolectores automatizados",
+"harvesting": "Recolección de recursos de criaturas",
+"manfingredients": "Ingredientes de los esquemas de fabricación",
+"manfschematics": "Esquemas de fabricación",
+"sampling": "Prospección y muestreo",
+"selling": "Vender tus productos fabricados",
+"toolsandstations": "Herramientas y estaciones de fabricación"
+}

@@ -1,0 +1,16 @@
+{
+"command_tab_astromech": "astromecánico",
+"command_tab_chatter": "charla",
+"command_tab_combat": "combate",
+"command_tab_macro": "macros",
+"command_tab_mood": "ánimo",
+"command_tab_other": "otros",
+"command_tab_social": "social",
+"command_tab_space": "espacio",
+"help_combat": "Este es tu explorador de comandos.\n\nAquí están todos los comandos que tienes disponibles. Puedes arrastrarlos a tu barra de herramientas para usarlos con facilidad.\n\nEsta primera pestaña muestra tus comandos de combate. Al seleccionar un comando verás información concreta sobre él. A medida que compres habilidades, se añadirán comandos nuevos a esta lista.",
+"help_macro": "Esta pestaña te permite crear y consultar macros.\n\nUna macro es una secuencia de comandos que se ejecutan juntos. Por ejemplo, puedes crear una macro que muestre un saludo y haga una reverencia. Una vez creadas, las macros se usan como cualquier otro comando.",
+"help_macro_new": "Pulsa este botón para abrir la ventana donde puedes crear macros.",
+"help_mood": "Esta pestaña muestra los distintos estados de ánimo que puede adoptar tu personaje.\n\nAl fijar un estado de ánimo, tu personaje sonríe cuando está contento, frunce el ceño cuando está triste, etc. El estado de ánimo se mantiene hasta que elijas otro y también se muestra al hablar. Si escribes \"Hola\" con el ánimo Contento, tu personaje dirá: Personaje dice \"Hola\", contento.",
+"help_other": "Esta pestaña contiene comandos variados que no encajan en ninguna otra categoría.",
+"help_social": "La segunda pestaña muestra las acciones sociales.\n\nSon comandos para interactuar con otros jugadores. Puedes hacer reverencias, bailar, coquetear, tranquilizar o provocar a otros jugadores, entre muchas otras cosas. Algunas tienen además una animación. La ventana inferior muestra el texto que aparecerá."
+}

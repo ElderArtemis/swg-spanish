@@ -1,0 +1,12 @@
+{
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"assigned_delayed": "\\#pcontrast1 Computadora táctica: <\\#pcontrast3  Aviso. Nave enemiga en camino.\\#pcontrast1 >",
+"complete": "\\#pcontrast1 Computadora táctica: <\\#pcontrast3  Amenaza enemiga neutralizada.\\#pcontrast1 >",
+"title": "Sistema Corellia: Retribución de la Sombra",
+"title_d": "En respuesta a la destrucción del Representante de la Sombra, una flota de cazas ha llegado para acabar contigo. Debes eliminarlos todos."
+}

@@ -1,0 +1,13 @@
+{
+"leave_early": "",
+"split_quest_alert_fail": "",
+"unused1_d": "",
+"unused1_t": "",
+"unused2_d": "",
+"unused2_t": "",
+"assigned_delayed": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 Aviso, más naves enemigas han emergido del hiperespacio. \\#pcontrast3 >",
+"complete": "¡Has sobrevivido al ataque sorpresa!",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 El convoy principal ha sido comprometido. Viaja al espacio de Corellia lo antes posible. Estamos preparando una emboscada para los combatientes Ay'Nat que se dirigen en esa dirección. \\#pcontrast3 >",
+"title": "Sistema Naboo: Sobrevive al asalto de los Ay'Nat",
+"title_d": "Sobrevive a un último ataque de los Ay'Nat en el Sistema Naboo"
+}

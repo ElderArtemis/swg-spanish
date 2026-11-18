@@ -1,0 +1,5 @@
+{
+"help_add": "Pulsa este botón para añadir un jugador a la lista. La gente cercana aparecerá en el desplegable para elegirla fácilmente, pero puedes añadir a cualquier jugador.",
+"help_list": "Esta es la lista de jugadores autorizados a realizar la acción. Un objeto puede tener varias listas, una por acción (por ejemplo, permiso para entrar en un edificio, permiso para administrarlo, etc.).",
+"help_remove": "Pulsa este botón para quitar de la lista al jugador seleccionado y retirarle el permiso para esa acción."
+}

@@ -1,0 +1,10 @@
+{
+"help_data_icon": "Este panel contiene los datos. Igual que los puntos de ruta, ocupan espacio en tu datapad. Ejemplos de datos son las misiones aceptadas, los esquemas de fabricación y los dispositivos de control de mascotas.",
+"help_draft_icon": "Esta segunda pestaña muestra los esquemas de diseño que has aprendido. Los esquemas de diseño son necesarios para fabricar objetos o esquemas de fabricación.\n\nIgual que los puntos de interés, no ocupan espacio en tu datapad.\n\nPuedes consultar tus esquemas para ver los ingredientes y demás requisitos de los objetos que puedes fabricar.",
+"help_info": "Esta ventana muestra información detallada del objeto actual.",
+"help_poi_icon": "Este panel muestra la lista de puntos de interés del planeta. No ocupan espacio en tu datapad.",
+"help_waypoint": "Pulsa este botón para crear un punto de ruta nuevo donde está tu personaje.\n\nUn punto de ruta representa un lugar del mundo. Sirven para orientarte y se pueden enviar por correo a tus amigos para quedar o planear eventos.",
+"help_wps_capacity": "Esta es la capacidad de tu datapad. Al crear puntos de ruta, aceptar misiones o reunir otros datos, tu datapad se irá llenando.",
+"help_wps_change": "Pulsa este botón para ver tus puntos de ruta como lista.",
+"help_wps_icons": "Este es tu datapad.\n\nAquí se guarda información como los puntos de ruta y las misiones, además de los esquemas que has aprendido y una lista de puntos de interés del planeta actual.\n\nEsta primera ventana muestra todos tus puntos de ruta. Ocupan memoria en tu datapad."
+}

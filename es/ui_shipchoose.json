@@ -1,0 +1,22 @@
+{
+"condition": "Estado:",
+"condition_damaged": "Dañada",
+"condition_engine_demolished": "Motor destrozado",
+"condition_engine_disabled": "Motor inutilizado",
+"condition_engine_uninstalled": "Sin motor",
+"condition_pristine": "Impecable",
+"condition_reactor_demolished": "Reactor destrozado",
+"condition_reactor_disabled": "Reactor inutilizado",
+"condition_reactor_uninstalled": "Sin reactor",
+"cpt": "Elegir nave",
+"dont_own_a_ship": "Necesitas tener una nave para usar esta terminal.",
+"fetching": "Obteniendo...",
+"godparking": "Modo dios",
+"help_button_select": "Botón Elegir\n\nUsa este botón para elegir la nave. Irás a otra página donde podrás gestionar sus componentes, despegar al espacio o viajar a otro lugar en tierra.",
+"help_stats": "Información de la nave\n\nMuestra información general de la nave.",
+"here": "Aquí",
+"no_parking_data": "Espera a que se descarguen los datos de dónde están aparcadas las naves.",
+"not_parked_here": "No aparcada aquí",
+"parkinglocation": "Aparcada en:",
+"select": "Elegir"
+}

@@ -1,0 +1,19 @@
+{
+"condition_damaged": "¿Despegar con la nave dañada?",
+"condition_engine_demolished": "El motor de esta nave está destrozado: no puede despegar.",
+"condition_engine_disabled": "El motor de esta nave está inutilizado: no puede despegar.",
+"condition_engine_uninstalled": "Esta nave no tiene motor: no puede despegar.",
+"condition_reactor_demolished": "El reactor de esta nave está destrozado: no puede despegar.",
+"condition_reactor_disabled": "El reactor de esta nave está inutilizado: no puede despegar.",
+"condition_reactor_uninstalled": "Esta nave no tiene reactor: no puede despegar.",
+"cpt": "Detalles de la nave",
+"group": "Grupo",
+"help_button_launch": "Despegar al espacio\n\nUsa este botón para despegar al espacio con esta nave.",
+"help_button_manage": "Gestionar componentes\n\nUsa este botón para gestionar los componentes de esta nave.",
+"help_button_travel": "Viajar a otro lugar\n\nUsa este botón para viajar con tu nave a otro lugar en tierra.",
+"help_stats": "Información de la nave\n\nMuestra información sobre el estado general de esta nave.\n",
+"launch": "Despegar",
+"manage": "Gestionar",
+"na": "N/D",
+"travel": "Viajar"
+}

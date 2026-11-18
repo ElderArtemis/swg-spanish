@@ -1,0 +1,6 @@
+{
+"not_correct_faction_group": "No puedes inscribirte en esta facción porque un jugador en tu nave es de la facción opuesta.",
+"not_correct_faction_single": "No puedes inscribirte en esta facción porque eres de la facción enemiga.",
+"not_enough_prestige": "No tienes suficiente %TO para entrar en esta zona. Necesitas %DI.",
+"spent_x_amount_for_ticket": "Has gastado %DI de %TO para entrar en este campo de batalla."
+}

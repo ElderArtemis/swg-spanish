@@ -1,0 +1,12 @@
+{
+"exit_detail": "Derrota a Mellichae en su campamento.",
+"exit_sum": "Encuentra el campamento de Mellichae.",
+"final_complete": "¡Felicidades, has completado las misiones sensibles a la Fuerza! Ahora estás cualificado para comenzar las Pruebas de Padawan Jedi.\n",
+"final_fail": "Has fallado el encuentro con Mellichae, se te dará la oportunidad de intentarlo de nuevo en un futuro cercano.",
+"leave": "Parece que estás ocupado, volveré más tarde.",
+"old_man_exit": "Muy bien entonces %TT, volveré otra vez!",
+"old_man_greeting": "%TT. Es bueno verte de nuevo. ¡Tengo noticias urgentes que compartir contigo!",
+"taunt1": "%TT, pagarás por tu intrusión aquí - SOLDADOS - defiendan los cristales! No dejen que nadie salga vivo.",
+"taunt2": "¡Esto no puede ser! ¡Los soldados protejan a Mellichae inmediatamente!",
+"taunt3": "%TT, puedes haber destruido mis cristales de poder, pero ahora te destruiré a ti! ¡SOLDADOS ATAQUE!"
+}
