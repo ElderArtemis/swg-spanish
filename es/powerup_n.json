@@ -1,0 +1,22 @@
+{
+"armor": "Potenciador de armadura",
+"base": "Potenciador de base",
+"weapon": "Potenciador de arma",
+"weapon_heavy": "Potenciador de arma pesada",
+"weapon_melee": "Potenciador de arma cuerpo a cuerpo",
+"weapon_melee_generic": "Kit de arma cuerpo a cuerpo genérico",
+"weapon_melee_lightsaber": "Kit de sable de luz",
+"weapon_melee_speed_quest": "Torno resistente",
+"weapon_mine": "Potenciador de mina",
+"weapon_mine_explosive": "Kit de explosivos de mina",
+"weapon_ranged": "Potenciador de arma a distancia",
+"weapon_ranged_barrel": "Barril",
+"weapon_ranged_grip": "Empuñadura",
+"weapon_ranged_muzzle": "Cañón",
+"weapon_ranged_power": "Acoplador",
+"weapon_ranged_scope": "Mira",
+"weapon_ranged_stock": "Cañón",
+"weapon_thrown": "Potenciador de arma arrojadiza",
+"weapon_thrown_explosive": "Kit de explosivos de granada",
+"weapon_thrown_wiring": "Kit de cableado de granada"
+}

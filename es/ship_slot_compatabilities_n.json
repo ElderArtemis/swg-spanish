@@ -1,0 +1,23 @@
+{
+"arm_0": "Armadura",
+"arm_basic": "Armadura",
+"bdg_0": "Puente",
+"bst_0": "Acelerador",
+"bst_basic": "Acelerador",
+"cap_0": "Condensador",
+"cap_basic": "Condensador",
+"cms_0": "Lanzador de contramedidas",
+"ddi_0": "Interfaz de droides",
+"ddi_basic": "Interfaz de droides",
+"eng_0": "Motor",
+"eng_basic": "Motor",
+"hgr_0": "Hangar",
+"rct_0": "Reactor principal",
+"rct_basic": "Reactor principal",
+"shd_0": "Escudo",
+"shd_basic": "Escudo",
+"tst_0": "Estación de puntería",
+"wpn_0": "Arma",
+"wpn_1": "Munición",
+"wpn_basic": "Arma"
+}

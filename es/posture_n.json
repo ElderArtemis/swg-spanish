@@ -1,0 +1,17 @@
+{
+"blocking": "Acostado",
+"climbing": "Escalando",
+"crouched": "Arrodillado",
+"dead": "Muerto",
+"drivingvehicle": "Conduciendo Vehículo",
+"flying": "Viajando",
+"incapacitated": "Incapacitado",
+"knockeddown": "Caído",
+"lyingdown": "Acostado",
+"prone": "Acostado",
+"ridingcreature": "Montando Criatura",
+"sitting": "Sentado",
+"skillanimating": "Animando Habilidad",
+"sneaking": "Sigiloso",
+"upright": "De pie"
+}

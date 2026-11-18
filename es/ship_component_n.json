@@ -1,0 +1,10 @@
+{
+"armor": "Armadura",
+"booster": "Acelerador",
+"capacitor": "Capacitor",
+"droid_interface": "Interfaz de droides",
+"engine": "Motor",
+"reactor": "Reactor",
+"shield": "Escudo",
+"weapon": "Arma"
+}
