@@ -1,0 +1,14 @@
+{
+"beta_terminal_wound": "Herida terminal",
+"inflict_damage": "Infligir daño",
+"inflict_wound": "Infligir herida",
+"inflict_wound_action": "Infligir herida de acción",
+"inflict_wound_constitution": "Infligir herida de constitución",
+"inflict_wound_focus": "Infligir herida de enfoque",
+"inflict_wound_health": "Infligir herida de salud",
+"inflict_wound_mind": "Infligir herida de mente",
+"inflict_wound_quickness": "Infligir herida de rapidez",
+"inflict_wound_stamina": "Infligir herida de resistencia",
+"inflict_wound_strength": "Infligir herida de fuerza",
+"inflict_wound_willpower": "Infligir herida de voluntad"
+}

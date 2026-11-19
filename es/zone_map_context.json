@@ -1,0 +1,11 @@
+{
+"autopilot": "Autopiloto a",
+"reset_camera": "Reiniciar la vista",
+"target": "Apuntar a",
+"waypoint_activate": "Activar punto de ruta",
+"waypoint_create": "Crear punto de ruta",
+"waypoint_create_at_focus_marker": "Crear punto de ruta en la ubicación del marcador",
+"waypoint_deactivate": "Desactivar punto de ruta",
+"waypoint_destroy": "Destruir punto de ruta",
+"waypoint_set_name": "Establecer nombre"
+}

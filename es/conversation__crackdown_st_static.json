@@ -1,0 +1,13 @@
+{
+"bark_s1": "Mantente alejado de problemas, ciudadano. No nos hagas deteniéndote.",
+"bark_s2": "Ten cuidado, ciudadano. Se han visto restos de la Resistencia en la zona.",
+"bark_s3": "No me importa mucho de ti, ciudadano. Mejor mantente en línea.",
+"follow_giveup": "Esto es %TO. No es nada. Todo parece normal. Volviendo a mi puesto.",
+"follow_lost": "Esto es %TO. Perdí la pista del objetivo... mantén los ojos abiertos. Volviendo a mi puesto.",
+"follow_start": "Esto es %TO. Veo a alguien sospechoso... revisándolo.",
+"loiter_s1": "Pasa, ciudadano. No se permite deambular aquí.",
+"loiter_s2": "No se permite deambular aquí. Pasa, ciudadano.",
+"rebel_breach": "A todas las unidades. Estén atentos a un posible simpatizante de la Resistencia, %TO.",
+"salute": "Saludos, %TO.",
+"salute_name": "Buen día, %TT %TO."
+}
