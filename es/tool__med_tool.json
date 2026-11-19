@@ -1,0 +1,12 @@
+{
+"battle_fatigue": "fatiga de combate",
+"has_no_wounds": "no tienes heridas aplicables para curar.",
+"menu_tenddamage": "Curar Daño",
+"menu_tendwound": "Curar Heridas",
+"mnu_diagnose": "Diagnosticar Heridas",
+"must_have_medikit": "Debes tener un kit de primeros auxilios en tu inventario para realizar esta acción.",
+"no_wounds": "No tienes heridas aplicables para curar.",
+"not_enough_mind": "No tienes suficiente mente para hacer eso.",
+"not_that_attribute": "No puedes curar heridas en ese atributo.",
+"other_players_only": "Debes tener a un jugador apuntado para poder diagnosticar sus heridas y niveles de fatiga de combate."
+}

@@ -1,0 +1,7 @@
+{
+"prose_schematic_expired": "Todas las usos disponibles del esquema temporal (%TO) han expirado.",
+"prose_temp_grant": "Se te ha concedido un esquema temporal para la creación de %TO.",
+"prose_temp_revoke": "El esquema temporal para la creación de %TO ha sido revocado.",
+"prose_uses_decremented": "El contador de usos de tu esquema temporal (%TO) se ha decrementado.",
+"prose_uses_left": "Usos restantes para el esquema temporal (%TO): %DI."
+}

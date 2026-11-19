@@ -1,0 +1,21 @@
+{
+"forceofwill": "Con una fortaleza suprema, vuelves del borde de la inconsciencia.",
+"forceofwill_crit_fail": "Te esfuerzas por volver a la consciencia.",
+"forceofwill_exceptional": "Con un enfoque y concentración precisos, recapacitás con efectos secundarios nominales.",
+"forceofwill_fail": "Debes estar incapacitado para ejecutar ese comando.",
+"forceofwill_lost": "Ya has agotado tu oportunidad de recapacitación forzada.",
+"forceofwill_marginal": "Un fuerte sentido de fatiga te domina mientras vuelves a la consciencia.",
+"forceofwill_normal": "Recapacitás con una leve somnolencia.",
+"forceofwill_unavailable": "Force of Will no está disponible para %TO",
+"forceofwill_unsuccessful": "No puedes mantenerte centrado y te pierdes en la inconsciencia.",
+"med_begin": "Comienzas a meditar.",
+"med_end": "Dejas de meditar.",
+"med_fail": "No puedes meditar en tu condición actual.",
+"powerboost_active": "[meditación] No puedes canalizar tus energías más allá.",
+"powerboost_begin": "[meditación] Enfocas tus energías mentales en tu forma física.",
+"powerboost_end": "[meditación] Sientes que los efectos del enfoque mental llegan a su fin.",
+"powerboost_fail": "Debes estar meditando para ejecutar ese comando.",
+"powerboost_mind": "[meditación] Actualmente careces de la capacidad mental para enfocar tus energías.",
+"powerboost_wane": "[meditación] Sientes que los efectos de tu enfoque mental comienzan a debilitarse.",
+"prose_curewound": "[meditación] Tus heridas %TO sanan en %DI puntos."
+}

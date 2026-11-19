@@ -1,0 +1,15 @@
+{
+"arrived_at_loc": "La transmisión rebelde será fácil de interceptar aquí. No te alejes demasiado de este punto. La transmisión debería comenzar en cualquier momento.",
+"attack_notify": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Se detectaron naves enemigas en el vector de ataque. \\#pcontrast3 >",
+"attack_stopped": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 La flota de ataque enemiga ha sido eliminada. \\#pcontrast3 >",
+"first_attack": "Los escáneres del sistema han detectado naves enemigas a velocidad de luz moviéndose en tu dirección. Has sido detectado. Defiéndete, pero ¡obtén esa transmisión!",
+"found_loc": "Hemos encontrado una ubicación ideal para interceptar la transmisión de la Rebelión. Ve allí ahora.",
+"mission_complete": "Buen trabajo, regresa a la base con la transmisión!",
+"outofrange": " \\#pcontrast3 Computadora de comunicaciones: < \\#ff0000 Señal de transmisión debilitándose. ¡La señal está demasiado lejana! \\#pcontrast3 >",
+"outofrange_failed": " \\#pcontrast3 Computadora de comunicaciones: < \\#ff0000 ¡Señal de transmisión perdida! \\#pcontrast3 >",
+"quest_update": " \\#pcontrast3 Comando Imperial: < \\#pcontrast1 %TO \\#pcontrast3 >",
+"title": "Intercepta la transmisión rebelde.",
+"trans_update": " \\#pcontrast3 Computadora de comunicaciones: < \\#pcontrast1 %DI% de la transmisión rebelde recibida. \\#pcontrast3 >",
+"transmission_received": " \\#pcontrast3 Computadora de comunicaciones: < \\#pcontrast1 100% de la transmisión recibida. Validación de suma de comprobación completada. La transmisión es auténtica. \\#pcontrast3 >",
+"transmission_start": " \\#pcontrast3 Computadora de comunicaciones: < \\#pcontrast1 Se detectó la transmisión rebelde. Grabación iniciada. \\#pcontrast3 >"
+}

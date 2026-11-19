@@ -1,0 +1,20 @@
+{
+"bad_npc_message": "Regresa a la persona que te dio este mensaje. No hay nadie aquí.",
+"generic_fail_message": "Has fallado en tu misión.",
+"go_message": "Has llegado al lugar al que fuiste enviado.",
+"imperial_completion_message": "Regresa al Retiro del Emperador para recibir tu recompensa.",
+"item_create_fail": "¡La creación de la recompensa ha fallado! Tu inventario puede estar lleno, asegúrate de tener espacio e inténtalo de nuevo.",
+"jabba_completion_message": "Regresa al Palacio de Jabba para recibir tu recompensa.",
+"need_reset_imperial": "Eres un ciudadano leal del Imperio, pero debes hablar con ese vil Wurson Harro antes de continuar con tu servicio.",
+"need_reset_jabba": "Jabba no quiere que hagas nada hasta que hables con 8-LOM al lado de la entrada.",
+"need_reset_rebel": "Agradecemos tu ayuda a la Rebelión, pero debes hablar con Falton Molard antes de continuar con tu servicio.",
+"need_reset_rebel_offworld": "Agradecemos tu ayuda a la Rebelión, pero debes hablar con Falton Molard en la base rebelde de Corellia antes de continuar con tu servicio.",
+"no_faction": "No tienes la posición adecuada para tratar conmigo. Quizá deberías ser más cuidadoso con quien te asocias.",
+"no_item_message": "El objeto que te enviaron a encontrar no está aquí... te recompensaremos de todos modos.",
+"rebel_completion_message": "Regresa al rebelde que te dio esta misión para recibir tu recompensa.",
+"rebel_quest_npc_killed": "Tu contacto para esta misión ha sido descubierto y asesinado.",
+"static_completion_message": "Regresa a la persona que te dio esta tarea para recibir tu recompensa.",
+"theme_park_credits": "Has recibido algo de dinero por completar esta asignación.",
+"theme_park_credits_pp": "Has recibido %DI créditos por completar esta asignación.",
+"theme_park_reward": "Se ha colocado una recompensa en tu inventario por completar esta asignación."
+}

@@ -1,0 +1,20 @@
+{
+"experience_received": "Has recibido %DI experiencia de Aprendizaje.",
+"learning_failed": "El aprendizaje ha fallado.",
+"no_skills": "No tienes habilidades que enseñar.",
+"no_skills_for_student": "No tienes habilidades que %TT pueda aprender actualmente.",
+"no_target": "¿A quién quieres enseñar?",
+"no_teach_self": "No puedes enseñarte a ti mismo.",
+"not_in_same_group": "Debes estar en el mismo grupo que %TT para enseñar.",
+"offer_given": "Ofreces enseñar %TT %TO.",
+"offer_refused": "%TT ha rechazado tu oferta de enseñanza.",
+"student_dead": "%TT no quiere ser enseñado ahora mismo.",
+"student_has_offer_to_learn": "%TT ya tiene una oferta de aprendizaje.",
+"student_skill_learned": "Aprendes %TO de %TT.",
+"student_too_far": "Tu alumno debe estar cerca para que puedas enseñar.",
+"student_too_far_target": "Estás demasiado lejos de %TT para enseñar.",
+"teacher_skill_learned": "%TT aprende %TO de ti.",
+"teacher_too_far": "Tu maestro debe estar cerca para que pueda aprender.",
+"teacher_too_far_target": "Estás demasiado lejos de %TT para aprender.",
+"teaching_failed": "La enseñanza ha fallado."
+}

@@ -1,0 +1,8 @@
+{
+"btn_texture": "Cambiar textura",
+"changed_paint_job": "Re-texturizado completado.",
+"imperial": "Esta es una nave imperial, y no se puede re-texturizar.",
+"inspace": "¡No puedes re-texturizar una nave mientras estás en el espacio!",
+"pick_a_ship": "Selecciona una nave para cambiarle la textura.",
+"pick_a_ship_title": "Selecciona una nave"
+}
