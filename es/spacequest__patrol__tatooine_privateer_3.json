@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Una ruta de patrulla en el Sistema Tatooine",
+"quest_location_t": "Sistema Tatooine",
+"quest_patrol_d": "Cuando llegues a un punto de ruta de patrulla recibirás uno nuevo para tu siguiente destino. Sigue cada uno de los puntos de ruta hasta llegar al final de tu patrulla.  Esta es la tercera de cuatro asignaciones especiales que te da Dravis de la Alianza de Contrabandistas. Cuando completes esta misión, vuelve a Dravis en la sala trasera de la cantina de Mos Eisley para tu siguiente asignación.  Tras completar estas cuatro asignaciones especiales, Dravis te entrenará en una nueva habilidad de piloto.",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 Alianza de Contrabandistas: < \\#pcontrast1 Tenemos un carguero amistoso que solicita escolta, dirígete allí y revisa las cosas. \\#pcontrast3 >",
+"title": "Sistema Tatooine: Patrulla en el espacio de Tatooine",
+"title_d": "Patrulla y zona del espacio de Tatooine. Cuando completes esta misión, vuelve a Dravis en la sala trasera de la cantina de Mos Eisley para tu siguiente asignación."
+}

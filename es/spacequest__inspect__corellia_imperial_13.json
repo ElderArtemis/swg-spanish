@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Una vez que hayas conseguido el expediente de personal, tendrás que atracar con el barco para transferir los datos. Usa el comando /dock para iniciar el procedimiento de atracada. Espera a que el proceso termine y recibas el mensaje de éxito antes de abandonar. Ten mucho cuidado en este punto porque serás vulnerable a ataques mientras estés atracado con otro buque.",
+"quest_dock_t": "Atraca con el contrabandista rebelde y transfiere el expediente de personal",
+"quest_inspect_d": "Inspecciona el buque del contrabandista rebelde en busca del expediente de personal. Para inspeccionar un barco primero debes desactivar sus motores apuntando a sus subsistemas. Usa la tecla '[' o ']' para apuntar a sus motores. Ataca el buque hasta que sus motores estén al 0%. Luego acércate y usa /inspect o pulsa la tecla 'I' para comenzar la inspección del contrabandista rebelde. Asegúrate de tener apuntado al contrabandista rebelde desactivado cuando intentes esto.",
+"quest_inspect_t": "Inspecciona el contrabandista rebelde",
+"quest_location_d": "Viaja al sistema Corellia e inspecciona al contrabandista rebelde. Recibirás un punto de ruta de navegación hacia el área donde se puede encontrar al contrabandista rebelde. Dirígete a este punto de ruta y busca al contrabandista rebelde.",
+"quest_location_t": "Viaja al Sistema Corellian",
+"title": "Sistema Corellia: Inspecciona al contrabandista rebelde",
+"title_d": "Viaja al sistema Corellia e inspecciona al contrabandista rebelde. Cuando entres al sistema recibirás un punto de ruta de navegación hacia un área donde debería estar el contrabandista rebelde. Dirígete a esta ubicación y busca al contrabandista rebelde. Una vez que lo encuentres tendrás que desactivar su buque. Para desactivar un buque usa '[' o ']' para apuntar a los subsistemas del barco y apunta a sus motores. Ataca al contrabandista rebelde hasta que sus motores estén al 0%. Ahora acércate y pulsa la tecla 'I' o escribe /inspect con el contrabandista rebelde apuntado. Tras encontrar el expediente de personal, escribe /dock para transferir el expediente a tu barco. Ten cuidado porque serás muy vulnerable mientras atracas con otro buque."
+}

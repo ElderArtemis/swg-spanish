@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "El sistema Endor parece tener más cazas imperiales que asteroides últimamente, así que no hace falta ser un genio para adivinar qué le pasó al escuadrón Magenta, pero no dejamos a nadie atrás si podemos ayudarlo.",
+"quest_location_t": "Sistema Endor.",
+"quest_patrol_d": "Busca en el área designada cualquier señal de lo que le ocurrió al escuadrón Magenta.",
+"quest_patrol_t": "Último punto de contacto del escuadrón Magenta.",
+"split_quest_alert": "Computadora táctica: < Los sensores muestran varios cazas entrantes, sus sistemas de apuntado intentan bloquear este buque. >",
+"title": "Sistema Endor: Investigar zona donde desapareció el escuadrón Magenta.",
+"title_d": "Hemos perdido contacto con uno de nuestros escuadrones y esperamos que puedas encontrarlos, o al menos descubrir qué les ocurrió. Busca en la zona donde se escuchó por última vez."
+}

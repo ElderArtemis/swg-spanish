@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Atraca el carguero de reconocimiento avanzado de los Rebeldes y transfiere los informes a tu nave.",
+"quest_dock_t": "Transferir los informes rebeldes",
+"quest_inspect_d": "Una vez que la nave esté desactivada, inspecciónala y busca cualquier información que el mando pueda usar.",
+"quest_inspect_t": "Inspeccionar el carguero de reconocimiento avanzado de los Rebeldes",
+"quest_location_d": "Se te proporcionará un punto de ruta de navegación del carguero de reconocimiento avanzado de los Rebeldes. Intercepta y desactiva esa nave.",
+"quest_location_t": "Permanece en el Sistema Endor",
+"split_quest_alert": "Transfiere los datos que capturaste del buque de comunicaciones a un transbordador de Inteligencia Imperial. Mantente atento a la información de ubicación.",
+"title": "Sistema Endor: Inspeccionar el carguero de reconocimiento avanzado de los Rebeldes",
+"title_d": "Parece que los Rebeldes no esperaban que sobreviveses a su trampa. Hay uno de sus cargueros de reconocimiento cerca que estaba coordinando el ataque. Es muy probable que tengan la información que buscamos en ese buque. Desactívalo e inspecciónalo."
+}

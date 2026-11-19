@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Para atracar a una nave inactiva, usa el comando /dock.",
+"quest_dock_t": "Atracando a los Valarianos",
+"quest_inspect_d": "En algún punto del waypoint que recibiste de Garett, los Valarianos vuelan como polillas a la luz. Desactívalos apuntando a sus motores o reactores (usando los []), y acércate para inspeccionarlos (presionando 'i'). Si encuentras lo que buscas, tendrás que /dock con la nave inactiva y extraer la información. Un trozo de pastel Pyolliano.",
+"quest_inspect_t": "Inspeccionar a los Valarianos",
+"quest_location_d": "Vuela tu nave al Sistema Tatoo para una divertida inspección de Valarianos.",
+"quest_location_t": "Viajar al Sistema Tatoo",
+"split_quest_alert": "\\#pcontrast1 Informante Hutt:\\#pcontrast3 < Buen trabajo. Ahora, tráeme la información y la analizaremos. Sabía que nos estaban siguiendo, de alguna manera. Me alegra que podamos llegar al fondo de esto pronto. >",
+"title": "Sistema Tatoo: Cazando a los Valarianos por Información",
+"title_d": "Te han asignado la tarea de Garett de cazar a los Valarianos. Tiene la sensación de que los Valarianos están al tanto y debe averiguarlo desactivándolos e inspeccionándolos. Parece que eres la persona indicada para el trabajo. Trabajo sucio en su máxima expresión."
+}

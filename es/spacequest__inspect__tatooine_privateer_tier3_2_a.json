@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Para acoplarte con un objetivo, destruye sus motores y usa el comando /dock",
+"quest_dock_t": "Objetivo de acoplamiento",
+"quest_inspect_d": "Puedes /inspectar a un objetivo para determinar si tiene carga",
+"quest_inspect_t": "Inspeccionar objetivo",
+"quest_location_d": "El punto de reunión de los Castigadores del Clan Witchblood",
+"quest_location_t": "Sistema Dathomir",
+"split_quest_alert": "\\#pcontrast3 Beissa: < \\#pcontrast1 Excelente, ahora dirígete a su cementerio.  Estarán por todas partes allí, pero debes permanecer en el área mientras llevamos a cabo nuestra operación. \\#pcontrast3 >",
+"title": "Sistema Dathomir: Inspeccionar Castigadores Witchblood para localizar el cementerio",
+"title_d": "Interrumpe una reunión de los Castigadores del Clan Witchblood e inspecciónalos para localizar los cementerios del Clan Witchblood"
+}

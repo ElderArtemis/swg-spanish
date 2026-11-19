@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Ruta de patrulla entre varias rutas comerciales de Endor",
+"quest_location_t": "Sistema Endor",
+"quest_patrol_d": "Viaja a esta ubicación",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": " \\#pcontrast3 Comando CorSec: < \\#pcontrast1 Hemos recibido noticias de que un transporte dañado está en esta línea de suministro. Acompaña la nave y su tripulación al lugar seguro más cercano. Sospechamos actividad enemiga. Ten cuidado. \\#pcontrast3 >",
+"title": "Sistema Endor: Patrulla la línea de suministro",
+"title_d": "Patrulla las rutas espaciales de Endor en busca de posible actividad hostil"
+}

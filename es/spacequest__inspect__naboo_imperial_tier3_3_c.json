@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Atrápate con el buque de mando rebelde y transfiere los informes a tu nave.",
+"quest_dock_t": "Transferir los informes encriptados de los rebeldes",
+"quest_inspect_d": "Desactiva el buque de mando rebelde e inspecciónalo en busca de información sobre las operaciones rebeldes en el sistema.",
+"quest_inspect_t": "Desactivar el buque de mando rebelde",
+"quest_location_d": "El buque de mando rebelde parece seguir en el sistema Dathomir. Se te proporcionará un punto de ruta de navegación a su ubicación más reciente.",
+"quest_location_t": "Permanecer en el sistema Dathomir",
+"split_quest_alert": "¡Buen trabajo, piloto! Lleva esa información de vuelta al sistema Naboo para transferirla inmediatamente a un transbordador.",
+"title": "Sistema Dathomir: Inspeccionar el buque de mando rebelde",
+"title_d": "Durante los ataques al transbordador destrozado, los pilotos rebeldes enviaban señales a lo que parecía ser un buque de mando. Localiza ese buque e inspecciónalo en busca de cualquier información que pueda resultar útil."
+}

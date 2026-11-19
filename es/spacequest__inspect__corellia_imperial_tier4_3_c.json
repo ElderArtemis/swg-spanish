@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Atrápate al comandante desactivado y transfiere las órdenes a tu luchador.",
+"quest_dock_t": "Transferir las órdenes",
+"quest_inspect_d": "Una vez que el comandante esté desactivado, inspecciónalo para descubrir quién le está enviando las órdenes.",
+"quest_inspect_t": "Inspeccionar al comandante de la flota mercenaria Velocity",
+"quest_location_d": "La nave del comandante se encuentra dentro del sistema Dathomir. Intercepta su vehículo cerca del punto de ruta de navegación suministrado.",
+"quest_location_t": "Permanece en el sistema Dathomir",
+"title": "Sistema Dathomir: Inspeccionar al comandante de la flota mercenaria Velocity",
+"title_d": "Se ha detectado a un comandante de la flota mercenaria Velocity en el sistema Dathomir. Intercepta, desactiva e inspecciona su nave para descubrir de quién recibe sus órdenes."
+}

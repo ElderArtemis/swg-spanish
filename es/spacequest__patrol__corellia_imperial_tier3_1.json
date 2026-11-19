@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Viaja al sistema Yavin y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto de ruta hacia la siguiente ubicación del recorrido.",
+"quest_location_t": "Viaja al Sistema Yavin",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás otro para la siguiente ubicación. Sigue los puntos de ruta hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue la Ruta de Patrulla",
+"split_quest_alert": "Los escáneres indican un oficial rebelde cerca. Desactiva e inspecciona al oficial rebelde para obtener cualquier información sobre su alianza con Nym.",
+"title": "Sistema Yavin: Patrulla el Sistema Yavin",
+"title_d": "Se ha construido una alianza entre los Rebeldes y Nym. Sus fuerzas combinadas están causando un gran caos en la operación de salvamento imperial en el sistema Yavin. Black Epsilon ha sido enviado para obligar a Nym a romper su alianza directa con la Rebelión. Para iniciar esta operación, el comando necesita recopilar inteligencia sobre su operación conjunta, por lo que te envían a patrullar para encontrar a un oficial rebelde que pueda tener acceso a esa información."
+}

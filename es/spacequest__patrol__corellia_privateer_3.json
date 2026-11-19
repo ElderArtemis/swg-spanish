@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Ruta de patrulla en el Sistema Corellia",
+"quest_location_t": "Sistema Corellia",
+"quest_patrol_d": "Viaja a esta ubicación",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"quest_update": "Comando CorSec: < %TO >",
+"title": "Sistema Corellia: Patrulla el sector espacial Corellia IV-3121",
+"title_d": "Patrulla por actividad ilegal. Cuando termines esta misión, vuelve al sargento Rhea en Coronet para tu siguiente asignación."
+}

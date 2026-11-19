@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Si te encuentras en otro sistema, viaja al Sistema Tatoo usando tu mapa de hiperespaço (pulsa \"H\") y haz clic en un punto de hiperespaço.",
+"quest_location_t": "Sistema Tatoo",
+"quest_patrol_d": "Patrulla la Nebulosa de las Mareas Fantasma y mantén tus sistemas alerta ante cualquier actividad sospechosa.",
+"quest_patrol_t": "Patrulla la Nebulosa de las Mareas Fantasma",
+"split_quest_alert": "\\#pcontrast1 Capitán de Mos Eisley:\\#pcontrast3 < ¡Piloto! Estoy detectando buques enemigos con sistemas de armas armados acercándose a ti! >",
+"title": "Sistema Tatoo: Patrulla las Mareas Fantasma",
+"title_d": "El Capitán de la Policía de Mos Eisley, Kelen Wordkal, supervisa personalmente el proceso de autorización de cargueros a sus destinos. Es protocolo normal que los cargueros informen al capitán cuando lleguen a su destino. Sin embargo, últimamente, los cargueros autorizados para atravesar la Nebulosa de las Mareas Fantasma hasta la estación minera más allá nunca han regresado ni se han comunicado con el capitán. Kelen Wordkal teme lo peor. Es tu deber desentrañar el misterio de las desapariciones en la Nebulosa de las Mareas Fantasma."
+}

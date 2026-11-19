@@ -1,0 +1,18 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "¡Es una trampa! No hay científico a bordo. En su lugar hay un Inquisidor Imperial disfrazado de científico. Los sensores de tu nave indican que ha tragado un dispositivo de rastreo, probablemente esperando que lo devuelvas a la base del Vórtice.",
+"quest_dock_t": "¡No atracues!",
+"quest_inspect_d": "Inspecciona el transbordador para asegurarte de que el científico esté a bordo.",
+"quest_inspect_t": "Inspecciona el transbordador Imperial.",
+"quest_location_d": "Ahora tienes las coordenadas del punto de emboscada del transbordador Imperial. El transbordador pasará por esta zona en pocos minutos. Si no está allí cuando llegues, busca en los alrededores o espera a que llegue y luego embóscalo.",
+"quest_location_t": "Ubicación de la emboscada.",
+"quest_update": "Hermano Vrovel: < %TO >",
+"split_quest_alert": "¡Es una trampa! ¡No es un científico, es un Inquisidor Imperial!",
+"title": "Sistema Lok: Secuestrar al científico Imperial.",
+"title_d": "Ahora que tienes la ubicación del transbordador Imperial, tus órdenes son interceptarlo y desactivarlo. Luego procederás a lanzar un droide de asalto espacial sobre su casco para que tome el control del barco."
+}

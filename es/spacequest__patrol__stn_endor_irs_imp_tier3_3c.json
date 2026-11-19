@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"autorewardbody": "Bonus de finalización: Linear Maisma (5000)",
+"autorewardfrom": "Estación Endor",
+"autorewardsubject": "El Gran Tour",
+"quest_location_d": "Realiza una patrulla interrumpida para conocer los POI del Sistema Endor. La segunda parada es el Linear Miasma, una nube espacial frecuentada por científicos de investigación.",
+"quest_location_t": "Linear Miasma",
+"quest_patrol_d": "Viaja aquí para completar esta parte del Gran Tour",
+"quest_patrol_t": "Destino de la Lega",
+"split_quest_alert": "\\#pcontrast3 Sistema Endor: < \\#pcontrast1 Algunos investigadores de la nebulosa han enviado una señal de socorro, están bajo ataque de los Guardianes Zynt`aia. Viaja a su ubicación y ayuda a garantizar su seguridad destruyendo a los Zynt'aia. \\#pcontrast3 >",
+"title": "Sistema Endor: El Gran Tour - Linear Miasma",
+"title_d": "El Linear Miasma es un gran bolsillo de gas espacial compuesto principalmente por medio millón de toneladas de bacta que se liberó tras la destrucción de un transporte KDY B-12 'Suveron'. La causa del desvío y la posterior destrucción del transporte fue un fallo crítico del reactor. Lo que estudian los investigadores del Linear es el caso único de bacta que sobrevive al vacío del espacio. Aunque ya no es apta para uso medicinal, la nube sigue siendo popular entre las comunidades de investigación."
+}

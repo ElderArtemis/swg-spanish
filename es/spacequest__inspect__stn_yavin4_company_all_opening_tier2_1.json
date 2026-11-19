@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Usa el comando de atracar para transferir el objetivo a tu nave.",
+"quest_dock_t": "Atraca el Vascuero de Comunicación del Culto de Escombros",
+"quest_inspect_d": "Una vez que hayas localizado el Vascuero de Comunicación del Culto de Escombros, inspecciona sus ordenadores para ver si hay pistas sobre la ubicación del rehén.",
+"quest_inspect_t": "Inspecciona el Vascuero de Comunicación del Culto de Escombros",
+"quest_location_d": "La fuente de las transmisiones proviene del sistema Yavin. Siempre está en la misma ubicación, así que la nave no debería ser difícil de encontrar.",
+"quest_location_t": "Permanece en el Sistema Yavin",
+"title": "Sistema Yavin: Inspecciona el Vascuero de Comunicación del Culto de Escombros",
+"title_d": "La Yavin Mining Company ha tenido problemas con el culto de escombros, que exige que abandonen el área inmediatamente. A pesar de que la compañía le dijo al culto que no tiene nada que ver con la operación de salvamento en curso en el sistema Yavin, el culto ha continuado acosando las operaciones de la compañía. Recientemente el culto ha capturado a uno de los ejecutivos de la compañía minera y amenaza con matarlo a menos que se cumplan sus demandas. La Yavin Mining Company quiere que encuentres y rescates a su ejecutivo. El culto de escombros no ha dejado rastro muy bien y la compañía minera ha localizado la fuente de las demandas del culto. Creen que inspeccionar esa nave será un buen comienzo para encontrar a su ejecutivo desaparecido."
+}

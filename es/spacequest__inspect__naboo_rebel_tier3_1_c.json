@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atrápate con el barco de los espías desactivado y transfiere el contenido de su ordenador a bordo.",
+"quest_dock_t": "Atrápate y roba información.",
+"quest_inspect_d": "El espía está pilotando una nave civil, modelo YT-1300. No debería ser un objetivo difícil para ti, pero tiene armamento, así que no te relajes. Desactiva los motores o el reactor de su nave.",
+"quest_inspect_t": "La nave de los espías.",
+"quest_location_d": "Las fuerzas imperiales en la zona están desordenadas y no deberían representar una gran amenaza, pero nunca se puede ser demasiado cuidadoso, amigo mío.",
+"quest_location_t": "Sistema Dantooine.",
+"split_quest_alert": "Hermano Ezkiel: < Buen trabajo, piloto. Lleva la información a uno de nuestros cargueros de datos. >",
+"title": "Sistema Dantooine: Atrapa al espía imperial.",
+"title_d": "El oficial imperial que nos engañó intenta escapar, no lo dejes. Persigue su nave, desactiva su motor o reactor y roba cualquier información que pueda tener en su ordenador a bordo."
+}

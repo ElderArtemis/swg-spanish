@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Atrápate y deja que tu droide piratee su ordenador para obtener las rutas de patrulla. Si aún no has destruido su escolta, lo mejor es hacerlo antes de atracar.",
+"quest_dock_t": "Robar los datos de la ruta de patrulla.",
+"quest_inspect_d": "Inspecciona la nave para asegurarte de que tiene las rutas de patrulla imperial. Si las tiene, desactívala y atraca para transferir los datos. Para apuntar a componentes específicos de una nave estelar, introduce los comandos de corchetes ( ] o [ ) en tu ordenador táctico.",
+"quest_inspect_t": "Inspeccionar la nave.",
+"quest_location_d": "Con la fuerte presencia imperial en el sistema Yavin, esa nave no permanecerá inmóvil mucho tiempo. Si no está en el lugar cuando llegues, el equipo de rescate ya habrá llegado. Si está, busca en el área cercana hasta encontrarla, destruye su escolta, desactívala, inspecciónala y atraca si es la nave correcta.",
+"quest_location_t": "Sistema Yavin.",
+"title": "Sistema Yavin: Robar rutas de patrulla de la nave espía imperial.",
+"title_d": "Una nave imperial ha fallado en el sistema Yavin. La Alianza necesita establecer una nueva ruta de bloqueo y, obteniendo datos de esta nave espía, debería ser mucho más fácil. No permanecerá inmovilizada mucho tiempo, pues el Imperio sin duda ha enviado un equipo de rescate."
+}

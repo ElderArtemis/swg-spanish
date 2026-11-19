@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atrápate con el luchador y transfiere todo lo que encuentres a tu nave.",
+"quest_dock_t": "Atrápate con el Luchador",
+"quest_inspect_d": "Desactiva e inspecciona el luchador para ver si tiene pistas sobre quiénes son estos luchadores.",
+"quest_inspect_t": "Inspecciona el Luchador",
+"quest_location_d": "El luchador dañado se encuentra dentro del sistema Yavin.",
+"quest_location_t": "Permanece en el Sistema Yavin",
+"title": "Sistema Yavin: Inspecciona el Luchador Dañado",
+"title_d": "Tu ordenador de vuelo tiene un bloqueo sobre el luchador dañado. Inspecciona y atrápate con la nave para ver si puedes obtener pistas sobre quiénes son."
+}

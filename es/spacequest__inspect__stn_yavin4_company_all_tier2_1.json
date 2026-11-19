@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Transfiere la información a tu nave y devuélvela a la estación Yavin.",
+"quest_dock_t": "Amarrarse con la Vela",
+"quest_inspect_d": "El barco del Culto de los Escombros probablemente tiene la ubicación del lugar donde se retiene al ejecutivo.",
+"quest_inspect_t": "Inspecciona la Vela de Comunicación",
+"quest_location_d": "La vela de comunicación está en el sistema Yavin.",
+"quest_location_t": "Permanece en el Sistema Yavin",
+"title": "Espacio Yavin: Inspecciona la Vela de Comunicación del Culto de los Escombros",
+"title_d": "El ejecutivo desaparecido de la Compañía Minera de Yavin 4 está retenido como rehén por el Culto de los Escombros. La ubicación del ejecutivo es desconocida, pero el barco que envía las demandas no intenta ocultarse. Inspecciona esta nave para ver si puedes localizar al ejecutivo."
+}

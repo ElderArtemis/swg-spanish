@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que hayas conseguido encontrar los documentos cifrados, tendrás que atracar con el barco para transferir los datos. Usa el comando /dock para iniciar el procedimiento de atracada. Espera hasta que el procedimiento termine y recibas el mensaje de éxito del sistema antes de irte. Ten mucho cuidado en este punto porque serás vulnerable a ataques mientras estés atracado con otra nave.",
+"quest_dock_t": "Atraca con el mensajero mercenario Railgun y transfiere los documentos cifrados",
+"quest_inspect_d": "Inspecciona el barco del mensajero mercenario Railgun en busca de los documentos cifrados. Para inspeccionar una nave primero debes desactivar sus motores apuntando a sus subsistemas. Usa la tecla '[' o ']' para apuntar a sus motores. Ataca la nave hasta que sus motores estén al 0%. Luego acércate y usa /inspect o pulsa la tecla 'I' para comenzar a inspeccionar al mensajero mercenario Railgun. Asegúrate de tener apuntado al mensajero mercenario Railgun desactivado cuando intentes esto.",
+"quest_inspect_t": "Inspecciona al mensajero mercenario Railgun",
+"quest_location_d": "Viaja al sistema Naboo e inspecciona al mensajero mercenario Railgun. Recibirás un punto de ruta de navegación hacia el área donde se puede encontrar al mensajero mercenario Railgun. Dirígete a este punto de ruta y busca al mensajero mercenario Railgun.",
+"quest_location_t": "Viaja al Sistema Naboo",
+"title": "Sistema Naboo: Inspecciona al mensajero mercenario Railgun",
+"title_d": "Viaja al sistema Naboo e inspecciona al mensajero mercenario Railgun. Cuando entres al sistema recibirás un punto de ruta de navegación hacia un área donde debería estar el mensajero mercenario Railgun. Dirígete a esta ubicación y busca al mensajero mercenario Railgun. Una vez que lo hayas encontrado tendrás que desactivar su nave. Para desactivar una nave usa '[' o ']' para apuntar a los subsistemas de la nave y apunta a sus motores. Ataca al mensajero mercenario Railgun hasta que sus motores estén al 0%. Ahora acércate y usa la tecla 'I' o escribe /inspect con el mensajero mercenario Railgun apuntado. Después de haber encontrado los documentos cifrados, escribe /dock para transferir los documentos a tu nave. Ten cuidado porque serás muy vulnerable mientras atracas con otra nave."
+}

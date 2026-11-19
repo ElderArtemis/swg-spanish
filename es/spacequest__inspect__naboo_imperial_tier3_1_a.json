@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que hayas encontrado el informe, atraca con el cazador y transfiérelo a tu nave.",
+"quest_dock_t": "Transferir el Informe del Sector Pirata",
+"quest_inspect_d": "Intercepta al espía mercenario, desactiva su nave y examínala para encontrar los datos que se transfirieron entre la yate y el cazador.",
+"quest_inspect_t": "Examinar al Espía Mercenario",
+"quest_location_d": "El Comando tiene un bloqueo sobre la nave mercenaria dentro del sistema Yavin. Debes viajar al sistema Yavin y examinar al cazador. Se te proporcionará un punto de ruta de navegación a la ubicación del espía mercenario.",
+"quest_location_t": "Viajar al Sistema Yavin",
+"split_quest_alert": "¡Buen trabajo, piloto! Estamos enviando un carguero a tu zona para transferir esos datos. Mantente atento a las coordenadas del buque de transferencia.",
+"title": "Sistema Yavin: Examinar al Espía Mercenario",
+"title_d": "El yate hizo una parada en el sistema Yavin y se reunió con un cazador mercenario. Los ordenadores indican que se transfirieron datos entre los dos buques y el Comando quiere saber qué información contenían."
+}

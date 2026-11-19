@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "El contacto te encontrará en el sistema Naboo.",
+"quest_location_t": "Permanece en el sistema Naboo",
+"quest_patrol_d": "Completa la ruta de patrulla y reúne con el contacto.",
+"quest_patrol_t": "Termina la patrulla",
+"split_quest_alert": "Se detectó la ubicación de entrega. Viaja al punto de entrega y espera la llegada del contacto.",
+"title": "Sistema Naboo: Termina la ruta asignada",
+"title_d": "Ahora que las Fuerzas de Seguridad Reales están cubiertas, completa la ruta asignada y reúne con el contacto."
+}

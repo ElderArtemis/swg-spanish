@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Viaja al sistema Dantooine y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto hacia la siguiente ubicación del recorrido.",
+"quest_location_t": "Viaja al Sistema Dantooine",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás otro para la siguiente ubicación. Sigue los puntos de ruta hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue la Ruta de Patrulla",
+"split_quest_alert": "Tu patrulla ha revelado una nave Velocity con marcas de oficial. Captura e inspecciona esa nave para obtener información sobre el complot de los mercenarios.",
+"title": "Sistema Dantooine: Patrulla el Sistema Dantooine",
+"title_d": "El insurgente te ha enviado a patrullar para investigar los movimientos de los combatientes mercenarios Velocity en la región. Si logras localizar a un oficial, debes desactivarlo e inspeccionar la base de datos de su ordenador."
+}

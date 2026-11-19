@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Acércate al espía desactivado y transfiere el Plan de Operaciones Conjuntas a tu nave. Una vez que lo tengas, tendrás que entregar ese plan a un transbordador de comando inmediatamente.",
+"quest_dock_t": "Transferir el Plan de Operaciones Conjuntas",
+"quest_inspect_d": "Los escáneres indican que un espía rebelde está en la zona. Esta nave debe ser desactivada y examinada para descubrir qué información pueda tener sobre la alianza entre los Rebeldes y Nym.",
+"quest_inspect_t": "Inspeccionar al Espía Rebelde",
+"quest_location_d": "La firma indica que la nave rebelde se encuentra dentro del sistema Yavin.",
+"quest_location_t": "Permanecer en el Sistema Yavin",
+"split_quest_alert": "La sede necesita esa información inmediatamente. Transfórmala a un transbordador imperial para entrega inmediata al comando.",
+"title": "Sistema Yavin: Inspeccionar al Espía Rebelde",
+"title_d": "Permanecer en el sistema Yavin e inspeccionar al espía rebelde. Mientras patrullas, tus escáneres de corto alcance detectaron la firma de un espía rebelde. Intercepta y desactiva a este rebelde para poder inspeccionarlo y descubrir cualquier plan de operaciones entre Nym y la Rebelión."
+}

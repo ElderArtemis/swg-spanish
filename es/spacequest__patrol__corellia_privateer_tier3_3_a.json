@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Puntos de salto estimados en el Sistema Dantooine",
+"quest_location_t": "Sistema Dantooine",
+"quest_patrol_d": "Mantente en este camino hasta que se pueda proporcionar más información",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Here they come, you should be able to detect their hyperspace signatures.  Good luck, you will need it. \\#pcontrast3 >",
+"title": "Sistema Dantooine: Sigue la patrulla para entrar en posición para el ataque",
+"title_d": "Sigue la patrulla para entrar en posición para el ataque"
+}

@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Sistema Corellia",
+"quest_location_t": "Sistema Corellia",
+"quest_patrol_d": "Cuando llegues a un punto de ruta de patrulla recibirás uno nuevo para tu siguiente ubicación. Sigue cada uno de los puntos de ruta hasta llegar al final de tu patrulla.  Esta es la primera de cuatro asignaciones especiales que te da el sargento Rhea. Cuando completes esta misión, vuelve al sargento Rhea en Coronet para tu siguiente asignación.  Tras completar estas cuatro asignaciones especiales, el sargento Rhea te entrenará en una nueva habilidad de piloto.",
+"quest_patrol_t": "Ruta comercial X143",
+"quest_update": "Comando CorSec: < %TO >",
+"title": "Sistema Corellia: Patrulla Ruta comercial X143",
+"title_d": "Patrulla a los piratas en el Sistema Corellia. Cuando completes esta misión, vuelve al sargento Rhea en Coronet para tu siguiente asignación."
+}

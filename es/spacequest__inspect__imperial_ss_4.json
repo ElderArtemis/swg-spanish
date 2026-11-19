@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que hayas encontrado el registro de actividad, transfiérelo a tu nave al atracar con el agente inactivo.",
+"quest_dock_t": "Transferir los Registros de Actividad de Yavin",
+"quest_inspect_d": "Desactiva e inspecciona a un Agente Rebelde para obtener un registro de actividad. Es muy posible que no todos los agentes tengan un registro de actividad completo. Tendrás que seguir inspeccionando a los agentes rebeldes hasta encontrar uno.",
+"quest_inspect_t": "Inspeccionar a un Agente Rebelde",
+"quest_location_d": "El lugar de encuentro está dentro del sistema Yavin. Se te suministrará un punto de ruta de navegación a esta zona de reunión cuando llegues al sistema Yavin.",
+"quest_location_t": "Viajar al Sistema Yavin",
+"title": "Sistema Yavin: Inspeccionar al Agente Rebelde",
+"title_d": "Viaja al sistema Yavin e inspecciona al agente rebelde. El primer paso para descubrir lo que los Rebeldes han localizado es encontrar un informe de operaciones sobre uno de sus agentes. La inteligencia ha localizado un área donde los agentes se reúnen con los comandantes de vuelo para intercambiar información. Debes llegar a este lugar e inspeccionar a un agente para obtener un informe de actividad completo. Si un agente no está en el lugar cuando llegues, es posible que tengas que destruir a algunos comandantes para que más pilotos rebeldes vengan a la rescate."
+}

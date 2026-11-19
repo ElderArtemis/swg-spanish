@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Una vez que hayas encontrado los mapas de navegación, atraca al buque y transfiere los mapas a tu nave.",
+"quest_dock_t": "Transferir los Mapas de Información de Navegación",
+"quest_inspect_d": "Desactiva e inspecciona al capitán mercenario para obtener cualquier información sobre su operación en el sistema Dantooine.",
+"quest_inspect_t": "Inspeccionar al Capitán Mercenario Velocity",
+"quest_location_d": "La señal del buque objetivo proviene del interior del sistema Dantooine. Intercepta al capitán mercenario Velocity en el punto de ruta de navegación suministrado.",
+"quest_location_t": "Permanece en el Sistema Dantooine",
+"split_quest_alert": "Interesante, los informes que has recuperado indican un punto de retransmisión de comunicaciones y una frecuencia. Viaja a la ubicación y sintoniza la frecuencia.",
+"title": "Sistema Dantooine: Inspeccionar al Capitán Mercenario Velocity",
+"title_d": "Permanece en el sistema Dantooine e inspecciona al capitán mercenario Velocity. El cazaespacio del oficial ha sido detectado en tu radar. Intercepta, desactiva e inspecciona ese buque."
+}

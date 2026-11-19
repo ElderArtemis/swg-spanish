@@ -1,0 +1,18 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Puntos múltiples a través del Sistema Naboo",
+"quest_location_t": "Sistema Naboo",
+"quest_patrol_d": "Cuando llegues a un punto de ruta de patrulla recibirás uno nuevo para tu siguiente destino. Sigue cada uno de los puntos de ruta hasta llegar al final de tu patrulla.  Esta es la primera de cuatro asignaciones especiales que te entrega el Capitán Dinge de la RSF. Cuando completes esta misión, vuelve al Capitán Dinge en el Palacio de Theed para tu siguiente asignación.  Tras completar estas cuatro asignaciones especiales, el Capitán Dinge te entrenará en una nueva habilidad de piloto.",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"quest_update": "Comando RSF: < %TO >",
+"split_quest_alert": "\\#pcontrast3 Comando RSF: < \\#pcontrast1 Se detecta ala pirata.  Se están moviendo para atacar! \\#pcontrast3 >",
+"title": "Sistema Naboo: Patrulla en el sector \"Crystal\" de Naboo",
+"title_d": "Realiza una patrulla a través del Sistema Naboo. Cuando completes esta misión, vuelve al Capitán Dinge en el Palacio de Theed para tu siguiente asignación."
+}

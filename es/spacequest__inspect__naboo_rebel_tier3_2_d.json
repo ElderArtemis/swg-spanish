@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atrápate con el pirata Blacklight inactivo y transfiere la ubicación de su líder a tu nave. Luego vuelve a la base mientras planificamos el ataque.",
+"quest_dock_t": "Atrápate y transfiere datos.",
+"quest_inspect_d": "Intenta encontrar a un Líder de Escuadrón Blacklight y comprueba si tiene la ubicación de su líder en su sistema informático. Si la tiene, desactiva sus motores o reactor y atrápate con él para transferirla.",
+"quest_inspect_t": "Líder de Escuadrón Blacklight.",
+"quest_location_d": "Esto te llevará dentro del territorio de los piratas Blacklight, así que mantente alerta y prepárate para un combate.",
+"quest_location_t": "Sistema Dantooine.",
+"title": "Sistema Dantooine: Inspeccionar piratas Blacklight restantes.",
+"title_d": "Hemos encontrado la ubicación de más piratas Blacklight. Desactívalos e inspecciónalos; si encuentras la ubicación de su líder, atrápate y transfiere esos datos a tu nave."
+}

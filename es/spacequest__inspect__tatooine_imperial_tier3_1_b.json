@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que hayas localizado las órdenes rebeldes, atraca con el explorador y transfierelas a tu nave.",
+"quest_dock_t": "Transferir las órdenes rebeldes",
+"quest_inspect_d": "Desactiva e inspecciona al explorador para ver si tiene alguna información sobre por qué están aquí y qué planean.",
+"quest_inspect_t": "Inspeccionar el cazador de reconocimiento avanzado rebelde",
+"quest_location_d": "El cazador de reconocimiento rebelde sigue dentro del sistema. No parece ser consciente de que ha sido detectado. Se te proporcionará un punto de ruta de navegación a la ubicación del explorador.",
+"quest_location_t": "Permanece en el Sistema Endor",
+"split_quest_alert": "¡Alerta! Los cazadores enemigos han atacado un carguero de suministros imperial. El carguero informa que logró escapar pero está gravemente dañado. Prepárate para reunirte con el carguero, ayudar con las reparaciones y escoltarlo a través del sistema de forma segura.",
+"title": "Sistema Endor: Inspeccionar el cazador de reconocimiento avanzado rebelde",
+"title_d": "Permanece en el sistema Endor e inspecciona un cazador de reconocimiento avanzado rebelde que fue detectado en los escáneres durante tu última misión. Necesitas averiguar por qué los Rebeldes están en este sistema y cómo supieron de los transbordadores de los ingenieros imperiales."
+}

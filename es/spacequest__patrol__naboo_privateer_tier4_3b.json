@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Una ruta de patrulla en el Sistema Yavin",
+"quest_location_t": "Sistema Yavin",
+"quest_patrol_d": "Viaja aquí para completar la patrulla",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Hay una fuerza pesada del Sol Negro moviéndose hacia Yavin no muy lejos de tu ubicación. Su objetivo es desconocido, pero no queremos esperar a descubrirlo. Ve a despacharlos. \\#pcontrast3 >",
+"title": "Sistema Yavin: Realiza una patrulla señuelo",
+"title_d": "Realiza una patrulla a través del espacio de Yavin para dividir la observación rebelde"
+}

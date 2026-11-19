@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que encuentres los mapas del sector, atraca al explorador desactivado y transfiécele esos mapas a tu nave.",
+"quest_dock_t": "Transferir los Mapas del Sector y los Planes de Batalla",
+"quest_inspect_d": "Intercepta, desactiva e inspecciona los bancos de datos del explorador A‑wing rebelde.",
+"quest_inspect_t": "Inspeccionar al Explorador A‑wing Rebelde",
+"quest_location_d": "El explorador A‑wing rebelde sigue ubicado dentro del sistema Endor. Se te suministrará un punto de ruta de navegación a su ubicación más reciente.",
+"quest_location_t": "Permanece en el Sistema Endor",
+"split_quest_alert": "Devuelve esa información a la base inmediatamente.",
+"title": "Sistema Endor: Inspeccionar al Explorador A‑wing Rebelde",
+"title_d": "Durante la batalla, se detectó un explorador A‑wing rebelde en la zona. Este explorador podría tener información valiosa sobre los objetivos de los rebeldes en este sistema. Desactiva e inspecciona los bancos de datos del explorador para obtener cualquier información sobre las intenciones de los rebeldes."
+}

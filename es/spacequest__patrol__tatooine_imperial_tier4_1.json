@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Viaja al sistema Endor y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto para la siguiente ubicación del recorrido.",
+"quest_location_t": "Viaja al sistema Endor",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás otro para la siguiente ubicación. Sigue los puntos de ruta hasta que termines tu patrulla.",
+"quest_patrol_t": "Sigue la ruta de patrulla",
+"split_quest_alert": "¡Alerta! Se detectan cazas enemigos. Se aproximan a velocidad de ataque.",
+"title": "Sistema Endor: Patrulla el sistema Endor",
+"title_d": "El Escuadrón de tormenta ha sido asignado a la seguridad del sistema Endor y al nuevo proyecto ultra secreto del Imperio. Debes realizar la patrulla en el sistema Endor y vigilar de cerca cualquier actividad sospechosa."
+}

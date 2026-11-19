@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atrápate al carguero y transfiere la carga a tu nave.",
+"quest_dock_t": "Atrápate al Shifty Prince",
+"quest_inspect_d": "Inspecciona el carguero y asegúrate de que tenga el radiofásotron en él.",
+"quest_inspect_t": "Inspecciona el Shifty Prince",
+"quest_location_d": "El Shifty Prince se encuentra actualmente dentro del sistema Naboo.",
+"quest_location_t": "Viaja al Sistema Naboo",
+"split_quest_alert": "El Radiofásotron está ahora en tu posesión. Viaja a Corellia y captura a Bez'ox Mentzz.",
+"title": "Sistema Naboo: Inspecciona el Shifty Prince",
+"title_d": "La estación Dantooine quiere que cometas algunos actos de piratería para conseguir más suministros. Tu primera tarea es inspeccionar un carguero llamado Shifty Prince. Debería llevar algún radiofásotron que la estación necesita."
+}

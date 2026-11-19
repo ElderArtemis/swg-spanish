@@ -1,0 +1,18 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "El astuto Imperio ha conectado todo el transbordador con un sistema de autodestrucción. Prefieren que la base de datos se desintegre que que caiga en nuestras manos. Ignora el transbordador, destruye la emboscada imperial y sal de allí!",
+"quest_dock_t": "Error en el plan.",
+"quest_inspect_d": "Inspecciona el transbordador imperial para asegurarte de que tiene lo que necesitamos. Si lo tiene, desactiva sus motores o reactor si aún no lo has hecho. Para apuntar a componentes específicos de una nave estelar, introduce los comandos de corchetes ( ] o [ ) en tu ordenador táctico.",
+"quest_inspect_t": "Asegúrate de que es el transbordador correcto.",
+"quest_location_d": "Siempre ten cuidado en el sistema Lok. El sistema está infestado de actividad pirata y aunque los piratas Nym no nos molestan, hay muchos otros clanes piratas que saltarán a la oportunidad de destruir un combatiente solitario. Cuando llegues al waypoint, busca en el área cercana el transbordador ya que puede que aún no haya llegado a esas coordenadas.",
+"quest_location_t": "Sistema Lok.",
+"quest_update": "Comando Rebelde: < %TO >",
+"split_quest_alert": "Comando Rebelde: < El transbordador está conectado con un sistema de autodestrucción. Detectando Fugitivos Imperiales entrantes, ¡destrúyelos! >",
+"title": "Sistema Lok: Interceptar y robar datos del transbordador de recuperación imperial.",
+"title_d": "Una parte de la base de datos de la estación espacial de la Estrella de la Muerte ha sido encontrada bastante intacta en los escombros flotando alrededor de la luna de Yavin 4. Desafortunadamente el Imperio ya la ha recuperado y la está enviando a través del sistema Lok en este momento. Tu trabajo es robarla de ellos."
+}

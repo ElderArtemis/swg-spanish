@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Mover esta enorme flota fuera del sistema Yavin será muy difícil. Hay una presencia imperial enorme en este sistema. Esperamos que elimines cualquier patrulla pequeña de barcos imperiales y el Imperio lo tome como un ataque menor sin enviar refuerzos antes de que la flota pueda escapar.",
+"quest_location_t": "Sistema Yavin.",
+"quest_patrol_d": "Estamos subiendo las coordenadas de la ruta de bloqueo en tiempo real. Sigue los waypoints a medida que aparecen y elimina cualquier presencia imperial rápidamente.",
+"quest_patrol_t": "Sigue las coordenadas subidas.",
+"split_quest_alert": "Comando Rebelde: < Las escáneres muestran una patrulla imperial rumbo a tu dirección. Elimínalos antes de que detecten nuestra flota. >",
+"title": "Sistema Yavin: Limpia la ruta de escape frente a la flota rebelde que huye.",
+"title_d": "Aunque capturamos al espía, la presencia de cazas imperiales indica que ya había contactado a sus contratistas. No podemos arriesgarnos y necesitamos evacuar de emergencia nuestra flota. Debes ayudar limpiando cualquier barco imperial en la ruta de escape. Avanza delante de la flota y elimina cualquier barco imperial que encuentres."
+}

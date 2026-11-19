@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Si el vehículo que has inspeccionado contiene la carga que necesitas, usa las teclas predeterminadas '[' o ']' para recorrer sus componentes hasta la ranura del motor.  Tras desactivar el vehículo, acércate y usa el comando /dock para recuperar la carga.",
+"quest_dock_t": "Anclaje",
+"quest_inspect_d": "Mientras tengas el objetivo de vehículo apuntado, usa el comando /inspect para determinar su carga.",
+"quest_inspect_t": "Inspeccionar objetivo",
+"quest_location_d": "Ubicación desconocida en el Sistema Lok",
+"quest_location_t": "Sistema Lok",
+"title": "Sistema Lok: Buscar órdenes de envío",
+"title_d": "Inspeccionar un barco de cañones Nym en busca de órdenes de envío"
+}

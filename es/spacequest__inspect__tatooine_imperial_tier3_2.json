@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Una vez que hayas encontrado más información que el comando pueda usar contra los Rebeldes, acércate al explorador y transfiere esa información a tu nave.",
+"quest_dock_t": "Transferir las órdenes rebeldes",
+"quest_inspect_d": "Desactiva e inspecciona al explorador para encontrar más datos que el comando pueda usar.",
+"quest_inspect_t": "Inspeccionar al Recon avanzado rebelde",
+"quest_location_d": "La inteligencia ha localizado otro Recon avanzado rebelde en el sistema Endor. Viaja al punto de ruta de navegación suministrado para encontrar al segundo explorador.",
+"quest_location_t": "Viajar al sistema Endor",
+"split_quest_alert": "¡Alerta! Se detectan barcos enemigos a velocidad de ataque. Toma acción evasiva inmediatamente. Destruye a todos los cazas entrantes.",
+"title": "Sistema Endor: Inspeccionar otro Recon avanzado rebelde",
+"title_d": "Viaja al sistema Endor e inspecciona otro Recon avanzado rebelde. El comando necesita más detalles sobre la operación rebelde en el sistema. La inteligencia tiene la ubicación de otro Recon avanzado rebelde que parece ser un buen objetivo."
+}

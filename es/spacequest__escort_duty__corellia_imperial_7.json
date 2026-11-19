@@ -31,5 +31,20 @@
 "quest_rendezvous_t": "Encuentra al Carguero en el Waypoint de Navegación",
 "reason_1": "Saludos piloto, buen veros. Estamos transportando equipamiento nuevo para los chicos de tierra y necesitamos protección.",
 "reason_2": "Piloto, buen veros. Estamos transportando a un prisionero para la Inquisición y necesitamos una escolta.",
-"reason_3": "Buen trabajo, nuestra escolta está aquí. Estamos sobre un barril de explosivos, mantén a los hostiles lejos de nosotros."
+"reason_3": "Buen trabajo, nuestra escolta está aquí. Estamos sobre un barril de explosivos, mantén a los hostiles lejos de nosotros.",
+"reason_4": "¡Hola piloto! Supongo que aquí hacemos un servicio de taxi, transportando a un tipo importante en la parte trasera. Mantén la vista sobre nosotros.",
+"reason_5": "Transmitiendo mi código de identificación Imperial ahora. Protégenos con tu vida, piloto.",
+"shields_depleted": "Mis escudos están fallando, ¡mejor deshazte de estos cazas rápido, piloto!",
+"taunt_1": "Nunca llegarás a Corellia, ¡imperial sucio!",
+"taunt_2": "No nos satisfaremos con tu carga, ¡nos llevamos tu vida, escoria Imperial!",
+"taunt_3": "Apretón fácil, ¡buenas noches, escoria Imperial!",
+"taunt_4": "¡Freeeedoooom!",
+"taunt_5": "¡La venganza se sirve mejor con un cañón láser!",
+"thanks_1": "Buen trabajo, piloto, me alegra tenerte aquí.",
+"thanks_2": "Uf, pensé que nos tenían por seguro.",
+"thanks_3": "Sabes cómo manejar ese barco, te lo reconozco, piloto.",
+"thanks_4": "¡Guau! ¿Viste a esa escoria Rebelde cuando le quitaste la ala? ¡Hermoso!",
+"thanks_5": "Me haces extrañar ser un piloto de combate, ¡buenos movimientos!",
+"title": "Sistema Corellia: Encargar la misión de escolta de cargueros Imperiales",
+"title_d": "Viaja al sistema Corellia y escolta a los cargueros Imperiales a través del sistema. Una misión de escolta es voluntaria y puedes abandonarla en cualquier momento sin repercusiones. Cuando llegues al sistema Corellia, recibirás un punto de ruta de navegación a la ubicación de llegada de un carguero Imperial que tendrás que escoltar a través del sistema. Viaja al punto de ruta y espera hasta que el carguero haga hipersalto al sistema. Una vez dentro, comenzará a volar por el sistema. Debes seguir al carguero hasta que llegue a su destino. Mantén un ojo atento a posibles ataques enemigos, ya que intentarán destruir este carguero. Una vez completada, recibirás otro punto de ruta a la ubicación de llegada de otro carguero. Esta misión de escolta puede detenerse en cualquier momento simplemente abortando la misión o abandonando el sistema."
 }

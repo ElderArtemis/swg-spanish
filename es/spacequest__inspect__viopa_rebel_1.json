@@ -1,0 +1,18 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Es el transbordador imperial correcto. Desactívalo y atrápalo para poder hackearlo y transferir los datos a tu nave, luego sal de allí con prisa.",
+"quest_dock_t": "Transbordador correcto, atrápalo y transfiere los datos.",
+"quest_inspect_d": "Inspecciona el transbordador imperial para asegurarte de que tiene lo que queremos. Si lo tiene y aún no lo has desactivado, hazlo, luego atrápalo y transfiere los datos a tu nave. Para apuntar a componentes específicos de una nave estelar, introduce los comandos entre corchetes ( ] o [ ) en tu ordenador táctico. Todo será más fácil si has destruido su escolta, ya que atrapar bajo fuego enemigo no se recomienda.",
+"quest_inspect_t": "Inspecciona el transbordador imperial \"Lambda\".",
+"quest_location_d": "El área del sistema Lok donde se encuentra el transbordador varado debería ser relativamente segura de piratas. Desafortunadamente, el Imperio probablemente enviará un equipo de rescate al área, así que mantén los ojos abiertos. Esperamos que no hayan llegado todavía, pero si lo han hecho, busca el transbordador en la zona cercana, destruye sus escoltas y desactívalo para obtener los datos que necesitamos.",
+"quest_location_t": "Sistema Lok.",
+"quest_update": "Comando Rebelde: < %TO >",
+"split_quest_alert": "Comando Rebelde: < ¡Muestra de escaneo múltiples cazas TIE entrantes! ¡Deshazte de ellos rápido y luego sal de allí! >",
+"title": "Sistema Lok: Robar información imperial.",
+"title_d": "Los piratas Nym han encontrado un transbordador imperial \"Lambda\" varado. Se te ordena viajar a él y hackear su ordenador a bordo para ver si hay información útil."
+}

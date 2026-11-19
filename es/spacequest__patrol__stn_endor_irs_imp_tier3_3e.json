@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"autorewardbody": "Bonus de finalización: Territorio Decloriano (5000)",
+"autorewardfrom": "Estación Endor",
+"autorewardsubject": "El Gran Tour",
+"quest_location_d": "Realiza una patrulla interrumpida para conocer los POI del Sistema Endor. La segunda parada es el Miasma Lineal, una nube espacial frecuentada por científicos de investigación.",
+"quest_location_t": "Territorio Decloriano",
+"quest_patrol_d": "Viaja aquí para completar esta parte del Gran Tour",
+"quest_patrol_t": "Destino de la Lega",
+"split_quest_alert": "\\#pcontrast3 Estación Endor: < \\#pcontrast1 Los Zynt'aia probablemente no estarán contentos con tu presencia en esta zona. Enfréntate y destruye a los piratas. \\#pcontrast3 >",
+"title": "Sistema Endor: El Gran Tour - Territorio Decloriano",
+"title_d": "El Territorio Decloriano es una parte bastante poco importante del Sistema Endor; lejos de cualquier ruta comercial, es frecuentado por el clan de especias Zynt'aia. Estos piratas de especias han tomado interés en el Miasma Lineal, aunque las ganancias de esta nube en particular para sus operaciones de especias son desconocidas. El Imperio envía patrullas a esta zona ocasionalmente a petición de los Científicos Lineales para mantener a los piratas bajo control. Tu misión es hacer una incursión en esta área y enfrentarte a las fuerzas allí."
+}

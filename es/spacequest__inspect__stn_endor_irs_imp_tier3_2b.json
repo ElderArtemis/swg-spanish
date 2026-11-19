@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"split_quest_alert_fail": "",
+"autorewardbody": "Bono de finalización: Intriga (5000)",
+"autorewardfrom": "Estación Endor",
+"autorewardsubject": "Intriga",
+"quest_dock_d": "Si el objetivo tiene la carga que te interesa, desactívalo apuntando a los motores o al reactor con las teclas de ciclo de componentes por defecto '[' o ']', una vez que el barco esté desactivado puedes acercarte y con el barco apuntado usar el comando /dock para recuperar la carga.",
+"quest_dock_t": "Amarrar",
+"quest_inspect_d": "Apunta al barco y usa la tecla por defecto 'I' o /inspect para determinar qué carga poseen.",
+"quest_inspect_t": "Inspección",
+"quest_location_d": "una Nebulosa en el Sistema Endor justo fuera de los escaneos de sensores normales.",
+"quest_location_t": "Sistema Endor",
+"split_quest_alert": "\\#pcontrast3 Kilnstrider: < \\#pcontrast1 Sospechaba que sí. Espera, tenemos un barco moviéndose rápido desde esa ubicación. Entra en persecución, no dejes que se escape Capitán. \\#pcontrast3 >",
+"title": "Sistema Endor: Intriga",
+"title_d": "A petición del Almirante Kilnstrider, inspecciona el barco sospechoso cerca de una nebulosa distante."
+}

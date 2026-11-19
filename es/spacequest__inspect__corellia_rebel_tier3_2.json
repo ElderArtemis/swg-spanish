@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Cuando hayas desactivado e inspeccionado a un contrabandista Hutt con datos de reconocimiento del sistema en su ordenador, acércate a él y transfiérelo a tu nave.",
+"quest_dock_t": "Datos de reconocimiento del sistema.",
+"quest_inspect_d": "Inspecciona a los contrabandistas de especias Hutt hasta encontrar uno que tenga datos de reconocimiento del sistema en su ordenador. Cuando lo encuentres, desactívalo y acércate a él para transferir los datos a tu nave.",
+"quest_inspect_t": "Inspecciona a los contrabandistas de especias Hutt.",
+"quest_location_d": "No tenemos mucha información sobre el sistema Endor actualmente y esperamos que puedas conseguirnos datos de los contrabandistas Hutt en este sector.",
+"quest_location_t": "Sistema Endor.",
+"split_quest_alert": "Comando de la Flota Rebelde: < De alguna manera los Hutts tienen información sobre la Marina Imperial acercándose a nuestra posición! Entrega estos datos a nuestra flota en el sector Lok. >",
+"title": "Sistema Endor: Averigua lo que los contrabandistas Hutt saben sobre el sistema.",
+"title_d": "El sistema Endor está bastante poco explorado para nosotros. Hemos visto a algunos contrabandistas Hutt y si alguien tiene información sobre el sistema, serían ellos. Tu misión es intentar encontrar a uno de sus contrabandistas con datos del sistema Endor en su ordenador y robarlo."
+}

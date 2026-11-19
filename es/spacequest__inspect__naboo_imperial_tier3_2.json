@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Atraca el yate y transfiere los registros a tu embarcación.",
+"quest_dock_t": "Transferir los Registros Personales",
+"quest_inspect_d": "Una vez que hayas localizado el yate del doctor, desactívalo e inspecciónalo.",
+"quest_inspect_t": "Inspeccionar el Yate del Doctor Shinss",
+"quest_location_d": "El Doctor Shinss trabaja en la operación de salvamento en el sistema Yavin y ha estado usando su yate personal con frecuencia. Se te suministrará un waypoint de navegación hasta donde está amarrado el yate.",
+"quest_location_t": "Viajar al Sistema Yavin",
+"split_quest_alert": "Procede inmediatamente al Satélite de Comunicaciones Imperial 247d para transmitir datos. La ubicación se descargará en tu ordenador de navegación en breve.",
+"title": "Sistema Yavin: Inspeccionar el Yate del Doctor Shinss",
+"title_d": "Tu interrogatorio al Teniente Coronel Barlow te ha llevado a creer que el Doctor Shinss estuvo involucrado en la traición del Coronel Hend. El comando de Inquisición quiere más pruebas contra el doctor y tendrás que inspeccionar el yate personal del doctor para demostrar su implicación."
+}

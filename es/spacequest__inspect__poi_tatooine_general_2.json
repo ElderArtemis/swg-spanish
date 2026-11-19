@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Después de haber desactivado e inspeccionado a tu enemigo, usa el comando /dock para conseguir tu carga designada.",
+"quest_dock_t": "Atracar con el Agresor del Sol Negro desactivado",
+"quest_inspect_d": "Para inspeccionar un objetivo, debes desactivar la nave apuntando a sus reactores o motores (usa los [] para cambiar entre los distintos componentes de la nave enemiga). Una vez desactivado, inspecciónala usando la tecla \"i\".",
+"quest_inspect_t": "Inspeccionar Agresores del Sol Negro",
+"quest_location_d": "Si te encuentras en otro sistema, viaja al Sistema Tatoo usando tu mapa de hiperspacio (presionando \"H\") y haciendo clic en un punto de hiperspacio.",
+"quest_location_t": "Viajar al Sistema Tatoo",
+"split_quest_alert": "\\#pcontrast1 Mos Eisley Captain:\\#pcontrast3 < ¡Piloto! Mantén tus sistemas alerta. ¡Ni siquiera puedo identificar lo que hay en el radar! >",
+"title": "Sistema Tatoo: Caza del Sol Negro",
+"title_d": "Kelen Wordkal sospecha que los Agresores del Sol Negro en la Nebulosa de la Corriente Fantasma pueden tener información sobre el paradero de los cargueros desaparecidos. Ya sea que los Soles Negros sean responsables o no, cazar y desactivar varios Agresores del Sol Negro podría esclarecer la situación."
+}

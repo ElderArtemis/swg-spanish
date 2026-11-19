@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Destruye los motores del objetivo y luego /dock para recuperar la carga",
+"quest_dock_t": "Dock",
+"quest_inspect_d": "Usa el comando /inspect para determinar si el carguero tiene la Carga Industrial",
+"quest_inspect_t": "Inspeccionar objetivo",
+"quest_location_d": "Un punto de viaje en el Sistema Endor",
+"quest_location_t": "Sistema Endor",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Estar alerta, hay cazas dirigiéndose a ti. \\#pcontrast3 >",
+"title": "Sistema Endor: Recuperar Carga Industrial del Carguero Minero",
+"title_d": "Inspecciona un carguero pesado en esta zona para encontrar suministros industriales."
+}

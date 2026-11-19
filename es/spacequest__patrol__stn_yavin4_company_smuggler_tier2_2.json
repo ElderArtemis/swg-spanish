@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Debes encontrarte con el contacto en el sistema Naboo.",
+"quest_location_t": "Viaja al Sistema Naboo",
+"quest_patrol_d": "Viaja de punto de navegación a punto de navegación hasta que el representante de la Yavin 4 Mining Company en Naboo se ponga en contacto contigo.",
+"quest_patrol_t": "Sigue la Patrulla Asignada",
+"split_quest_alert": "Detectados combatientes de la Fuerza de Seguridad Real. No deben ser autorizados a reportar tu presencia. Destrúyelos todos.",
+"title": "Sistema Naboo: Sigue la Ruta Asignada",
+"title_d": "La Yavin 4 Mining Company te ha contratado para entregar un paquete \"secreto\" a un contacto suyo en el sistema Naboo. Debes volar la ruta asignada para que el contacto sepa que eres el barco que quiere encontrar. Evita cualquier contacto con la seguridad, pero si es necesario destruye cualquier nave que intente interferir."
+}

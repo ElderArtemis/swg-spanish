@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Para transferir las rutas de viaje de los transbordadores y la ubicación de inicio, acércate a él tan pronto como esté desactivado y hayas inspeccionado que sea el barco correcto.",
+"quest_dock_t": "Transferir las rutas de viaje.",
+"quest_inspect_d": "El oficial viaja en un transbordador imperial clase ‘Lambda’. Si no está en esta ubicación cuando llegues, busca en el área cercana y encuentra un buen punto para emboscar el transbordador cuando llegue. Desactiva el motor o reactor del barco y obtén las rutas de viaje del ordenador de navegación del transbordador. Para apuntar a componentes específicos de una nave estelar, introduce los comandos de corchetes ( ] o [ ) en tu ordenador táctico.",
+"quest_inspect_t": "Transbordador oficial imperial.",
+"quest_location_d": "Viaja rápidamente al sistema de Dantooine para interceptar al oficial imperial. Cuando llegues al sistema, actualizaremos tu ordenador de navegación con las coordenadas correctas para la interceptación. No tenemos confirmación de cuándo pasará el transbordador de las coordenadas, pero nuestro barco de reconocimiento que monitorea el área indica que aún no lo ha hecho. Cuando llegues al lugar, espera a que aparezca el transbordador y procede con el emboscado.",
+"quest_location_t": "Sistema de Dantooine.",
+"title": "Sistema de Dantooine: Robar la ubicación del Proyecto de Investigación Imperial.",
+"title_d": "Tus órdenes son emboscar el transbordador del oficial imperial y obtener la ubicación de donde partió el barco hackeando su ordenador a bordo."
+}

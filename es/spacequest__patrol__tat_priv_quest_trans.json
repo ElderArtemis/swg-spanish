@@ -1,0 +1,16 @@
+{
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"assigned_delayed": "Encuentra el punto de encuentro.",
+"quest_location_d": "Un punto de encuentro en el Sistema Lok",
+"quest_location_t": "Sistema Lok",
+"quest_patrol_d": "Punto de encuentro para el contacto de Nym",
+"quest_patrol_t": "Punto de ruta de encuentro",
+"split_quest_alert": "El contacto ha sido destruido. Escaneando el área en busca de pistas sobre la identidad del agresor.",
+"title": "Sistema Lok: Encuentro con el contacto de Nym",
+"title_d": "Encuentro: Reúnete con el contacto de Nym para recoger el paquete de Shamdon"
+}

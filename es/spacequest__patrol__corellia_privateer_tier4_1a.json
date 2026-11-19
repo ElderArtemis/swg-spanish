@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Ruta de patrulla en el Sistema Dantooine",
+"quest_location_t": "Sistema Dantooine",
+"quest_patrol_d": "Viaja aquí para completar la patrulla",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Hemos localizado la firma de una patrulla de Black Sun cerca de tu zona. \\#pcontrast3 >",
+"title": "Sistema Dantooine: Patrulla para el pirata Black Sun",
+"title_d": "Realiza una patrulla por el espacio de Dantooine, vigila el radar en busca de piratas Black Sun."
+}

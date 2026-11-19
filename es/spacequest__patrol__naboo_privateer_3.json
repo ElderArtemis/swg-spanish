@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Patrulla a través del Sistema Naboo",
+"quest_location_t": "Sistema Naboo",
+"quest_patrol_d": "Cuando llegues a un punto de ruta de patrulla recibirás uno nuevo para tu siguiente destino. Sigue cada uno de los puntos de ruta hasta llegar al final de tu patrulla.  Esta es la tercera de cuatro asignaciones especiales que te entrega el Capitán Dinge de la RSF. Cuando completes esta misión, vuelve al Capitán Dinge en el Palacio de Theed para tu siguiente asignación.  Tras completar estas cuatro asignaciones especiales, el Capitán Dinge te entrenará en una nueva habilidad de piloto.",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 RSF Command: < \\#pcontrast1 Hemos recibido una solicitud de escolta de un carguero local.  Dirígete al punto de ruta subido y toma el control de esta tarea. \\#pcontrast3 >",
+"title": "Sistema Naboo: Patrulla en el espacio de Naboo",
+"title_d": "Patrulla por actividad hostil. Cuando completes esta misión, vuelve al Capitán Dinge en el Palacio de Theed para tu siguiente asignación."
+}

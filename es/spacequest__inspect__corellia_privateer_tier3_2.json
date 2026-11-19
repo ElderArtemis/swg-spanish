@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Un transporte sin marcar con carga de contrabando",
+"quest_dock_t": "Transporte civil",
+"quest_inspect_d": "Un envío de armas que se usarán contra mundos pacíficos",
+"quest_inspect_t": "Envío de armas",
+"quest_location_d": "Una ruta comercial en el Sistema Dathomir",
+"quest_location_t": "Sistema Dathomir",
+"split_quest_alert": "\\#pcontrast3 Comando CorSec: < \\#pcontrast1 Piloto! Mantente alerta! ¡Nuestros sistemas están fallando por aquí! Viaja a la siguiente ubicación, interrumpirá sus saltos de hiperespacio \\#pcontrast3 >",
+"title": "Sistema Dathomir: Captura el envío de armas",
+"title_d": "Inspecciona un transporte civil alrededor de Dathomir en busca de contrabando. Intercepta un envío de armas destinado al Sol Negro"
+}

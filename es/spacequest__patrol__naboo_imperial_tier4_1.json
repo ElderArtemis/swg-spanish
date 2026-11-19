@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Viaja al sistema Dathomir y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto para la siguiente ubicación en la ruta de patrulla.",
+"quest_location_t": "Viaja al Sistema Dathomir",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás otro para la siguiente ubicación. Sigue los puntos de ruta hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue la Ruta de Patrulla",
+"split_quest_alert": "¡Alerta! Se sospecha que un buque no autorizado está intentando salir del sistema con contrabando. Detén el buque e inspecciona su contenido.",
+"title": "Sistema Dathomir: Patrulla el Sistema Dathomir",
+"title_d": "La Inquisición ha sido alertada de niveles superiores de actividad no autorizada en el sistema Dathomir. Quieren descubrir qué es esta actividad y quién está detrás de ella. Debes patrullar el sistema Dathomir y mantener los ojos abiertos ante cualquier actividad sospechosa."
+}

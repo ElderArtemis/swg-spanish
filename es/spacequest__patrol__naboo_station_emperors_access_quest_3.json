@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "La ruta de los cargueros debería ser segura, pero muchos dicen que la tripulación del carguero tenía razón y que ha sido comprometida, así que prepárate.",
+"quest_location_t": "Sistema Yavin.",
+"quest_patrol_d": "La estación espacial imperial te proporcionará puntos de ruta a lo largo de la ruta de los cargueros. Síguelos y mantén la vista en tu radar.",
+"quest_patrol_t": "Sigue los puntos de ruta.",
+"split_quest_alert": "Estación espacial imperial: < ¡Allí! ¡Naves de exploración rebeldes, atrápalas! >",
+"title": "Sistema Yavin: Patrulla la ruta de los cargueros.",
+"title_d": "El comandante de seguridad de la estación espacial imperial en Yavin te ha pedido un favor. Quiere que confirmes las sospechas de la tripulación de los cargueros de que los rebeldes planean atacar sus convoyes. Viaja a la ruta y patrulla, para ver si puedes encontrar alguna de la escoria rebelde."
+}

@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"autorewardbody": "Bono de finalización: El Faro Onyx (5000)",
+"autorewardfrom": "Estación Endor",
+"autorewardsubject": "El Gran Recorrido",
+"quest_location_d": "Realiza una patrulla interrumpida para conocer los POI del Sistema Endor. La primera parada es el Faro Onyx, frecuentado por los Piratas de la Luz Negra.",
+"quest_location_t": "El Faro Onyx",
+"quest_patrol_d": "Viaja aquí para completar esta parte del Gran Recorrido",
+"quest_patrol_t": "Destino de la Lega",
+"split_quest_alert": "\\#pcontrast3 Computadora Táctica: < \\#pcontrast1 Nave hostil detectada en vector de ataque. \\#pcontrast3 >",
+"title": "Sistema Endor: El Gran Recorrido - Faro Onyx",
+"title_d": "Un fenómeno en las comunicaciones estelares, los \"faro\" son ubicaciones en el espacio creadas por la interacción de radiación, cuerpos de alta gravedad y algunas fuerzas no identificadas pero clave que se utilizan para recopilar transmisiones de ráfagas retransmitidas. Estas estaciones de relevo naturales son populares entre piratas, contrabandistas y, en los últimos años, la Alianza Rebelde debido a la alta dificultad para interceptar transmisiones."
+}

@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Permanece en el sistema Endor y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto de ruta para la siguiente ubicación del recorrido de patrulla.",
+"quest_location_t": "Permanece en el sistema Endor",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás uno nuevo para la siguiente ubicación. Sigue los puntos de ruta de patrulla hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue el recorrido de patrulla",
+"split_quest_alert": "¡Llamado a todos los pilotos imperiales! El Ala 3 de TIE ha encontrado una fuerte resistencia rebelde. Todos los pilotos disponibles deben dirigirse inmediatamente a la siguiente ubicación.",
+"title": "Sistema Endor: Patrulla el sistema Endor",
+"title_d": "El comando quiere que patrulles la zona buscando actividad rebelde mientras inspeccionan los datos que recuperaste."
+}

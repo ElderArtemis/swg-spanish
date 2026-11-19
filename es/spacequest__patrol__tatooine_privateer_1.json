@@ -1,0 +1,20 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Ruta de la Alianza de Contrabandistas en el Sistema Tatooine",
+"quest_location_t": "Sistema Tatooine",
+"quest_patrol_d": "Cuando llegues a un punto de ruta de patrulla recibirás uno nuevo para tu siguiente destino. Sigue cada uno de los puntos de ruta hasta terminar tu patrulla. Esta es la primera de cuatro asignaciones especiales que te da Dravis de la Alianza de Contrabandistas. Cuando completes esta misión, vuelve a Dravis en la sala trasera de la cantina de Mos Eisley para tu siguiente tarea. Tras completar estas cuatro asignaciones especiales, Dravis te entrenará en una nueva habilidad de piloto.",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Se detectó una nave enemiga en vector de ataque. \\#pcontrast3 >",
+"surprise_attack_alert": "¡Se detectó una flota pirata! Se están moviendo para atacar!",
+"surpriseattackbody": "Los sensores han localizado una flota de 4 naves piratas que se dirigen a atacar.",
+"surpriseattackfrom": "Computadora de apuntado",
+"surpriseattacksubject": "Se detectaron naves enemigas",
+"title": "Sistema Tatooine: Ruta de patrulla de la Alianza de Contrabandistas",
+"title_d": "Viaja por la ruta de contrabandistas, mantén la guardia ante los saqueadores del Sol Negro. Cuando completes esta misión, vuelve a Dravis en la sala trasera de la cantina de Mos Eisley para tu siguiente tarea."
+}

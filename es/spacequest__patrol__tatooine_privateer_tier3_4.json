@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Ruta de patrulla en el Sistema Dathomir",
+"quest_location_t": "Sistema Dathomir",
+"quest_patrol_d": "Viaja aquí para completar la patrulla",
+"quest_patrol_t": "Punto de ruta de patrulla",
+"split_quest_alert": "\\#pcontrast3 Beissa: < \\#pcontrast1 Estamos enviando fuerzas Hutt para enfrentarse al Clan Rancor en batalla. Ve allí inmediatamente y asegúrate de que nuestra facción gane! \\#pcontrast3 >",
+"title": "Sistema Dathomir: Patrulla para las fuerzas del Clan Rancor",
+"title_d": "Patrulla en el espacio de Dathomir para localizar concentraciones de las fuerzas del Clan Rancor"
+}

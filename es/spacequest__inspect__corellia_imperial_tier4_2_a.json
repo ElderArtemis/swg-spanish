@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Una vez que hayas encontrado las órdenes, atrápalas y transfierelas a tu nave.",
+"quest_dock_t": "Transferir las Órdenes Operativas",
+"quest_inspect_d": "Una vez que el buque esté desactivado, debes inspeccionar la nave en busca de más información que pueda ser útil para la investigación de los Insurgentes.",
+"quest_inspect_t": "Inspeccionar al Líder del Grupo Mercenario Velocity",
+"quest_location_d": "El buque objetivo está en la zona. Intercepta y desactiva esa nave en el punto de ruta de navegación suministrado.",
+"quest_location_t": "Permanecer en el Sistema Dantooine",
+"split_quest_alert": "Lleva esas órdenes a un transbordador que te encontrará en el espacio de Dantooine. Los Insurgentes quieren verlas de cerca. Mantente a la espera de las coordenadas de navegación.",
+"title": "Sistema Dantooine: Inspeccionar al Líder del Grupo Mercenario Velocity",
+"title_d": "Permanecer en el sistema Dantooine e inspeccionar al líder del grupo mercenario Velocity. La inteligencia informa haber visto a uno en el sistema, no muy lejos de donde te encuentras."
+}

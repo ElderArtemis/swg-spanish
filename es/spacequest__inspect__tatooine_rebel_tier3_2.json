@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atraca el barco traidor desactivado y desactiva esa bomba térmica.",
+"quest_dock_t": "Atraca y desactiva la bomba.",
+"quest_inspect_d": "Si encuentras un barco con una bomba u otro dispositivo similar, desactívalo de inmediato y atraca para asegurar la amenaza.",
+"quest_inspect_t": "Infiltrador imperial.",
+"quest_location_d": "El sistema Dathomir siempre es peligroso, incluso cuando te encuentras en una zona controlada por nosotros como esta, así que mantente alerta.",
+"quest_location_t": "Sistema Dathomir.",
+"split_quest_alert": "Comando Rebelde: < Mostramos varios barcos TIE Interceptor entrantes, el espía debe haber tenido una guardia oculta. ¡Prepárate para la batalla! >",
+"title": "Sistema Dathomir: Investigar nave rebelde sospechosa.",
+"title_d": "Se te ordena volar a las áreas designadas e inspeccionar naves rebeldes sospechosas para intentar atrapar infiltradores terroristas imperiales."
+}

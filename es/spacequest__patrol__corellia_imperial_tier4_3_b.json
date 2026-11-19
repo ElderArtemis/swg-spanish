@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_location_d": "Permanece en el sistema Dathomir y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto de ruta hacia la siguiente ubicación de la ruta de patrulla.",
+"quest_location_t": "Permanece en el sistema Dathomir",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás uno nuevo hacia la siguiente ubicación. Sigue los puntos de ruta de patrulla hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue la ruta de patrulla",
+"split_quest_alert": "Las escáneres indican un barco con la insignia de un oficial. Desactiva e inspecciona ese barco para obtener sus datos de orden.",
+"title": "Sistema Dathomir: Patrulla el sistema Dathomir",
+"title_d": "La descripción del piloto de la nave de descenso del líder de vuelo enemigo ha despertado el interés de los Insurgentes. Debes patrullar la región y buscar cualquier señal del enemigo. Mantente alerta ante cualquier oficial enemigo que pueda tener más información sobre el líder de vuelo enemigo."
+}

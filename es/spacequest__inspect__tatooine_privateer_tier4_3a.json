@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Si uno de ellos tiene los planes de carga, usa el comando /dock después de desactivarlos para recuperarlos",
+"quest_dock_t": "Objetivo de amarre",
+"quest_inspect_d": "Inspecciona los bombarderos Valarian locales en busca de planes de carga",
+"quest_inspect_t": "Bombardero Valarian",
+"quest_location_d": "Una zona de Dantooine con actividad Valarian \"secreta\".",
+"quest_location_t": "Sistema Dantooine",
+"split_quest_alert": "\\#pcontrast3 Nirame: < \\#pcontrast1 Vamos a analizar estos datos.  Mientras tanto, ¿qué tal si usas esos blásters de precios altos?  Sal al Sistema Tatooine, te actualizaré con la información del objetivo desde allí. \\#pcontrast3 >",
+"title": "Sistema Dantooine: Captura los planes de carga Valarian",
+"title_d": "Desactiva e inspecciona un bombardero Valarian."
+}

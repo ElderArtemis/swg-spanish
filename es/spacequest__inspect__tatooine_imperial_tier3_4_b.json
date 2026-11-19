@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Atrápate con el transbordador de mando rebelde y transfiere los datos imperiales robados a tu nave.",
+"quest_dock_t": "Transferir los datos imperiales robados",
+"quest_inspect_d": "Desactiva e inspecciona el transbordador de mando rebelde para encontrar información que el Escuadrón de la Tormenta pueda usar contra los Rebeldes.",
+"quest_inspect_t": "Inspeccionar el transbordador de mando rebelde",
+"quest_location_d": "La ubicación del transbordador de mando rebelde se ha encontrado en el sistema Endor. Se te suministrará un punto de ruta de navegación.",
+"quest_location_t": "Permanece en el sistema Endor",
+"split_quest_alert": "Parece que ese barco tenía toda la información que se filtró a la Alianza. Ya no necesitamos que el transbordador de mando rebelde esté intacto. Mantente atento a las coordenadas de ese barco.",
+"title": "Sistema Endor: Inspeccionar el transbordador de mando rebelde",
+"title_d": "Durante el ataque, el mando detectó una señal enviada desde los cazas a un transbordador de mando rebelde. Intercepta e inspecciona ese buque dentro del sistema Endor."
+}

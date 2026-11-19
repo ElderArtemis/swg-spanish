@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "El sistema Endor es de alto riesgo, no hay duda de eso. Esta misión te llevará peligrosamente cerca de las zonas más dominadas por el Imperio, así que ten mucho cuidado, piloto.",
+"quest_location_t": "Sistema Endor.",
+"quest_patrol_d": "Actualizaremos tu ordenador de navegación con nuevos puntos de ruta de áreas sospechosas donde el Imperio pueda haber desplegado algunos de estos nuevos buques.",
+"quest_patrol_t": "Ruta de escaneo.",
+"split_quest_alert": "Comando Rebelde: < ¡Has sido detectado! Los cazas TIE se están moviendo en tu dirección. ¡Elimínalos rápido! >",
+"title": "Sistema Endor: Escanea una región del sistema Endor.",
+"title_d": "Para descubrir qué está haciendo el Imperio con tanta fuerza aquí, necesitamos más datos de escaneo. Hemos oído rumores de que están probando un nuevo tipo de nave y esperamos que puedas encontrar pruebas de ello."
+}

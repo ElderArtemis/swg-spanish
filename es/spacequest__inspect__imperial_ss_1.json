@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_dock_d": "Una vez que hayas conseguido las Órdenes de rehenes tendrás que atracar con el barco para transferir los datos. Usa el comando /dock para iniciar el procedimiento de atracación. Espera a que el procedimiento termine y recibas el mensaje del sistema de éxito antes de abandonar. Ten mucho cuidado en este punto porque serás vulnerable a ataques mientras estás atracado con otro buque.",
+"quest_dock_t": "Atraca con el Teniente Nym y transfiere las Órdenes de rehenes",
+"quest_inspect_d": "Inspecciona el buque de un Teniente Nym en busca de las Órdenes de rehenes. Para inspeccionar un barco primero debes desactivar sus motores apuntando a sus subsistemas. Usa la tecla '[' o ']' para apuntar a sus motores. Ataca el buque hasta que sus motores estén al 0%. Luego acércate y usa /inspect o pulsa la tecla 'I' para comenzar a inspeccionar al Teniente Nym. Asegúrate de haber desactivado el Teniente Nym apuntado cuando intentes esto.",
+"quest_inspect_t": "Inspecciona al Teniente Nym",
+"quest_location_d": "Viaja al sistema Lok y inspecciona a un Teniente Nym. Tendrás que buscar en el sistema a tu objetivo, pero un buen punto de partida es cerca de la estación espacial de Lok.",
+"quest_location_t": "Viaja al Sistema Lok",
+"title": "Sistema Lok: Inspecciona a los Tenientes Nym",
+"title_d": "Viaja al sistema Lok y inspecciona a un Teniente Nym. Cuando entres al sistema tendrás que buscar a un Teniente Nym. Un buen punto de partida es cerca de la estación espacial de Lok. Una vez que hayas encontrado a un Teniente Nym tendrás que desactivar su buque. Para desactivar un buque usa '[' o ']' para apuntar a los subsistemas del barco y apunta a sus motores. Ataca al Teniente Nym hasta que sus motores estén al 0%. Ahora acércate y pulsa la tecla 'I' o escribe /inspect con el Teniente Nym apuntado. Después de haber encontrado las órdenes de rehenes, escribe /dock para transferir las órdenes a tu barco. Ten cuidado porque serás muy vulnerable mientras atracas con otro buque."
+}

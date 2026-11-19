@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"quest_dock_d": "Atrápate al barco y transfiere algo de brandy a tu nave. Cuando hayas terminado vuelve a la estación de Dantooine.",
+"quest_dock_t": "Atrápate a la Señorita del Señor",
+"quest_inspect_d": "Inspecciona la nave y asegúrate de que todavía lleva la carga de brandy corelliano.",
+"quest_inspect_t": "Inspecciona la Señorita del Señor",
+"quest_location_d": "La Señorita del Señor está situada en el sistema de Tatooine.",
+"quest_location_t": "Viaja al sistema de Tatooine",
+"split_quest_alert": "Regresa al sistema de Dantooine con el brandy.",
+"title": "Sistema de Tatooine: Inspecciona la Señorita del Señor",
+"title_d": "El propietario de la estación de Dantooine también quiere algo de brandy corelliano para su uso privado. Descubrió que la Señorita del Señor lleva un brandy muy fino y quiere que le consigas algo."
+}

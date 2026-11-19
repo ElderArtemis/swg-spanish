@@ -1,0 +1,17 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Texto",
+"quest_dock_d": "Si tienen información vital, usa el comando /dock para recuperarla",
+"quest_dock_t": "Anclaje",
+"quest_inspect_d": "Desactiva esta nave disparando a sus motores, luego /inspect para buscar su carga",
+"quest_inspect_t": "Tirano de los Saqueadores Malvado",
+"quest_location_d": "Ubicación del Sistema Endor con una vista confirmada del Tirano",
+"quest_location_t": "Sistema Endor",
+"split_quest_alert": "\\#pcontrast3 Comando CorSec: < \\#pcontrast1 ¡Excelente! Ahora… entrega la información a uno de nuestros Lanceros. Se te darán más instrucciones en cuanto las sepamos. \\#pcontrast3 >",
+"title": "Espacio Endor: Recupera Información del Tirano Saqueador",
+"title_d": "Recupera información del Tirano Saqueador Malvado"
+}

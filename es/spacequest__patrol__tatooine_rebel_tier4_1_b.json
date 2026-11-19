@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "No podría haber un lugar peor para estar huyendo. Mantén un ojo atento a tus sensores. Si ves alguna señal hostil, intenta rodearla. Muévete rápido, ¡el Imperio te está persiguiendo!",
+"quest_location_t": "Sistema Dathomir.",
+"quest_patrol_d": "Actualizaremos tu ordenador de navegación con los puntos de ruta de la ruta de escape preplanificada. Síguelos, pero sin que te encuentres con más fuerzas hostiles. Si tienes que rodear algo, hazlo, pero hazlo rápido.",
+"quest_patrol_t": "Ruta de escape preplanificada.",
+"split_quest_alert": "General Ufwol: <¡Interceptores imperiales cerca! Defiéndete! >",
+"title": "Sistema Dathomir: Escapa del contraataque del Imperio.",
+"title_d": "No salió como esperábamos, piloto; esperemos que tu escape sí lo haga. Tenemos una ruta de escape preplanificada para ti, síguela pero muévete rápido!"
+}

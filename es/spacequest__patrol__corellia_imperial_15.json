@@ -1,0 +1,20 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"Quest Log Data": "Text",
+"quest_location_d": "Viaja al sistema Corellia y sigue los puntos de ruta de patrulla. Cuando llegues a un punto de ruta, recibirás un nuevo punto de ruta hacia la siguiente ubicación del recorrido de patrulla.",
+"quest_location_t": "Viaja al Sistema Corellian",
+"quest_patrol_d": "Cuando llegues a un punto de ruta recibirás uno nuevo hacia la siguiente ubicación. Sigue los puntos de ruta de patrulla hasta llegar al final de tu patrulla.",
+"quest_patrol_t": "Sigue el Recorrido de Patrulla",
+"split_quest_alert": "¡Alerta! Se detecta una nave rebelde en el área.",
+"splitquestbody": "Los escáneres de la nave de localización espacial han detectado un grupo de X-wing rebeldes en tu vecindad.  Tus órdenes son destruirlos por completo.",
+"splitquestfrom": "Comando Black Epsilon",
+"splitquestsubject": "Nave Rebelde Detectada",
+"title": "Sistema Corellia: Patrulla el Sistema Corellia",
+"title_d": "Black Epsilon quiere mantener su ventaja en la región. Para ello necesita realizar patrullas de la zona vigilando de cerca la actividad rebelde. Tu misión es patrullar el espacio corelliano buscando naves rebeldes."
+}

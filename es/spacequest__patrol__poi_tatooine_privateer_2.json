@@ -1,0 +1,16 @@
+{
+"assigned_delayed": "",
+"autorewardbody": "",
+"autorewardfrom": "",
+"autorewardsubject": "",
+"quest_target_d": "",
+"quest_target_t": "",
+"split_quest_alert_fail": "",
+"quest_location_d": "Vuela al Sistema Tatoo para tu misión.",
+"quest_location_t": "Sistema Tatoo",
+"quest_patrol_d": "Vuela tu nave a las áreas designadas que te envía Garett.",
+"quest_patrol_t": "Patrulla las áreas controladas por Valarian",
+"split_quest_alert": "\\#pcontrast1 Informante Hutt:\\#pcontrast3 < ¡Cuida tu espalda, piloto! ¡Valarianes vienen rápido y con fuerza! >",
+"title": "Sistema Tatoo: Patrulla las áreas controladas por Valarian",
+"title_d": "Te han asignado la tarea de patrullar las áreas controladas por Valarian alrededor de las Reclamaciones Hutt. ¡Es hora de una pequeña venganza! Te frotas las manos con malicia y sollozas... a este ritmo, probablemente parezcas tan aterrador como un Overkreetle. Quizá quieras mejorar tu nivel de terror."
+}
