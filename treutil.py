@@ -93,6 +93,17 @@ if __name__ == "__main__":
     elif cmd == "dump":
         for k, v in parse_stf(read_entry(idx[sys.argv[3]])):
             print(f"{k}\t{v!r}")
+    elif cmd == "extract":
+        out = sys.argv[3]
+        n = 0
+        for k in sorted(idx):
+            if k.startswith("string/en/") and k.endswith(".stf"):
+                dest = os.path.join(out, k)
+                os.makedirs(os.path.dirname(dest), exist_ok=True)
+                with open(dest, "wb") as f:
+                    f.write(read_entry(idx[k]))
+                n += 1
+        print(f"{n} ficheros extraidos en {out}")
     elif cmd == "find":
         pat = sys.argv[3]
         for k in sorted(idx):
