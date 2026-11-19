@@ -118,6 +118,6 @@
 "ticket_status": "Estado",
 "ticket_unread": "%DI (léela)",
 "ticket_usage": "Solo se permite una consulta abierta a la vez por cuenta. Debes borrar las que tengas para crear otras nuevas. Cuando un agente responda a tu consulta, recibirás un correo en el juego y la consulta aparecerá marcada como «(léela)» en la lista de Consultas abiertas. Las consultas se atienden por orden de llegada. Si quieres denunciar un acoso con comentarios, pulsa el botón «Denunciar acoso» del holocrón. Si solo quieres denunciarlo sin comentarios, usa el comando /report <nombre del jugador> en el chat. Las denuncias de acoso incluyen un registro de todo el chat que has recibido en los últimos minutos, que nos ayuda a resolverlas.\n\nGracias,\n\nAtención al cliente",
-"tickets_edit": "Añadir comentario a la consulta",
+"tickets_edit": "AÑADIR COMENTARIO A LA CONSULTA",
 "trade_fail_enemy": "No puedes comerciar con miembros de facciones enemigas"
 }
