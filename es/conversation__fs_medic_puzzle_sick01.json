@@ -1,0 +1,14 @@
+{
+"s_0": "",
+"do_not_edit": "La versión en inglés de este archivo (fs_medic_puzzle_sick01.stf) se genera automáticamente con el SwgConversationEditor.",
+"s_12ec68a8": "¿Qué le pasa a este paciente?",
+"s_1d567ce1": "Siempre es un placer ayudar. Avísame si necesitas algo más.",
+"s_3904c58": "Este paciente sufre actualmente de %TO. Si tienes algún tratamiento que quieras administrar, entrégamelo para que lo administre.",
+"s_67e6df55": "Vale.",
+"s_95a8553f": "Habla con Sivarra Mecheaux para consultas sobre el acceso.",
+"s_95bc25f3": "Saludos, soy el droide médico 2-1B encargado de este paciente. ¿En qué puedo ayudarte?",
+"s_a4d284b1": "No importa, estoy buscando a otro paciente.",
+"s_b9b27823": "Gracias.",
+"s_bf4eec78": "Lo siento, solo el personal médico autorizado puede acceder a mis funciones.",
+"s_fa8f35d7": "Accediendo a los registros médicos...\n\nRegistros totales encontrados con indicaciones de que has ayudado a nuestras tropas: %TO "
+}
