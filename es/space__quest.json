@@ -126,5 +126,6 @@
 "valarian_sidequest": "Lady Valarian",
 "warpout_failure": "\\#ff0000 Has tardado demasiado en completar la misión. ¡Un objetivo crítico ha abandonado el sistema! \\#pcontrast3\n",
 "wave_defeated": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Se ha destruido una oleada de enemigos. \\#pcontrast3 >",
-"wave_launched": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Una oleada de enemigos está atacando! \\#pcontrast3 >"
+"wave_launched": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Una oleada de enemigos está atacando! \\#pcontrast3 >",
+"destroy_duty_targets_dead": " \\#pcontrast3 Computadora táctica: < \\#ffff00Todos los objetivos enemigos destruidos. \\#pcontrast3 >"
 }

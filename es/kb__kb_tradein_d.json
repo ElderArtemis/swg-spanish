@@ -1,1 +1,3 @@
-{}
+{
+"tradein": "El sistema de intercambio de mascotas permite a los usuarios que no sean Domadores de criaturas con mascotas inutilizables (niveles 11‑15) cambiar su criatura inactiva por una de nivel inferior que sí pueda usar.\n\nPara intercambiar tu antigua mascota, arrástrala sobre un PNJ entrenador de Domadores de criaturas. El PNJ confiscara tu antigua mascota y te devolverá una de nivel inferior (que podrás controlar como usuario que no sea Domador de criaturas) similar a la tuya. La nueva mascota conservará cualquier comando que tu antigua mascota tuviera, así como su nombre.\n\nEl intercambio es irreversible. El sistema solo funciona para usuarios que no sean Domadores de criaturas y que tengan mascotas inutilizables entre los niveles 11‑15.\n\n"
+}

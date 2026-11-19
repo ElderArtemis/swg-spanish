@@ -47,5 +47,6 @@
 "thanks_4": "Gracias.",
 "thanks_5": "Gracias.",
 "title": "Sistema Tatooine: Misión: Acompañar al carguero",
-"title_d": "Protege a los cargueros de la agresión de Black Sun"
+"title_d": "Protege a los cargueros de la agresión de Black Sun",
+"attack_notify": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1Se detectó una nave enemiga en el vector de ataque. \\#pcontrast3 >"
 }

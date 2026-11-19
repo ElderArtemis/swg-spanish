@@ -1,5 +1,6 @@
 {
 "pronoun_objective": "it\nhim\nher",
 "pronoun_possessive": "its\nhis\nher\n",
-"pronoun_subjective": "it\nhe\nshe\n"
+"pronoun_subjective": "it\nhe\nshe\n",
+"test": "prueba\n~animnone\n~animself\n~animother\n~msg no target\n~\n~\n~\n~\n~\n~\n~\n~\n~\n~\n~\n~\n¡Disparas al torso de %TT, pero %ST aprovecha la oportunidad para contraatacar!\n~\n~\n~\n~\n~\n~\n~\n~\n¡%TU dispara a tu torso, pero tú aprovechas la oportunidad para contraatacar!\n~\n~\n~\n~\n~\n~\n~\n~\n¡%TU dispara al torso de %TT, pero %NT aprovecha la oportunidad para contraatacar!\n~\n~\n~\n~\n~\n~\n~\n~\n~"
 }

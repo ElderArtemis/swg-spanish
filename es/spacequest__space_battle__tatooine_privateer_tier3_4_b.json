@@ -23,5 +23,6 @@
 "quest_location_t": "Sistema Dathomir",
 "split_quest_alert": "\\#pcontrast3 Fuerzas Hutt: < \\#pcontrast1 La nave imperial no está aquí, el contacto no está aquí! Necesitamos que lo busques. La información de ubicación viene a continuación... \\#pcontrast3 >",
 "title": "Sistema Dathomir: Destruir al clan Rancor",
-"title_d": "Destruir al clan Rancor y vigila el transbordador Lambda con un ingeniero de Sienar Systems a bordo"
+"title_d": "Destruir al clan Rancor y vigila el transbordador Lambda con un ingeniero de Sienar Systems a bordo",
+"quest_update": "\\#pcontrast3Alianza de Contrabandistas: <%TO>\\#pcontrast3"
 }

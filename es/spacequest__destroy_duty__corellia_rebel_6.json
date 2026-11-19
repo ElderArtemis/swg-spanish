@@ -29,5 +29,6 @@
 "taunt_4": "¡Deberías haber huido mientras tenías la oportunidad, escoria!",
 "taunt_5": "¡Pues si no es un rebelde! ¿Estás perdido, pequeño amigo?",
 "title": "Sistema Corellia: misión de deber: desmantelar emboscadas TIE",
-"title_d": "Desmantela las emboscadas TIE en el sistema Corellia. Estas misiones están diseñadas para darte la experiencia necesaria en combate espacial; puedes detenerte cuando sientas que has aprendido lo suficiente."
+"title_d": "Desmantela las emboscadas TIE en el sistema Corellia. Estas misiones están diseñadas para darte la experiencia necesaria en combate espacial; puedes detenerte cuando sientas que has aprendido lo suficiente.",
+"level_boss": " \\#pcontrast3 Cuartel general de la Alianza: < \\#ff0000 Los Imperiales están enviando a un %TO altamente entrenado tras ti. Espera coordenadas... \\#pcontrast3 >"
 }

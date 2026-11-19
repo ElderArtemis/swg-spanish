@@ -13,5 +13,6 @@
 "quest_patrol_t": "Punto de ruta de patrulla",
 "quest_update": "Comando CorSec: < %TO >",
 "title": "Sistema Corellia: Patrulla el sector espacial Corellia IV-3121",
-"title_d": "Patrulla por actividad ilegal. Cuando termines esta misión, vuelve al sargento Rhea en Coronet para tu siguiente asignación."
+"title_d": "Patrulla por actividad ilegal. Cuando termines esta misión, vuelve al sargento Rhea en Coronet para tu siguiente asignación.",
+"split_quest_alert": "\\#pcontrast3CorSec Command: <\\#pcontrast1Hemos recibido una llamada de socorro de un carguero, lo están persiguiendo piratas. ¡Ayúdale inmediatamente!\\#pcontrast3>"
 }

@@ -5,7 +5,7 @@ from treutil import parse_stf
 BASE = os.path.dirname(os.path.abspath(__file__))
 ORIG = os.path.join(BASE, "orig", "string", "en")
 ES = os.path.join(BASE, "es")
-TOK = re.compile(r"%[A-Z]{2}|\\#[0-9a-zA-Z]*|\\>[0-9]+|\\@[0-9]+|@[a-z_/0-9]+:[a-z_0-9]+")
+TOK = re.compile(r"%[A-Z]{2}|\\#(?:p?cons?trast\d|[0-9a-fA-F]{6})?|\\>[0-9]+|\\@[0-9]+|@[a-z_/0-9]+:[a-z_0-9]+")
 
 SISTEMA = """Eres un traductor profesional de videojuegos. Traduces al español de España los textos del MMORPG Star Wars Galaxies (2003).
 Reglas obligatorias:

@@ -46,5 +46,7 @@
 "thanks_4": "*estática*",
 "thanks_5": "*estática*",
 "title": "Sistema Dantooine: Captura el carguero civil",
-"title_d": "El insurgente ha descubierto de alguna manera la ubicación de una nave abandonada que deriva en el borde exterior del sistema. Quiere que la intercepte y la traigas de vuelta para que pueda ser examinada. Cree que podría tener alguna relevancia con su investigación."
+"title_d": "El insurgente ha descubierto de alguna manera la ubicación de una nave abandonada que deriva en el borde exterior del sistema. Quiere que la intercepte y la traigas de vuelta para que pueda ser examinada. Cree que podría tener alguna relevancia con su investigación.",
+"escort_remaining": "\\#pcontrast1Tactical Computer:\\#pcontrast3 <%DI escoltas restantes.",
+"escort_wiped_out": "\\#pcontrast1Tactical Computer:\\#pcontrast3 <Escorts eliminados.>"
 }

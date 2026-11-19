@@ -29,5 +29,6 @@
 "hello_d": "Saludos, contrabandista. Se nos aseguró que tendrías un paquete para nosotros. ¿Es cierto?",
 "hello_p": "¡Qué bueno verte, piloto! Tengo tu entrega lista para transferir.",
 "split_quest_alert": "A continuación, debes llevar un regalo especial al asesor legal de Seinar Systems…",
-"title": "Entrega los regalos de Jabba a los VIP imperiales"
+"title": "Entrega los regalos de Jabba a los VIP imperiales",
+"quest_update": "\\#pcontrast3Alianza de Contrabandistas: <%TO> \\#pcontrast3"
 }
