@@ -92,7 +92,7 @@
 "struct_maint_module_2": "Este módulo se utiliza para otorgar al droide la capacidad de realizar tareas de mantenimiento en estructuras.",
 "struct_maint_module_3": "Este módulo se utiliza para otorgar al droide la capacidad de realizar tareas de mantenimiento en estructuras.",
 "surgical_droid_chassis": "Este es un componente de chasis de droide especializado utilizado durante la construcción de una versión avanzada de un droide en particular.",
-"trap_module": "La Unidad de Proyectiles de Trampa de Scout descompone una trampa de nivel Scout o Ranger en un proyectil capaz de ser disparado desde una unidad de compresión pequeña. Se pierde algo de efectividad en la conversión.",
+"trap_module": "La Unidad de Proyectiles de Trampa de Explorador descompone una trampa de nivel Explorador o Ranger en un proyectil capaz de ser disparado desde una unidad de compresión pequeña. Se pierde algo de efectividad en la conversión.",
 "unit_delivery_cartridge": "Un cartucho metálico pequeño usado para contener los materiales necesarios para desplegar reparación de droides de emergencia mientras estás en el campo.",
 "unit_delivery_cartridge_advanced": "Un cartucho metálico grande, pero ligero, usado para contener los materiales necesarios para desplegar reparación de droides de emergencia mientras estás en el campo."
 }
