@@ -1,6 +1,6 @@
 {
 "Quest Log Data": "Text",
-"boss_detected": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Embarcación con insignias veteranas en vector de ataque, sistemas de armas armados. \\#pcontrast3 >",
+"boss_detected": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Embarcación con insignias veteranas en vector de ataque, sistemas de armas armados. \\#pcontrast3 >",
 "boss_title_1": "Russ Grimblade (Capitán de Dagas Ocultas)",
 "boss_title_2": "Xopw Laow (Capitán de Dagas Ocultas)",
 "boss_title_3": "Mori the Bastard (Capitán de Dagas Ocultas)",
@@ -21,8 +21,8 @@
 "quest_destroy_t": "Destruir objetivo",
 "quest_location_d": "Salidas dinámicas en todo el Sistema Corellia",
 "quest_location_t": "Sistema Corellia",
-"targets_behind": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Ten en cuenta, embarcaciones intentando apuntar a esta nave con sus sistemas de armas. Origen del ataque 180 grados.\\#pcontrast3 >",
-"targets_detected": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Embarcaciones con perfil de nave cazada en vector de ataque, sistemas de armas armados. \\#pcontrast3 >",
+"targets_behind": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Ten en cuenta, embarcaciones intentando apuntar a esta nave con sus sistemas de armas. Origen del ataque 180 grados.\\#pcontrast3 >",
+"targets_detected": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Embarcaciones con perfil de nave cazada en vector de ataque, sistemas de armas armados. \\#pcontrast3 >",
 "taunt_1": "¿Crees que puedes igualar a las Dagas Ocultas? ¡Yo no!",
 "taunt_2": "¡Voy a destrozar tu nave, tonto de CorSec!",
 "taunt_3": "¡Los CorSec siempre tienen que interferir, y esta vez te metiste la nariz demasiado profundo!",

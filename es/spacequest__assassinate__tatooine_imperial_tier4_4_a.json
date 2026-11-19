@@ -9,7 +9,7 @@
 "arrival_phase_2": "Enviando la ubicación a tu ordenador de navegación. Mantente alerta, están al tanto de tu presencia.",
 "assassinate_success": "Excelente. Sólo falta un transporte.",
 "destroy_escort": "Algunos de los escuadrones de escolta del transporte siguen activos. Envía un mensaje y destrúyelos también.",
-"escort_remaining": "\\#pcontrast1 Computadora táctica:\\#pcontrast3 <%DI escoltas restantes.>",
+"escort_remaining": "\\#pcontrast1 Ordenador táctico:\\#pcontrast3 <%DI escoltas restantes.>",
 "failed_escape": "Perdimos el transporte. Ahora no hay nada que impida que lo entreguen a la Rebelión. Reporta tu fracaso a tu superior inmediatamente.",
 "quest_escort_d": "Todos los pilotos Bothan que están con el transporte también deben ser destruidos.",
 "quest_escort_t": "Destruir la escolta",

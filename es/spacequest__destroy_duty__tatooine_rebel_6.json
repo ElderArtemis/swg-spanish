@@ -1,6 +1,6 @@
 {
 "boss_detected": " \\#pcontrast3 Alliance HQ:  \\#pcontrast1 ¡Advertencia! Comandante enemigo detectado en vector de ataque! \\#pcontrast3 >",
-"boss_title_0": "TIE Combat Trainer",
+"boss_title_0": "Entrenador de combate TIE",
 "boss_title_1": "Entrenador de Combate TIE",
 "boss_title_2": "As de combate TIE",
 "boss_title_3": "¡Jefe de escuadra TIE Obsidian!",
@@ -21,8 +21,8 @@
 "quest_destroy_t": "Punto de reunión de emboscada potencial",
 "quest_location_d": "Patrulla el sistema de Tatooine en busca de posibles emboscadas TIE. ¡El Imperio ganará fuerza en el sistema de Tatooine si fallamos!",
 "quest_location_t": "Sistema de Tatooine.",
-"targets_behind": " \\#pcontrast3 Computadora táctica:  < \\#pcontrast1 ¡Objetivos enemigos vienen desde atrás! \\#pcontrast3 >",
-"targets_detected": " \\#pcontrast3 Computadora táctica:  < \\#pcontrast1 ¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
+"targets_behind": " \\#pcontrast3 Ordenador táctico:  < \\#pcontrast1 ¡Objetivos enemigos vienen desde atrás! \\#pcontrast3 >",
+"targets_detected": " \\#pcontrast3 Ordenador táctico:  < \\#pcontrast1 ¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
 "taunt_1": "¿Qué tenemos aquí?",
 "taunt_2": "¡Elimina a esos tontos rebeldes!",
 "taunt_3": "¡Esta es la última vez que te interpondrás en el camino del Imperio!",

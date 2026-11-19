@@ -18,8 +18,8 @@
 "quest_location_d": "Si eres enemigo del Imperio, el sistema Yavin debe considerarse muy peligroso ya que están extendidos por todo el sistema. También hay varios contrabandistas, cazarrecompensas y piratas intentando aprovecharse de las piezas del gran campo de escombros del sistema y no temen cazar objetivos de oportunidad.",
 "quest_location_t": "Sistema Yavin.",
 "quest_update": "Valarian Smuggler: < %TO >",
-"split_quest_alert": "Computadora Táctica: < Los escáneres muestran la firma de nave del buque Scythe IV. Propietario registrado: Chiss masculino conocido como Hortrix Steelarm. >",
-"split_quest_alert_fail": "Computadora Táctica: < Los escáneres muestran la firma de nave del buque Scythe IV. Propietario registrado: Chiss masculino conocido como Hortrix Steelarm. >",
+"split_quest_alert": "Ordenador táctico: < Los escáneres muestran la firma de nave del buque Scythe IV. Propietario registrado: Chiss masculino conocido como Hortrix Steelarm. >",
+"split_quest_alert_fail": "Ordenador táctico: < Los escáneres muestran la firma de nave del buque Scythe IV. Propietario registrado: Chiss masculino conocido como Hortrix Steelarm. >",
 "title": "Sistema Yavin: Salva a los contrabandistas Valarian.",
 "title_d": "Hortrix Steelarm ha planeado una emboscada contra algunos contrabandistas Valarian en el sistema Yavin y tu empleador cree que lo sabe aquí. Justo cuando está a punto de darte las coordenadas recibes una llamada de socorro de uno de los contrabandistas, ¡la emboscada ya está en marcha!"
 }

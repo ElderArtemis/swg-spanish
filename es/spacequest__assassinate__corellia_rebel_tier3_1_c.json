@@ -18,7 +18,7 @@
 "quest_location_t": "Sistema Yavin.",
 "quest_target_d": "El Imperio suele usar un Interceptor TIE modificado para la prospección. El Interceptor TIE es un cazas muy rápido, por lo que será difícil alcanzarlo, pero contamos contigo.",
 "quest_target_t": "Destruir el barco de exploración imperial.",
-"quest_update": "Rebel Command: < %TO >",
+"quest_update": "Comando Rebelde: < %TO >",
 "split_quest_alert": "Rebel Command: < Tenemos una ala de cazas que está siendo interceptada por naves TIE, ¡ayúdanos! >",
 "title": "Sistema Yavin: Destruir la patrulla de exploradores imperial.",
 "title_d": "Una patrulla de exploradores imperial te ha detectado destruyendo a sus aliados y están intentando escapar para reportar el incidente. No pueden ser dejados escapar!"

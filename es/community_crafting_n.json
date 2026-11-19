@@ -11,7 +11,7 @@
 "lightweight_turret_electronics": "Electrónica de torreta",
 "lightweight_turret_hardware": "Hardware de torreta",
 "power_supply": "Fuente de alimentación",
-"primary_computer": "Computadora principal",
+"primary_computer": "Ordenador principal",
 "raw_materials": "Materias primas",
 "refactor": "Componente refactorizado",
 "refined_ardanium_ii": "Ardanium II refinado",
@@ -24,7 +24,7 @@
 "shell": "Carcasa de unidad de escudo",
 "shield_housing": "Carcasa de escudo",
 "support": "Soporte",
-"unit_computer": "Computadora de unidad",
+"unit_computer": "Ordenador de unidad",
 "village_defenses": "Defensas del pueblo",
 "village_shields": "Escudos del pueblo"
 }

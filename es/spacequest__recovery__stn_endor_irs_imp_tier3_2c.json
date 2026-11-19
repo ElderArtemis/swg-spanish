@@ -39,7 +39,7 @@
 "recovery_success": "\\#pcontrast3 Endor Station: < \\#pcontrast1 Ahora tengo control de la nave, Capitán. El Almirante agradece y se me ha autorizado presentar un bono mercenario por esta operación. \\#pcontrast3 >",
 "split_quest_alert": "\\#pcontrast3 Estación Endor: < \\#pcontrast1 Las firmas de salto indican que están saliendo cerca del Velo de Isryn en el Sistema Dantooine.  Procede con la mayor rapidez y aún podrías alcanzarlos. Y puedo pasar por alto este fallo actual. \\#pcontrast3 >",
 "split_quest_alert_fail": "\\#pcontrast3 Estación Endor: < \\#pcontrast1 Las firmas de salto indican que están saliendo cerca del Velo de Isryn en el Sistema Dantooine.  Procede con la mayor rapidez y aún podrías alcanzarlos. Y puedo pasar por alto este fallo actual. \\#pcontrast3 >",
-"target_disabled": "\\#pcontrast3 Computadora Táctica: < \\#pcontrast1 El objetivo está desactivado, acércate para iniciar el protocolo de captura. \\#pcontrast3 >",
+"target_disabled": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 El objetivo está desactivado, acércate para iniciar el protocolo de captura. \\#pcontrast3 >",
 "taunt_1": "No podemos dejar que te lleven vivo.",
 "taunt_2": "Subestimas la convicción de nuestros combatientes rebeldes.",
 "taunt_3": "Te estamos buscando.",

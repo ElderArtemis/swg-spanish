@@ -7,7 +7,7 @@
 "split_quest_alert": "",
 "split_quest_alert_fail": "",
 "arrived_at_loc": "\\#pcontrast3 Beissa: < \\#pcontrast1 ¡Bien! Has entrado en la zona sagrada de enterramiento del clan Witchblood... seguro que te atacan pronto. No me gustaría estar en tu lugar ahora mismo. \\#pcontrast3 >",
-"attack_notify": "\\#pcontrast3 Computadora táctica: < \\#pcontrast3 Se detectaron firmas de hiperspacio en proximidad. \\#pcontrast3 >",
+"attack_notify": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast3 Se detectaron firmas de hiperspacio en proximidad. \\#pcontrast3 >",
 "attack_stopped": "\\#pcontrast3 Beissa: < \\#pcontrast1 Mantén la concentración y sobrevive. Necesitamos que se centren en ti y no en nosotros. \\#pcontrast3 >",
 "first_attack": "\\#pcontrast3 Beissa: < \\#pcontrast3 ¡Muy bien! ¡Aquí vienen! Manténlos ocupados mientras nos infiltramos en su base... \\#pcontrast3 >",
 "found_loc": "\\#pcontrast3 Beissa: < \\#pcontrast1 Vuela a ese lugar y mantén al clan Witchblood ocupado. Nos infiltraremos en su base oculta y colocaremos detonadores! \\#pcontrast3 >",

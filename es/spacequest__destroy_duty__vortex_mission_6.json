@@ -1,5 +1,5 @@
 {
-"boss_detected": "Computadora táctica: < Vessel con insignias de veterano en vector de ataque, sistemas de armas armados. >",
+"boss_detected": "Ordenador táctico: < Vessel con insignias de veterano en vector de ataque, sistemas de armas armados. >",
 "boss_title_1": "Piloto experimentado de Interceptor TIE",
 "boss_title_2": "Piloto temerario de Interceptor TIE",
 "boss_title_3": "Piloto de élite de Interceptor TIE",
@@ -20,8 +20,8 @@
 "quest_destroy_t": "Coordenadas de la patrulla imperial.",
 "quest_location_d": "Viaja al sistema Dantooine para ayudar a la Alianza Rebelde en su guerra contra el Imperio.",
 "quest_location_t": "Sistema Dantooine.",
-"targets_behind": "Computadora táctica: < Ten en cuenta, los buques intentan apuntar a esta nave con sus sistemas de armas. Dirección de origen del ataque 180 grados. >",
-"targets_detected": "Computadora táctica: < Buques que encajan en el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
+"targets_behind": "Ordenador táctico: < Ten en cuenta, los buques intentan apuntar a esta nave con sus sistemas de armas. Dirección de origen del ataque 180 grados. >",
+"targets_detected": "Ordenador táctico: < Buques que encajan en el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
 "taunt_1": "¡El poder del Imperio es imparable!",
 "taunt_2": "¡Rebelde tonto! Te cazaremos a todos, como las ratas que eres!",
 "taunt_3": "¿Por qué haces esto, rebelde? El Imperio es lo mejor para la galaxia.",

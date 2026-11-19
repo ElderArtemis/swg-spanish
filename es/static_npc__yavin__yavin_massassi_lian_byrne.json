@@ -71,7 +71,7 @@
 "npc_1_1": "Simplemente no me gusta el clima aquí. Planeo salir de este mundo tan pronto como termine la operación de salvamento y aprenda lo que pueda de esa base rebelde abandonada. Hablando de eso, necesito a alguien que recoja un informe del equipo de forenses. ¿Estarías dispuesto a ir a buscarlo?",
 "npc_1_2": "No confío mucho en esa Selonian que dirige la operación de salvamento. Creo que quiere huir y vender el equipo en el mercado negro. Tengo un operativo plantado en su tripulación que me mantiene al tanto de lo que sucede en el Campamento de Salvamento. Necesito a alguien que traiga a mi espía con seguridad y estoy un poco corto de mano. ¿Te importaría cubrirlo?",
 "npc_1_3": "Me alegra que hayas vuelto. Descubrimos que había un espía rebelde que no logró salir del planeta cuando evacuaron. Hemos reducido el área donde podría estar. Con tu ayuda deberíamos poder cerrar esto rápido. ¿Qué dices?",
-"npc_1_4": "Tienes un don para aparecer en el momento justo. Esos Rebeldes dejaron más que un espía y unos pocos desafortunados que perdieron el último transbordador. Parece haber un par de comandantes altamente entrenados que están causando estragos con sus tácticas de guerrilla. ¿Crees que puedes rastrearlos y ponerle fin?",
+"npc_1_4": "Tienes un don para aparecer en el momento justo. Esos Rebeldes dejaron más que un espía y unos pocos desafortunados que perdieron el último transbordador. Parece haber un par de comandos altamente entrenados que están causando estragos con sus tácticas de guerrilla. ¿Crees que puedes rastrearlos y ponerle fin?",
 "npc_2_1": "Todo lo que tienes que hacer es recoger el informe del mensajero imperial y traerlo de vuelta aquí. Probablemente todavía haya algunos Rebeldes que no lograron salir del planeta. Así que ten cuidado.",
 "npc_2_2": "Bien. Ve a encontrar a mi operativo y vuelve sin que ninguno de los dos muera. Hay muchos saqueadores merodeando entre los escombros, así que no es tan fácil como parece.",
 "npc_2_3": "Lo que realmente queremos es la información que este espía pudo haber estado recopilando. Capturar al espía sería perfecto, pero si el traidor muere y tenemos los datos que habría entregado a los Rebeldes, lo llamaré una victoria.",
@@ -149,5 +149,5 @@
 "waypoint_name_1": "Ubicación del científico forense",
 "waypoint_name_2": "Ubicación del operativo encubierto",
 "waypoint_name_3": "Ubicación del espía rebelde",
-"waypoint_name_4": "Ubicación del comandante rebelde"
+"waypoint_name_4": "Ubicación del comando rebelde"
 }

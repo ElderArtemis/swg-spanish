@@ -6,8 +6,8 @@
 "split_quest_alert_fail": "",
 "Quest Log Data": "Texto",
 "arrived_at_loc": "Has llegado a las coordenadas de interceptación. Espero que seas tan bueno como creo, esto se va a poner duro.",
-"attack_notify": "Computadora táctica: < Vectores de combate entrantes. Escaneos muestran armas armadas. >",
-"attack_stopped": "Computadora táctica: < No hay más vectores de combate dentro del rango de sensores. >",
+"attack_notify": "Ordenador táctico: < Vectores de combate entrantes. Escaneos muestran armas armadas. >",
+"attack_stopped": "Ordenador táctico: < No hay más vectores de combate dentro del rango de sensores. >",
 "first_attack": "¡Aquí vienen! Que la Fuerza te acompañe piloto, la necesitarás…",
 "found_loc": "Coordenadas de interceptación subidas a tu ordenador de navegación. Apresúrate piloto, nuestros cazas están ocupados guardando sus rutas asignadas!",
 "mission_complete": "Increíble, no pensé que lo lograrías. Sal de allí, estamos seguros en esta nebulosa por ahora.",
@@ -23,7 +23,7 @@
 "split_quest_alert": "Comando de la Flota Rebelde: < Un carguero que se ha quedado atrás de nuestra flota llega a nuestra antigua ubicación. Necesitas llegar allí y escoltarlo sin ser detectado. >",
 "title": "Sistema Endor: Evita que los cazas imperiales lleguen a la flota en el sistema Endor.",
 "title_d": "Nuestra flota en el sistema Endor ha sido detectada y el Imperio envía cazas y bombarderos hacia nosotros! Estamos intentando resistirlos pero estamos muy dispersos. Se te asigna un sector para proteger de cualquier barco imperial que pase mientras nuestra flota se mueve a un nuevo escondite. ¡Apresúrate!",
-"trans_update": "Computadora táctica: < %DI percent del flota ha escapado a la nebulosa. >",
+"trans_update": "Ordenador táctico: < %DI percent del flota ha escapado a la nebulosa. >",
 "transmission_received": "Comando de la Flota Rebelde: < Casi toda la flota está en la nebulosa, aguanta unos segundos más piloto! >",
 "transmission_start": "Comando de la Flota Rebelde: < Nos estamos moviendo a una nebulosa cercana para ocultarnos. ¡Necesitamos diez minutos! >"
 }

@@ -22,7 +22,7 @@
 "quest_location_d": "¡La sede de la Alianza te proporcionará puntos de ruta para posibles emboscadas de cazas TIE! Vuela a cada punto de ruta y elimina a todos los cazas hostiles que entren en el área. Cuando hayas despejado un sector, la sede de la Alianza subirá un nuevo punto de ruta. ¡Sigue repeliendo al enemigo!",
 "quest_location_t": "Sistema Naboo.",
 "targets_behind": " \\#pcontrast3 Tactical Computer:  < \\#pcontrast1 ¡Objetivos enemigos vienen desde atrás! \\#pcontrast3 >",
-"targets_detected": " \\#pcontrast3 Computadora táctica:  < \\#pcontrast1 ¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
+"targets_detected": " \\#pcontrast3 Ordenador táctico:  < \\#pcontrast1 ¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
 "taunt_1": "¡Te diriges a las prisiones imperiales, escoria rebelde!",
 "taunt_2": "¡El poder del Imperio es imparable!",
 "taunt_3": "¡Fue un error venir aquí, tonto rebelde!",

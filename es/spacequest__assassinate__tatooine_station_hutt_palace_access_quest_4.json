@@ -9,7 +9,7 @@
 "arrival_phase_2": "Está intentando escapar, pero lo hemos bloqueado. Tu ordenador de navegación debería tener un punto de ruta ahora. ¡Ve a atraparlo!",
 "assassinate_success": "No está mal, en absoluto. En unos segundos recibirás un e‑mail confirmando la transferencia de fondos a tu cuenta bancaria. Placer hacer negocios contigo, piloto.",
 "autorewardbody": "Estado de cuenta. Confirmación de transferencia de fondos. Nairalav Shipping Co. transfirió la suma de 10.000 créditos a tu cuenta bancaria. Atentamente, Ovpi Urgon, Gerente de banco, Mos Espa Valid.",
-"autorewardfrom": "Mos Espa Valid",
+"autorewardfrom": "Mos Espa Válido",
 "autorewardsubject": "Transferencia de fondos a tu cuenta.",
 "escort_remaining": "Valarian Assassin Coordinator: < Bien, pero no dejes que Hortrix se escape! >",
 "escort_wiped_out": "Valarian Assassin Coordinator: < Bien, ahora reclama tu recompensa, elimina a Hortrix! >",
@@ -18,7 +18,7 @@
 "quest_location_t": "Sistema Yavin.",
 "quest_target_d": "Hortrix Steelarm no es un piloto de combate, pero es experto evitando enemigos y tiene varios trucos bajo la manga, ¡así que mantente alerta!",
 "quest_target_t": "Hortrix Steelarm.",
-"quest_update": "Valarian Assassin Coordinator: < %TO >",
+"quest_update": "Coordinador de Asesinos Valarianos: < %TO >",
 "title": "Sistema Yavin: Es hora de cobrar.",
 "title_d": "Tus sensores han detectado a Hortrix y está intentando escapar. Persíguele y elimínalo, pero ten cuidado, es un piloto hábil y astuto."
 }

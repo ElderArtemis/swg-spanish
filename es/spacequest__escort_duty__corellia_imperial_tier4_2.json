@@ -6,7 +6,7 @@
 "abort": "No estamos armados. No puedes dejarnos la misericordia de estos piratas.",
 "arrived_at_loc": "Espera aquí la llegada del buque de carga. Cuando llegue, acompáñalo hasta que atraviese el sector con seguridad.",
 "attack_notify": "\\#pcontrast1 Tactical Computer:\\#pcontrast3 <¡Alerta! Se acercan cazas enemigos.>",
-"attack_stopped": "\\#pcontrast1 Computadora táctica:\\#pcontrast3 <Enemy fighter wave destroyed.>",
+"attack_stopped": "\\#pcontrast1 Ordenador táctico:\\#pcontrast3 <Enemy fighter wave destroyed.>",
 "complete": "Has completado la misión de escolta. Vuelve a tu comandante para aceptar otra misión o entrenar. O quédate en el sector para escoltar otra nave.",
 "duty_update": "\\#pcontrast1 Comando Black Epsilon:\\#pcontrast3 <%TO>",
 "failed_destroy": "Has fallado en proteger los intereses imperiales en esta región. Informa de este fracaso a tu comandante.",

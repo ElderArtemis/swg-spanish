@@ -1,7 +1,7 @@
 {
 "angry_disable": "",
 "Quest Log Data": "Texto",
-"abort": "Roger, abort code received. Heading home...",
+"abort": "Roger, código de aborto recibido. Volviendo a casa...",
 "arrival_phase_1": "Escaneando el sistema en busca de cargueros del Culto de los Escombros.",
 "arrival_phase_2": "Carguero del Culto de los Escombros localizado. ¡Desactiva al recolector y captura la nave!",
 "attack_notify": "\\#pcontrast1 Tactical Computer:\\#pcontrast3 <¡Alerta! Los combatientes del Culto de los Escombros se acercan. Prepárate para defender la nave capturada.>",

@@ -1,6 +1,6 @@
 {
 "Quest Log Data": "Texto",
-"boss_detected": "Computadora táctica: < Vessel con insignias veteranas en vector de ataque, sistemas de armas armados. >",
+"boss_detected": "Ordenador táctico: < Vessel con insignias veteranas en vector de ataque, sistemas de armas armados. >",
 "boss_title_1": "Piloto Rebelde experimentado",
 "boss_title_2": "Piloto Rebelde veterano",
 "boss_title_3": "Piloto Rebelde veterano sombrío",
@@ -21,8 +21,8 @@
 "quest_destroy_t": "Viaja al punto de ruta de navegación y destruye los B-wings",
 "quest_location_d": "Viaja al sistema Corellia y avanza hacia tu primer punto de ruta de navegación para comenzar la misión de destrucción. Cuando destruyas todas las olas de ataque en ese punto de ruta recibirás un nuevo punto de ruta de navegación.",
 "quest_location_t": "Viaja al Sistema Corellian",
-"targets_behind": "Computadora táctica: < Ten en cuenta, los buques intentan apuntar a esta nave con sus sistemas de armas. Dirección de origen del ataque 180 grados. >",
-"targets_detected": "Computadora táctica: < Buques que encajan con el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
+"targets_behind": "Ordenador táctico: < Ten en cuenta, los buques intentan apuntar a esta nave con sus sistemas de armas. Dirección de origen del ataque 180 grados. >",
+"targets_detected": "Ordenador táctico: < Buques que encajan con el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
 "taunt_1": "¡Tú eres mío, perro imperial!",
 "taunt_2": "¡Eres la suciedad que derribó a mi hermano, lo vengaré!",
 "taunt_3": "Esta nueva tecnología es mucho superior a tu frágil nave. Prepárate a morir, suciedad imperial!",

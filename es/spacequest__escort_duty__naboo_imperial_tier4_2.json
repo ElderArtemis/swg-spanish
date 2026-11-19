@@ -6,7 +6,7 @@
 "abort": "\\#FF0000 Pilot, tus órdenes eran claras. Tenías que escoltarnos hasta el lugar de descenso.",
 "arrived_at_loc": "¡Mantén tu posición actual hasta la llegada del transporte de la prisión!",
 "attack_notify": "\\#pcontrast1 Tactical Computer:\\#pcontrast3 <¡Alerta! Se detectan naves enemigas. Se acercan a alta velocidad.>",
-"attack_stopped": "\\#pcontrast1 Computadora táctica:\\#pcontrast3 <Enemy ships eliminated.>",
+"attack_stopped": "\\#pcontrast1 Ordenador táctico:\\#pcontrast3 <Enemy ships eliminated.>",
 "complete": "¡La nave de prisión ha entregado con éxito a los prisioneros! Prepárate para ayudar a escoltar otra nave o vuelve a tu superior para hacer el reporte.",
 "duty_update": "\\#pcontrast1 Alto Comando Imperial:\\#pcontrast3 <%TO>",
 "failed_destroy": "Sé que eran solo prisioneros, pero tus órdenes eran mantener ese barco seguro. Informa de tu fracaso a tu superior.",

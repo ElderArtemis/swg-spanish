@@ -7,7 +7,7 @@
 "Quest Log Data": "Texto",
 "complete": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 ¡Bien hecho! Regresa a tu superior para tu próxima asignación viajando a la Estación Espacial Corelliana y usando /comm. \\#pcontrast3 >",
 "found_loc": "Cargaste nuevas coordenadas en tu ordenador de navegación, procede inmediatamente.",
-"quest_update": "CorSec Command: < %TO >",
+"quest_update": "Comando CorSec: < %TO >",
 "split_quest_alert": "\\#pcontrast3 Sgt Rhea: < \\#pcontrast1 Pareces haber encontrado un pequeño problema ahí fuera, Capitán. Repara tus heridas y repite la ruta de patrulla. \\#pcontrast3 >",
 "split_quest_alert_fail": "\\#pcontrast3 Sgt Rhea: < \\#pcontrast1 Pareces haber encontrado un pequeño problema ahí fuera, Capitán. Repara tus heridas y repite la ruta de patrulla. \\#pcontrast3 >",
 "title": "Sistema Corellia: Elimina la patrulla enemiga",

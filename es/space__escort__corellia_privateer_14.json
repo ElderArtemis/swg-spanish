@@ -1,7 +1,7 @@
 {
 "arrived_at_loc": "Llegaste al punto de encuentro. Espera aquí a que el carguero termine el salto hiperespacial.",
-"attack_notify": "Computadora táctica: < Se acercan naves de combate. Los escáneres indican armas activadas. >",
-"attack_stopped": "Computadora táctica: < No hay más naves de combate dentro del rango de sensores. >",
+"attack_notify": "Ordenador táctico: < Se acercan naves de combate. Los escáneres indican armas activadas. >",
+"attack_stopped": "Ordenador táctico: < No hay más naves de combate dentro del rango de sensores. >",
 "complete": "Misión cumplida. Buen trabajo piloto. Reporta a tu superior para más instrucciones.",
 "failed_destroy": "¡Dejaste que destruyeran equipos por valor de millones! Reporta a tu superior inmediatamente.",
 "failed_protect": "¡Estoy condenado solo, nunca lo lograré! ¡Tu superior escuchará tu fracaso!",

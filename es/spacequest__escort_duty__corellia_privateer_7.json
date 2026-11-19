@@ -8,7 +8,7 @@
 "attack_notify": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 Vascos en curso de interceptación, sistemas de armas armados. \\#pcontrast3 >",
 "attack_stopped": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 Los sensores indican que ya no hay más vascos con sistemas de armas armados en el área. \\#pcontrast3 >",
 "complete": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Otro comerciante a salvo en la tierra, ¡buen trabajo piloto! \\#pcontrast3 >",
-"duty_update": "CorSec Command: < %TO >",
+"duty_update": "Comando CorSec: < %TO >",
 "failed_destroy": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Todos esos civiles... Estoy seguro de que hiciste todo lo posible piloto, pero esperamos un informe completo sobre lo que ocurrió. \\#pcontrast3 >",
 "failed_protect": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 El barco mercante estaba a punto de ser destruido y tuvo que hacer un salto rápido al hiperespacio. \\#pcontrast3 >",
 "found_loc": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 Tenemos otro barco mercante siendo perseguido por piratas. Dirígete a estas coordenadas rápidamente piloto. \\#pcontrast3 >",

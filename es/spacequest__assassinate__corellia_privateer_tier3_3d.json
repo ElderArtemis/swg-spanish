@@ -14,12 +14,12 @@
 "escort_remaining": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 An escorting craft has been destroyed, %DI remain. \\#pcontrast3 >",
 "escort_wiped_out": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 All escorting craft have been destroyed. \\#pcontrast3 >",
 "failed_escape": "\\#pcontrast3 CorSec Command: < \\#pcontrast1 The attack group got away, this is no good. \\#pcontrast3 >",
-"quest_escort_d": "Finish off all Black Sun craft in the area",
-"quest_escort_t": "Black Sun Fighters",
-"quest_location_d": "An unknown location of Dantooine Space",
-"quest_location_t": "Dantooine System",
-"quest_target_d": "Priority target from this group",
-"quest_target_t": "Black Sun Gunboat",
-"title": "Dantooine System: Destroy the Black Sun attack group",
-"title_d": "Destroy the Black Sun attack group"
+"quest_escort_d": "Elimina a todos los buques de la Black Sun en la zona",
+"quest_escort_t": "Fighters de la Black Sun",
+"quest_location_d": "Una ubicación desconocida en el espacio de Dantooine",
+"quest_location_t": "Sistema de Dantooine",
+"quest_target_d": "Objetivo prioritario de este grupo",
+"quest_target_t": "Buque de fuego de la Black Sun",
+"title": "Sistema de Dantooine: Destruye al grupo de ataque de la Black Sun",
+"title_d": "Destruye al grupo de ataque de la Black Sun"
 }

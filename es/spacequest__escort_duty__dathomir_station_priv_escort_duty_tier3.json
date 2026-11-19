@@ -8,7 +8,7 @@
 "attack_notify": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 Vectores en curso de interceptación, sistemas de armas armados. \\#pcontrast3 >",
 "attack_stopped": "\\#pcontrast3 Tactical Computer: < \\#pcontrast1 Los sensores indican que ya no hay más vectores de combate con sistemas de armas armados en la zona. \\#pcontrast3 >",
 "complete": "Otra victoria, ¡excelente trabajo piloto!",
-"duty_update": "Station Command: < %TO >",
+"duty_update": "Comando de la Estación: < %TO >",
 "failed_destroy": "\\#pcontrast3 Station Command: < \\#pcontrast1 No puedo creer que estos escorias hayan destruido un transporte lleno de inocentes. Necesitaremos un informe completo sobre esta tragedia piloto. \\#pcontrast3 >",
 "failed_protect": "El transporte tuvo que escapar mediante un salto de hiperespacio de emergencia, había demasiados piratas.",
 "found_loc": "Tenemos una solicitud de otro transporte con pasajeros importantes para una escolta segura. Nuevas coordenadas subidas.",

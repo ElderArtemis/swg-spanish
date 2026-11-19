@@ -13,16 +13,16 @@
 "split_quest_alert_fail": "",
 "title_d": "",
 "arrived_at_loc": "¡Llegaste a la ubicación de escaneo. Pronto comenzarás a interceptar la transmisión!",
-"attack_notify": "Computadora táctica:<Se han localizado múltiples cazas enemigos.>",
-"attack_stopped": "Computadora táctica:<Se ha eliminado el viento del caza enemigo.>",
+"attack_notify": "Ordenador táctico:<Se han localizado múltiples cazas enemigos.>",
+"attack_stopped": "Ordenador táctico:<Se ha eliminado el viento del caza enemigo.>",
 "first_attack": "Te han detectado y los cazas enemigos están en ruta de intercepción. Continúa interceptando la transmisión a toda costa.",
 "found_loc": "Subiendo la transmisión coordinada a tu Nav. Dirígete a ese punto para iniciar la transmisión.",
 "mission_complete": "Transmisión interceptada con éxito.",
-"outofrange": "Computadora táctica:<Transmisión perdida. Regresa inmediatamente a la ubicación de la transmisión para restablecer la conexión con la señal.>",
+"outofrange": "Ordenador táctico:<Transmisión perdida. Regresa inmediatamente a la ubicación de la transmisión para restablecer la conexión con la señal.>",
 "outofrange_failed": "Alto Comando Imperial:<Perdimos la señal. No te quedaste lo suficientemente cerca del área de emisión. Informa a tu superior, tienes que explicar algo serio.>",
 "quest_update": "Alto Comando Imperial:<%TO>",
 "title": "Interceptar la señal de Nym",
-"trans_update": "Computadora táctica:<%DI minutos hasta que la transmisión se complete.>",
-"transmission_received": "Computadora táctica:<Transmisión completada.>",
-"transmission_start": "Computadora táctica:<Se encontró la señal. Iniciando transmisión a la base.>"
+"trans_update": "Ordenador táctico:<%DI minutos hasta que la transmisión se complete.>",
+"transmission_received": "Ordenador táctico:<Transmisión completada.>",
+"transmission_start": "Ordenador táctico:<Se encontró la señal. Iniciando transmisión a la base.>"
 }

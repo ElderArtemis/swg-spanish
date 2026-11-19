@@ -15,11 +15,11 @@
 "escort_wiped_out": "\\#pcontrast3 Tactical Comptuer: < \\#pcontrast1 Todos los vehículos de escolta han sido destruidos. \\#pcontrast3 >",
 "failed_escape": "Se ha escapado, esto no es bueno.",
 "quest_escort_d": "Irrelevante para la misión, se separarán una vez destruido su líder.",
-"quest_escort_t": "Black Sun Fighters",
+"quest_escort_t": "¡Luchadores del Sol Negro!",
 "quest_location_d": "En algún lugar del Sistema Yavin",
 "quest_location_t": "Sistema Yavin",
 "quest_target_d": "Uno de los operativos de rango alto del Black Sun local",
-"quest_target_t": "Black Sun Ace",
+"quest_target_t": "¡As del Sol Negro!",
 "title": "Sistema Yavin: Elimina al Black Sun Ace",
 "title_d": "Elimina la competencia para las rutas de envío de Yavin"
 }

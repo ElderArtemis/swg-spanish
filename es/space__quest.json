@@ -10,7 +10,7 @@
 "capture_recovery_success": "¡La nave capturada ha sido asegurada!",
 "capture_started": "Operación de captura del objetivo principal en curso.",
 "close": "Cerrar",
-"convoy": "Space: Convoy",
+"convoy": "Espacio: Convoy",
 "convoy_perfect": "¡Has protegido con éxito todo el convoy! Se ha otorgado un bono de %DI créditos a tu equipo.",
 "convoy_survived": "%DF% del convoy llegó sano y salvo! Cada miembro de tu equipo recibirá %DI créditos como pago.",
 "delivery": "Space: Entrega",
@@ -19,7 +19,7 @@
 "destroy": "Space: Destruir",
 "destroy_abandoned": "Has finalizado tu misión de servicio.",
 "destroy_duty": "Space: Destrucción de Servicio",
-"destroy_duty_boss_dead": " \\#pcontrast3 Computadora Táctica: < \\#00ff00 La ala del comandante enemigo ha sido eliminada! \\#pcontrast3 >",
+"destroy_duty_boss_dead": " \\#pcontrast3 Ordenador táctico: < \\#00ff00 La ala del comandante enemigo ha sido eliminada! \\#pcontrast3 >",
 "destroy_duty_boss_detected": " \\#pcontrast3 > \\#ff0000 El ala del comandante enemigo se dirige a atacar! \\#pcontrast3 <",
 "destroy_duty_boss_reward": ">  \\#pcontrast1 Bono por eliminación de ala de comando: \\#pcontrast2 %DI \\#pcontrast1 créditos. <",
 "destroy_duty_complete_reward": ">  \\#pcontrast1 Bono por finalización de servicio: \\#pcontrast2 %DI \\#pcontrast1 créditos. <",
@@ -29,7 +29,7 @@
 "destroy_duty_round_reward": "\\#pcontrast3 > \\#pcontrast1 Todas las olas eliminadas. Recompensa: \\#pcontrast2 %DI \\#pcontrast1 créditos. \\#pcontrast3 <",
 "destroy_duty_target_detected": " \\#pcontrast3 > \\#pcontrast1 Los objetivos enemigos están en un vector de ataque! \\#pcontrast3 <",
 "destroy_duty_target_located": "\\#pcontrast3 > \\#pcontrast1 Objetivo de servicio localizado. Se ha creado un punto de ruta. \\#pcontrast3 <",
-"destroy_duty_targets_remaining": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Objetivo destruido. %DI objetivo(s) restante(s). \\#pcontrast3 >",
+"destroy_duty_targets_remaining": " \\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Objetivo destruido. %DI objetivo(s) restante(s). \\#pcontrast3 >",
 "destroy_remainder_update": "objetivos restantes por destruir.",
 "destroy_remainder_update_disable": "objetivos restantes por desactivar.",
 "destroy_special_reward": "se han otorgado créditos como bonificación por un desempeño sobresaliente de la misión.",
@@ -125,7 +125,7 @@
 "target_disabled2": "¡Has desactivado tu objetivo!",
 "valarian_sidequest": "Lady Valarian",
 "warpout_failure": "\\#ff0000 Has tardado demasiado en completar la misión. ¡Un objetivo crítico ha abandonado el sistema! \\#pcontrast3\n",
-"wave_defeated": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Se ha destruido una oleada de enemigos. \\#pcontrast3 >",
-"wave_launched": " \\#pcontrast3 Computadora táctica: < \\#pcontrast1 Una oleada de enemigos está atacando! \\#pcontrast3 >",
-"destroy_duty_targets_dead": " \\#pcontrast3 Computadora táctica: < \\#ffff00Todos los objetivos enemigos destruidos. \\#pcontrast3 >"
+"wave_defeated": " \\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Se ha destruido una oleada de enemigos. \\#pcontrast3 >",
+"wave_launched": " \\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Una oleada de enemigos está atacando! \\#pcontrast3 >",
+"destroy_duty_targets_dead": " \\#pcontrast3 Ordenador táctico: < \\#ffff00Todos los objetivos enemigos destruidos. \\#pcontrast3 >"
 }

@@ -1,5 +1,5 @@
 {
-"boss_detected": "Computadora táctica: < Vessel con insignias veteranas en vector de ataque, sistemas de armas armados. >",
+"boss_detected": "Ordenador táctico: < Vessel con insignias veteranas en vector de ataque, sistemas de armas armados. >",
 "boss_title_1": "Piloto experimentado de Interceptor TIE",
 "boss_title_2": "Piloto temerario de Interceptor TIE",
 "boss_title_3": "Piloto de élite de Interceptor TIE",
@@ -20,8 +20,8 @@
 "quest_destroy_t": "Actividad Imperial reportada.",
 "quest_location_d": "Viaja al sistema Lok para cazar patrullas Imperiales.",
 "quest_location_t": "Sistema Lok.",
-"targets_behind": "Computadora táctica: < Ten en cuenta, naves intentando apuntar a esta nave con sus sistemas de armas. Origen del ataque 180 grados. >",
-"targets_detected": "Computadora táctica: < Naves que coinciden con el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
+"targets_behind": "Ordenador táctico: < Ten en cuenta, naves intentando apuntar a esta nave con sus sistemas de armas. Origen del ataque 180 grados. >",
+"targets_detected": "Ordenador táctico: < Naves que coinciden con el perfil de la nave cazada en vector de ataque, sistemas de armas armados. >",
 "taunt_1": "Tu resistencia es inútil, ¡el Imperio está en todas partes!",
 "taunt_2": "¿Por qué los Rebeldes se molestan? No puedes ganar.",
 "taunt_3": "¿Por qué haces esto, Rebelde? El Imperio es lo mejor para la galaxia.",

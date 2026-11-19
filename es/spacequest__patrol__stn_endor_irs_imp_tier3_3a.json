@@ -10,7 +10,7 @@
 "quest_location_t": "El Faro Onyx",
 "quest_patrol_d": "Viaja aquí para completar esta parte del Gran Recorrido",
 "quest_patrol_t": "Destino de la Lega",
-"split_quest_alert": "\\#pcontrast3 Computadora Táctica: < \\#pcontrast1 Nave hostil detectada en vector de ataque. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Nave hostil detectada en vector de ataque. \\#pcontrast3 >",
 "title": "Sistema Endor: El Gran Recorrido - Faro Onyx",
 "title_d": "Un fenómeno en las comunicaciones estelares, los \"faro\" son ubicaciones en el espacio creadas por la interacción de radiación, cuerpos de alta gravedad y algunas fuerzas no identificadas pero clave que se utilizan para recopilar transmisiones de ráfagas retransmitidas. Estas estaciones de relevo naturales son populares entre piratas, contrabandistas y, en los últimos años, la Alianza Rebelde debido a la alta dificultad para interceptar transmisiones."
 }

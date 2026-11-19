@@ -1,6 +1,6 @@
 {
 "Quest Log Data": "Texto",
-"boss_detected": " \\#pcontrast3 Computadora táctica:  \\#pcontrast1 < ¡¡Advertencia! ¡Comandante enemigo detectado en vector de ataque! \\#pcontrast3 >",
+"boss_detected": " \\#pcontrast3 Ordenador táctico:  \\#pcontrast1 < ¡¡Advertencia! ¡Comandante enemigo detectado en vector de ataque! \\#pcontrast3 >",
 "boss_title_0": "Teniente pirata",
 "boss_title_1": "Capitán pirata",
 "boss_title_2": "Capitán renegado",
@@ -22,8 +22,8 @@
 "quest_destroy_t": "Destruir combatientes de Nym",
 "quest_location_d": "Viaja al sistema Lok y ataca a los combatientes de Nym allí. Recibirás un punto de ruta Nav a las áreas bajo control de Nym.",
 "quest_location_t": "Viajar al Sistema Lok",
-"targets_behind": " \\#pcontrast3 Computadora táctica:  < \\#pcontrast1 ¡¡Objetivos enemigos provenientes de la retaguardia! \\#pcontrast3 >",
-"targets_detected": " \\#pcontrast3 Computadora táctica:  < \\#pcontrast1 ¡¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
+"targets_behind": " \\#pcontrast3 Ordenador táctico:  < \\#pcontrast1 ¡¡Objetivos enemigos provenientes de la retaguardia! \\#pcontrast3 >",
+"targets_detected": " \\#pcontrast3 Ordenador táctico:  < \\#pcontrast1 ¡¡Objetivos enemigos en vector de ataque entrante! \\#pcontrast3 >",
 "taunt_1": "¡Ja, eso es todo lo que tienes?",
 "taunt_2": "¡Vas a pagar por eso!",
 "taunt_3": "Escoria imperial como tú no tiene negocio en Lok.",

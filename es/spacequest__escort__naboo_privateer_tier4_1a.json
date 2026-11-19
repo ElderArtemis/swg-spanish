@@ -10,12 +10,12 @@
 "split_quest_alert_fail": "",
 "abort": "Has fallado porque abortaste.",
 "arrived_at_loc": "\\#pcontrast3 RSF Command: < \\#pcontrast1 El escáner está saliendo de hiperspacio pronto.  Esto no es una escolta rutinaria, estos buques son objetivos prioritarios. \\#pcontrast3 >",
-"attack_notify": "\\#pcontrast3 Computadora Táctica: < \\#pcontrast1 Se han detectado buques enemigos en vector de ataque. \\#pcontrast3 >",
-"attack_stopped": "\\#pcontrast3 Computadora Táctica: < \\#pcontrast1 La actividad hostil ha cesado. \\#pcontrast3 >",
+"attack_notify": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Se han detectado buques enemigos en vector de ataque. \\#pcontrast3 >",
+"attack_stopped": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 La actividad hostil ha cesado. \\#pcontrast3 >",
 "complete": "El escáner ha vuelto a saltar",
 "failed_destroy": "Has fallado porque el buque de escolta ha sido destruido.",
 "failed_protect": "Has fallado al proteger el escáner.",
-"found_loc": "\\#pcontrast3 Computadora de Navegación: < \\#pcontrast1 La ubicación del punto de encuentro ha sido cargada. \\#pcontrast3 >",
+"found_loc": "\\#pcontrast3 Ordenador de Navegación: < \\#pcontrast1 La ubicación del punto de encuentro ha sido cargada. \\#pcontrast3 >",
 "goodbye_1": "Esto es todo lo que necesitábamos, gracias por la escolta.",
 "goodbye_2": "Esto es todo lo que necesitábamos, gracias por la escolta.",
 "goodbye_3": "Esto es todo lo que necesitábamos, gracias por la escolta.",
@@ -50,6 +50,6 @@
 "thanks_3": "Buen trabajo.",
 "thanks_4": "Buen trabajo.",
 "thanks_5": "Buen trabajo.",
-"title": "Endor System: Escort the RSF Scanner",
-"title_d": "Escort a RSF deep space scanner through the Endor System"
+"title": "Sistema Endor: escolta el escáner RSF",
+"title_d": "escolta un escáner RSF de espacio profundo a través del Sistema Endor"
 }

@@ -1,5 +1,5 @@
 {
-"boss_detected": "Tactical Computer: < Vessel with veteran insignias on attack vector, weapon systems armed. >",
+"boss_detected": "Ordenador táctico: < Vessel con insignias de veterano en vector de ataque, sistemas de armas armados. >",
 "boss_title_1": "Piloto de piratas experimentado",
 "boss_title_2": "Piloto de piratas veterano",
 "boss_title_3": "Piloto de piratas veterano sombrío",
@@ -11,7 +11,7 @@
 "dd_boss_taunt_3": "¡Qué pena que te hayas metido conmigo tan temprano en tu carrera, pues marcaré su fin!",
 "dd_boss_taunt_4": "¿Quizá debería volar con una sola mano, para darte una oportunidad?",
 "dd_boss_taunt_5": "¡Tu casco de piloto se verá bien en mi estantería de trofeos, tonto!",
-"duty_update": "Superior Command: < %TO >",
+"duty_update": "Comando superior: < %TO >",
 "found_loc": "La siguiente zona de actividad pirata conocida ha sido cargada en tu ordenador de navegación, procede cuando estés listo.",
 "level_boss": "Superior Command: < Los piratas han enviado a uno de sus mejores pilotos para ocuparse de ti, ¡cuidado! >",
 "level_boss_dead": "Ese ha sido un terror desde que llegó a este sector, ¡gran trabajo piloto!",

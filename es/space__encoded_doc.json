@@ -8,7 +8,7 @@
 "store_waypoint": "Recuperar waypoint",
 "stored_waypoint": "Se ha creado un waypoint a las coordenadas del documento.",
 "text_ghostship": "[Este documento contiene un fragmento del libro \"Mystery of the Duskrunner.\"  Una leyenda favorita entre los piratas del sector Tatooine.]\n\n...\n\nNadie volvió a ver al Duskrunner después de ese día fatídico. El vacío negro parecía devorar al viejo pirata. Su capitán nunca lanzó un faro de socorro, probablemente se perdió con el barco como es la antigua tradición. La leyenda, susurrada en la parte trasera de las cantinas más cuestionables, dice que a ese bandido deshonorable se le negó ese destino honorable. Dicen que el Duskrunner todavía ronda las rutas de envío no usadas de Tatooine. Que aparece de vez en cuando para cazar barcos desprevenidos que cruzan su camino.\n\nEste historiador no cree en los cuentos salvajes de piratas ebrios, pero la leyenda vive y sigue activa hoy en día.\n\n[También existe un subarchivo pequeño en el registro del fragmento.]\n\n\"...Sé lo que vi y vi al Duskrunner! He guardado las coordenadas en este archivo. Dicen que no se puede matar, pero que pagará una parte de su botín a cualquier hombre valiente que la cace y la enfrente! Una señal de socorro falsa en el lugar correcto... esta es nuestra oportunidad...\"",
-"title_ghostship": "Mystery of the Duskrunner",
+"title_ghostship": "Misterio del Duskrunner",
 "toofar_ghostship": "Debes acercarte al waypoint antes de intentar enviar la señal de socorro al barco fantasma.",
 "trigger_ghostship": "Enganjas una señal de socorro falsa, esperando atraer la atención del legendario Duskrunner.",
 "use": "Usar",

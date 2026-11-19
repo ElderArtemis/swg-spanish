@@ -11,7 +11,7 @@
 "abort": "¡Tus órdenes eran escoltarnos por esta zona! El Alto Mando escuchará de este fracaso, te lo aseguro.",
 "arrived_at_loc": "¡Mantente atento a la llegada del transporte de prisioneros! Esperamos un vuelo sin contratiempos.",
 "attack_notify": "\\#pcontrast1 Tactical Computer:\\#pcontrast3 <¡Alerta! Se detectan cazas enemigos.>",
-"attack_stopped": "\\#pcontrast1 Computadora táctica:\\#pcontrast3 <Ala de cazas enemiga eliminada.>",
+"attack_stopped": "\\#pcontrast1 Ordenador táctico:\\#pcontrast3 <Ala de cazas enemiga eliminada.>",
 "complete": "¡Nave de prisión depositando su carga en la superficie del planeta! Buen trabajo, piloto.",
 "failed_destroy": "¡Sólo eran prisioneros, pero eso no es excusa para incumplir una orden directa! Informa a tu superior.",
 "failed_protect": "¡Dejaste tu objetivo! Eso es inaceptable. Informa a la comisaría.",

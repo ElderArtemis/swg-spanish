@@ -32,7 +32,7 @@
 "quest_location_t": "Sistema Corellia",
 "quest_rendezvous_d": "Vuela a este punto para encontrarte con el carguero que estás escoltando.",
 "quest_rendezvous_t": "Encuentro con el carguero",
-"quest_update": "CorSec Command: < %TO >",
+"quest_update": "Comando CorSec: < %TO >",
 "reason_1": "Acabamos de escapar de los piratas en el sector OC-3101, nos persiguen. Ayúdanos.",
 "reason_2": "Acabamos de escapar de los piratas en el sector OC-3101, nos persiguen. Ayúdanos.",
 "reason_3": "Acabamos de escapar de los piratas en el sector OC-3101, nos persiguen. Ayúdanos.",

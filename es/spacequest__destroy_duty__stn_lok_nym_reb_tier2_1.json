@@ -17,7 +17,7 @@
 "taunt_5": "",
 "boss_detected": "\\#pcontrast3 Se ha enviado una nave avanzada.",
 "complete": "\\#pcontrast3 La misión está completa",
-"found_loc": "\\#pcontrast3 Computadora de navegación: < \\#pcontrast1 Punto de ruta a la siguiente concentración de cazas del Escuadrón de tormenta encontrado. \\#pcontrast3 >",
+"found_loc": "\\#pcontrast3 Ordenador de navegación: < \\#pcontrast1 Punto de ruta a la siguiente concentración de cazas del Escuadrón de tormenta encontrado. \\#pcontrast3 >",
 "level_boss": "\\#pcontrast3 Se han detectado cazas avanzados.",
 "level_boss_dead": "\\#pcontrast3 Su capitán ha sido eliminado.",
 "level_increase": "\\#pcontrast3 La actividad enemiga ha aumentado.",
@@ -25,8 +25,8 @@
 "quest_destroy_t": "Destruir objetivo",
 "quest_location_d": "La posición de los cazas imperiales se actualizará a medida que completes tus tareas",
 "quest_location_t": "Sistema Lok",
-"targets_behind": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Nave hostil detectada desde la retaguardia. \\#pcontrast3 >",
-"targets_detected": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Nave hostil detectada en vector de ataque. \\#pcontrast3 >",
+"targets_behind": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Nave hostil detectada desde la retaguardia. \\#pcontrast3 >",
+"targets_detected": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Nave hostil detectada en vector de ataque. \\#pcontrast3 >",
 "title": "Sistema Lok: Misión: Destruir los cazas del Escuadrón de tormenta",
 "title_d": "Los cazas del Escuadrón de tormenta imperial han infestado el Sistema Lok. Destrúyelos para preservar nuestros derechos de pirata."
 }

@@ -1,8 +1,8 @@
 {
-"abort": "Abort code recognized. Proceed as normal.",
+"abort": "Código de aborto reconocido. Procede normalmente.",
 "arrived_at_loc": "Coordenadas confirmadas. Buscando objetivo... ... ...",
-"attack_notify": "Computadora Táctica: < ¡Alerta! ¡Alerta! ¡Se detectan buques con sistemas de armas armados! Procede con precaución. >",
-"attack_stopped": "Computadora Táctica: < Área despejada. Los sensores no indican peligro inmediato. Procede como de costumbre. >",
+"attack_notify": "Ordenador táctico: < ¡Alerta! ¡Alerta! ¡Se detectan buques con sistemas de armas armados! Procede con precaución. >",
+"attack_stopped": "Ordenador táctico: < Área despejada. Los sensores no indican peligro inmediato. Procede como de costumbre. >",
 "complete": "El carguero ha llegado sano y salvo. ¡Buen trabajo, piloto!",
 "duty_update": "Comando del Sector Comercial: < %TO >",
 "failed_destroy": "¡Fracaso total! ¡Tu superior será notificado!",

@@ -10,7 +10,7 @@
 "quest_location_t": "Sistema Endor",
 "quest_patrol_d": "Viaja aquí para completar la patrulla",
 "quest_patrol_t": "Punto de ruta de patrulla",
-"split_quest_alert": "\\#pcontrast3 Computadora táctica: < \\#pcontrast1 Detectando múltiples firmas de hiperspacio. \\#pcontrast3 >",
+"split_quest_alert": "\\#pcontrast3 Ordenador táctico: < \\#pcontrast1 Detectando múltiples firmas de hiperspacio. \\#pcontrast3 >",
 "title": "Sistema Endor: Patrulla por la presencia de Black Sun",
 "title_d": "Mantén la vista en la agresión de Black Sun"
 }

@@ -1,7 +1,7 @@
 {
 "angry_disable": "",
 "Quest Log Data": "Texto",
-"abort": "Roger, abort code received. Heading home...",
+"abort": "Roger, código de aborto recibido. Volviendo a casa...",
 "arrival_phase_1": "El contrabandista debería llegar en cualquier momento.",
 "arrival_phase_2": "El contrabandista ha llegado. Desactiva al contrabandista y captura la nave!",
 "attack_notify": "\\#pcontrast1 Tactical Computer:\\#pcontrast3 <Incoming enemy fighters detected.>",
@@ -45,7 +45,7 @@
 "quest_recover_t": "Capturar el carguero de Nym",
 "quest_update": " \\#pcontrast3 Comando Imperial: < \\#pcontrast1 %TO \\#pcontrast3 >",
 "recovery_success": "El cargamento del contrabandista está asegurado. Buen trabajo, piloto.",
-"target_disabled": " \\#pcontrast3 Computadora Táctica: < \\#00ff00 La nave del contrabandista ha sido desactivada y el ultimátum entregado. \\#pcontrast3 >",
+"target_disabled": " \\#pcontrast3 Ordenador táctico: < \\#00ff00 La nave del contrabandista ha sido desactivada y el ultimátum entregado. \\#pcontrast3 >",
 "taunt_1": "Ese es el carguero de Nym.",
 "taunt_2": "No tienes negocio aquí, Imperial.",
 "taunt_3": "¿Por qué no vuelves de donde viniste?",

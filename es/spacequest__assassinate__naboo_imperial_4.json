@@ -11,7 +11,7 @@
 "arrival_phase_1": "Mantente alerta. Estamos escaneando el sistema para localizar al comandante rebelde.",
 "arrival_phase_2": "Tenemos la ubicación del comandante rebelde. Te hemos enviado un punto de ruta de navegación a su posición actual. Se está moviendo, así que tendrás que destruirlo antes de que pueda salir del sistema.",
 "assassinate_success": "Buen trabajo, piloto. El líder rebelde ha sido destruido y los rebeldes están huyendo. Regresa a tu comandante y reporta.",
-"escort_remaining": "\\#pcontrast1 Computadora táctica:\\#pcontrast3 <%DI escoltas restantes.>",
+"escort_remaining": "\\#pcontrast1 Ordenador táctico:\\#pcontrast3 <%DI escoltas restantes.>",
 "failed_escape": "¡Has dejado que el líder del escuadrón se escape! Eso es inaceptable. Afortunadamente, parece que el líder cometió un error en sus coordenadas de salto y sigue en el sistema. Mantente alerta.",
 "quest_location_d": "Viaja al sistema Naboo e intercepta al Jefe de Escuadrón X-wing antes de que pueda salir del área.",
 "quest_location_t": "Viaja al Sistema Naboo",
