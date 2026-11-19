@@ -1,0 +1,21 @@
+{
+"cantwork": "Entiendo que ya estás trabajando para alguien más. Vuelve cuando hayas terminado ese trabajo.",
+"gotowork": "Necesito que termines la tarea que te di antes. ¿Vale?",
+"not_it": "No, lo siento, ese no es el objeto que buscaba...",
+"npc_1_1": "¡Mi socio necesita recuperar su maletín! Se fue a una reunión sin él. Si lo llevas a él, te dará algunos bolígrafos grabados de nuestra empresa.",
+"npc_1_2": "Mi socio se dirigía a una subasta para vender algunos de nuestros activos. Necesitamos el dinero para mantener el negocio a flote, pero olvidó uno de los objetos que vendíamos. ¿Puedes llevarlo a él? Está justo fuera de la ciudad.",
+"npc_2_1": "Excelente. Te pagará cuando realices la entrega.",
+"npc_2_2": "Genial. Me aseguraré de que reciba el mensaje de que vienes.",
+"npc_3_1": "Bueno, si no puedes ayudarme, espero encontrar a alguien que sí lo haga.",
+"npc_3_2": "Qué lástima. Buscaré a alguien útil.",
+"npc_4_1": "Todo el papeleo que necesita firmar en la reunión. Es vital que llegue allí.",
+"npc_4_2": "Es un trofeo autografiado de alguna figura deportiva. No sé quién es, pero quiero entregárselo para que lo venda.",
+"npc_reward_1": "Aquí tienes. Necesita tinta, pero nunca tendrás una mejor.",
+"npc_reward_2": "Aquí tienes. Veo que tenía buenos asientos, y no los dejé arruinarse. Deberías poder conseguir algo por él si quieres.",
+"player_1_1": "Claro, lo dejo.",
+"player_1_2": "No hay problema. Buscaba algo que hacer.",
+"player_2_1": "Nah, no me apetece.",
+"player_2_2": "Lo siento, estoy un poco ocupado en este momento.",
+"player_3_1": "¿Qué había en el maletín?",
+"player_3_2": "¿Cuál es el objeto exactamente?"
+}

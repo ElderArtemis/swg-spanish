@@ -1,0 +1,21 @@
+{
+"cantwork": "Entiendo que ya estás trabajando para alguien más. Vuelve cuando hayas terminado con ese trabajo.",
+"gotowork": "Necesito que termines esa tarea que te di antes. ¿Vale?",
+"not_it": "No, lo siento, ese no es el objeto que buscaba...",
+"npc_1_1": "Hay un asesino en este planeta que ha estado matando a todos los científicos de alto rango de la zona. Quiero que lo elimines y estoy dispuesto a pagar bien por ello. ¿Puedes hacerlo?",
+"npc_1_2": "Uno de nuestros asistentes se ha vuelto loco y planea liberar un tóxico en el aire que matará toda la vegetación de este planeta. Debe ser detenido. Puedo decirte dónde está si lo detienes.",
+"npc_2_1": "Pensé que sí. Pareces un buen hombre. Te haré ganar mucho.",
+"npc_2_2": "Gracias. Lo aprecio mucho. Encontraré algo que darte cuando regreses.",
+"npc_3_1": "Bueno, ciertamente hay otros artefactos. Lástima que este fuera realmente bueno...",
+"npc_3_2": "Genial. Entonces estoy perdiendo el tiempo contigo. ¿Conoces a alguien que realmente trabaje?",
+"npc_4_1": "Nadie lo sabe. Parece tener algún problema con el trabajo que hacemos, pero no sabemos por qué.",
+"npc_4_2": "Es un agente altamente clasificado que usábamos para destruir plantas venenosas, pero lo ha modificado para matar todo el material vegetal.",
+"npc_reward_1": "Aquí tienes, estos bichos son muy raros y podrían valer mucho si encuentras un comprador.",
+"npc_reward_2": "Aquí tienes. Encontré esta bonita foto de la criatura que estaba estudiando. Es todo lo que tengo para darte.",
+"player_1_1": "Estoy dispuesto a hacerlo.",
+"player_1_2": "Detendré a este tipo antes de que comience.",
+"player_2_1": "No me importa los científicos. Olvídalo.",
+"player_2_2": "Oh, Dios mío, no me importa nada de ti ni de tu problema.",
+"player_3_1": "¿Por qué está matando a los científicos?",
+"player_3_2": "¿Qué es este tóxico?"
+}

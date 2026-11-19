@@ -1,0 +1,21 @@
+{
+"cantwork": "Entiendo que ya estás trabajando para alguien más. Vuelve cuando hayas terminado ese trabajo.",
+"gotowork": "Necesito que termines esa tarea que te di antes. ¿Vale?",
+"not_it": "No, lo siento, ese no es el objeto que buscaba...",
+"npc_1_1": "He sido curador de museo durante muchos años, y en este planeta encontramos la tumba más antigua que he visto. Desafortunadamente, unos saqueadores de tumbas se llevaron el artefacto que estaba estudiando. Si fueras tan amable, ¿podrías recuperarlo?",
+"npc_1_2": "He estado investigando animales, pero un espía industrial se llevó una de mis jaulas. Todavía tenía algunas estructuras de celda del animal. Necesito que lo devuelvas antes de que él descubra lo que hay dentro. ¿Puedes ayudarme?",
+"npc_2_1": "Lo pensé. Pareces un buen tipo. Te lo haré valer.",
+"npc_2_2": "Gracias. Lo aprecio mucho. Encontraré algo para darte cuando regreses.",
+"npc_3_1": "Bueno, ciertamente hay otros artefactos. Lástima que este fuera realmente bueno...",
+"npc_3_2": "Genial. Entonces estoy perdiendo el tiempo contigo. ¿Conoces a alguien que DEJE de trabajar?",
+"npc_4_1": "Era algún tipo de dispositivo ritual antiguo. Necesito estudiarlo más para saber exactamente para qué servía.",
+"npc_4_2": "Eso está altamente clasificado. Por eso necesito que devuelvas esa evidencia antes de que alguien descubra lo que estaba haciendo. No tienes problema con esto, ¿verdad?",
+"npc_reward_1": "Aquí tienes, estos insectos son muy raros y podrían valer mucho si encuentras un comprador.",
+"npc_reward_2": "Aquí tienes. Encontré esta bonita foto del animal que estaba estudiando. Eso es todo lo que tengo que darte.",
+"player_1_1": "Sí, lo consigo. Odio a los saqueadores de tumbas.",
+"player_1_2": "Lo recuperaré. La espionaje industrial es una cosa terrible.",
+"player_2_1": "No me importan los artefactos. Olvídalo.",
+"player_2_2": "Oh, no me importa un comino a ti ni a tu problema.",
+"player_3_1": "¿Cuál era el artefacto?",
+"player_3_2": "¿Qué tipo de criaturas estabas estudiando?"
+}

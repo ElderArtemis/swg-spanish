@@ -1,0 +1,22 @@
+{
+"npc_msn_05_busy_01": "Por supuesto. ¿Te interesa algo que hacer?",
+"npc_msn_05_decline": "Oh, vaya. Pues tendré que esperar a otra persona...",
+"npc_msn_05_done_01": "Vuelve cuando cambies de opinión.",
+"npc_msn_05_friend_greeting_01": "¡Pues hola!",
+"npc_msn_05_friend_greeting_02": "Encantado de verte de nuevo.",
+"npc_msn_05_friend_greeting_onmission": "¿No deberías estar ayudando a mi amigo, aquí?",
+"npc_msn_05_friend_work_01": "Deberías hablar con mi amigo. Hay trabajo que hacer, pero es demasiado peligroso para mí.",
+"npc_msn_05_greeting_01": "Hola. Creo que probablemente necesites algo de trabajo.",
+"npc_msn_05_greeting_02": "Tú otra vez.",
+"npc_msn_05_greeting_onmission": "No voy a tratar contigo hasta que termines tu trabajo.",
+"npc_msn_05_greeting_onothermission": "Pareces ya ocupado.",
+"npc_msn_05_presp_getmission_01": "Cuéntame de qué se trata.",
+"npc_msn_05_presp_getmission_02": "¿Tienes un trabajo?",
+"npc_msn_05_presp_getmission_03": "Entonces, ¿tienes algo para mí?",
+"npc_msn_05_presp_getmission_04": "Cuéntame sobre el trabajo.",
+"npc_msn_05_presp_getmission_05": "En realidad, no estoy listo para trabajar ahora mismo.",
+"npc_msn_05_presp_greeting_01": "Así es.",
+"npc_msn_05_presp_greeting_02": "¿Tienes trabajo?",
+"npc_msn_05_work_01": "Lo supe de inmediato.",
+"npc_msn_05_work_02": "Tengo algo que puedes hacer."
+}

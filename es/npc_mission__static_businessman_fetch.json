@@ -1,0 +1,21 @@
+{
+"cantwork": "Entiendo que ya estás trabajando para alguien más. Vuelve cuando hayas terminado con ese trabajo.",
+"gotowork": "Necesito que termines esa tarea que te di antes. ¿Vale?",
+"not_it": "No, lo siento, ese no es el objeto que buscaba...",
+"npc_1_1": "Tenía muchos papeles importantes en mi maletín, ¡y ahora se han ido! Un ladrón se los llevó. Si lo recuperas te daré este estilógrafo grabado que conseguí con mi ascenso.",
+"npc_1_2": "Tenía una pelota autografiada de mi jugador favorito de la liga, ¡y alguien la tomó! Si la recuperas para mí te daré este boleto de coleccionista de los campeonatos del año pasado. Vale mucho.",
+"npc_2_1": "Gracias... Estaré esperando ansiosamente tu regreso.",
+"npc_2_2": "¡Genial! Vuelve rápido.",
+"npc_3_1": "Seguramente alguien podrá ayudarme. Gracias por nada, aunque.",
+"npc_3_2": "Qué lástima. Buscaré a alguien útil.",
+"npc_4_1": "Era principalmente mi contabilidad personal, pero hay algunos documentos sensibles que no puedo comentar.",
+"npc_4_2": "¿No sigues deportes en absoluto? Si lo hicieras sabrías de lo que hablo.",
+"npc_reward_1": "Aquí tienes. Necesita tinta, pero nunca tendrás una mejor.",
+"npc_reward_2": "Aquí tienes. Veo que tenía buenos asientos y no los dejé rasgar. Deberías poder conseguir algo por ello si quieres.",
+"player_1_1": "Volveré antes de que te des cuenta.",
+"player_1_2": "Volveré con tu pelota, chico.",
+"player_2_1": "No hay forma. Estoy demasiado cansado ahora.",
+"player_2_2": "Nah. No me importan los deportes.",
+"player_3_1": "¿Qué tipo de documentos tenías?",
+"player_3_2": "¿De qué liga hablas?"
+}

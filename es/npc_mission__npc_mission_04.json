@@ -1,0 +1,22 @@
+{
+"npc_msn_04_busy_01": "¿No solo llegas tarde, también eres incompetente? ¿Es eso lo que ha pasado?",
+"npc_msn_04_decline": "Oh, vaya. Pues tendré que esperar a otra persona…",
+"npc_msn_04_done_01": "Bien, aléjate de mi vista. Ya me cansé de ti.",
+"npc_msn_04_friend_greeting_01": "¡Pues hola!",
+"npc_msn_04_friend_greeting_02": "Encantado de verte de nuevo.",
+"npc_msn_04_friend_greeting_onmission": "¿No deberías estar ayudando a mi amigo, aquí?",
+"npc_msn_04_friend_work_01": "Debes hablar con mi amigo. Hay trabajo que hacer, pero es demasiado peligroso para mí.",
+"npc_msn_04_greeting_01": "Pues, ya era hora de que aparecieras.",
+"npc_msn_04_greeting_02": "¿Otra vez tú?",
+"npc_msn_04_greeting_onmission": "¿Aún no has terminado ese trabajo?",
+"npc_msn_04_greeting_onothermission": "¿No estás un poco ocupado para hablar conmigo ahora mismo?",
+"npc_msn_04_presp_getmission_01": "Pues, vamos a ello.",
+"npc_msn_04_presp_getmission_02": "Puedo hacer lo que sea necesario.",
+"npc_msn_04_presp_getmission_03": "Supongo que sí.",
+"npc_msn_04_presp_getmission_04": "¿Cuál es tu problema?",
+"npc_msn_04_presp_getmission_05": "Ya he tenido suficiente de ti.",
+"npc_msn_04_presp_greeting_01": "Necesito un trabajo.",
+"npc_msn_04_presp_greeting_02": "¿Ya era hora? ¿Qué quieres decir?",
+"npc_msn_04_work_01": "¿No lo hace todo el mundo?",
+"npc_msn_04_work_02": "Necesito que hagas este trabajo ahora. No después. Ahora."
+}

@@ -1,0 +1,21 @@
+{
+"npc_msn_01_busy_01": "¿Qué sabrás de eso? ¡Dime lo que quieres o sal de aquí!",
+"npc_msn_01_decline": "Bueno, está bien. De todos modos, no quería tu ayuda.",
+"npc_msn_01_friend_greeting_01": "¡Pues hola!",
+"npc_msn_01_friend_greeting_02": "Encantado de verte de nuevo.",
+"npc_msn_01_friend_greeting_onmission": "¿No deberías estar ayudando a mi amigo, aquí?",
+"npc_msn_01_friend_work_01": "Deberías hablar con mi amigo. Hay trabajo que hacer, pero es demasiado peligroso para mí.",
+"npc_msn_01_greeting_01": "¿Sí? Sabes que no es exactamente el MEJOR momento para interrumpirme.",
+"npc_msn_01_greeting_02": "Tú otra vez.",
+"npc_msn_01_greeting_onmission": "No quiero volver a hablar hasta que hayas terminado lo que te he pedido.",
+"npc_msn_01_greeting_onothermission": "Debes terminar todas tus otras tareas antes de que podamos hablar.",
+"npc_msn_01_presp_getmission_01": "Estoy listo para la acción. ¿Qué tienes para mí?",
+"npc_msn_01_presp_getmission_02": "Estaría encantado de ayudarte. ¿Qué puedo hacer?",
+"npc_msn_01_presp_getmission_03": "¿Podemos saltar el lío y hablar del trabajo, por favor?",
+"npc_msn_01_presp_getmission_04": "No busco problemas, solo un trabajo.",
+"npc_msn_01_presp_getmission_05": "Quiero un trabajo. ¿No tienes algo que necesites que se haga?",
+"npc_msn_01_presp_greeting_01": "Busco trabajo.",
+"npc_msn_01_presp_greeting_02": "No pareces ocupado para mí.",
+"npc_msn_01_work_01": "Eso no es nada nuevo. Tu gente siempre busca trabajos extra, ¿verdad?",
+"npc_msn_01_work_02": "Hmmm.... Ahora que lo pienso, podrías ayudarme."
+}

@@ -1,0 +1,21 @@
+{
+"npc_msn_02_busy_01": "He estado esperando a que alguien me ayude. ¿Estás aquí para ayudar, verdad?",
+"npc_msn_02_decline": "Oh, vaya. Pues tendré que esperar a otra persona...",
+"npc_msn_02_friend_greeting_01": "¡Pues hola!",
+"npc_msn_02_friend_greeting_02": "Me alegra verte de nuevo.",
+"npc_msn_02_friend_greeting_onmission": "¿No deberías estar ayudando a mi amigo, aquí?",
+"npc_msn_02_friend_work_01": "Deberías hablar con mi amigo. Hay trabajo que hacer, pero es demasiado peligroso para mí.",
+"npc_msn_02_greeting_01": "¡Oh, gracias al creador! ¡He estado esperando a que llegues todo el día!",
+"npc_msn_02_greeting_02": "¿Otra vez tú?",
+"npc_msn_02_greeting_onmission": "Necesito que termines esa tarea de la que hablamos antes de hacer cualquier otra cosa.",
+"npc_msn_02_greeting_onothermission": "Debes terminar todas tus otras tareas antes de que podamos hablar.",
+"npc_msn_02_presp_getmission_01": "Dime qué necesitas que haga.",
+"npc_msn_02_presp_getmission_02": "Entonces empecemos. ¿Qué puedo hacer por ti?",
+"npc_msn_02_presp_getmission_03": "¿Qué puedo hacer por ti?",
+"npc_msn_02_presp_getmission_04": "No sabía que sabías quién era.",
+"npc_msn_02_presp_getmission_05": "¿Qué quieres que haga?",
+"npc_msn_02_presp_greeting_01": "¿Hay algo que pueda hacer por ti?",
+"npc_msn_02_presp_greeting_02": "¿Has estado esperando a que llegue?",
+"npc_msn_02_work_01": "Absolutamente. Necesito desesperadamente algo de ayuda.",
+"npc_msn_02_work_02": "Necesito desesperadamente que alguien me ayude."
+}

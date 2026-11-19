@@ -1,0 +1,22 @@
+{
+"npc_msn_03_busy_01": "¡No actúes como si no supieras!",
+"npc_msn_03_decline": "Oh, vaya. Pues tendré que esperar a otra persona...",
+"npc_msn_03_done_01": "Mis problemas son míos...",
+"npc_msn_03_friend_greeting_01": "¡Pues hola!",
+"npc_msn_03_friend_greeting_02": "Encantado de verte de nuevo.",
+"npc_msn_03_friend_greeting_onmission": "¿No deberías estar ayudando a mi amigo, aquí?",
+"npc_msn_03_friend_work_01": "Deberías hablar con mi amigo. Hay trabajo que hacer, pero es demasiado peligroso para mí.",
+"npc_msn_03_greeting_01": "Espera... ¿quién eres? ¿No estás con ELLOS?",
+"npc_msn_03_greeting_02": "Tú otra vez.",
+"npc_msn_03_greeting_onmission": "Estoy empezando a perder la fe en ti. Entiendo que no has terminado ese trabajo del que hablamos...",
+"npc_msn_03_greeting_onothermission": "¿No estás un poco ocupado para hablar conmigo ahora?",
+"npc_msn_03_presp_getmission_01": "¿Qué puedo hacer?",
+"npc_msn_03_presp_getmission_02": "Empecemos entonces. ¿Qué puedo hacer por ti?",
+"npc_msn_03_presp_getmission_03": "En serio. Necesito algo de trabajo.",
+"npc_msn_03_presp_getmission_04": "Pareces molesto... ¿puedo ayudar?",
+"npc_msn_03_presp_getmission_05": "Tienes problemas serios...",
+"npc_msn_03_presp_greeting_01": "En realidad estoy buscando trabajo.",
+"npc_msn_03_presp_greeting_02": "¿Con QUIÉN?",
+"npc_msn_03_work_01": "Seguro que lo eres... ¿trabajando contra mí, verdad?",
+"npc_msn_03_work_02": "Podría haber algo que puedas hacer... si puedo confiar en ti..."
+}
